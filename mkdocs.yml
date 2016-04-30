@@ -1,0 +1,25 @@
+# If you add a page, you must add it to the index here
+pages:
+  - Home: 'index.md'
+  - GENERAL:
+    - FAQ: 'general/faq.md'
+    - License: 'general/license.md'
+  - MAGENTO 1:
+    - Multistore Pricing: 'magento1/multistore_pricing.md' 
+  - MAGENTO 2:
+    - Defer Javascript: 'magento2/defer_js.md'
+  - HOW TO:
+    - Topics: 'howto.md'
+
+# Do not edit in PRs below here
+site_name: BSS Test Documentation
+
+markdown_extensions:
+  - admonition
+  - smarty
+  - sane_lists
+
+extra_css:
+  - css/style.css
+
+theme: readthedocs
