@@ -8,6 +8,8 @@ pages:
     - Multistore Pricing: 'magento1/multistore_pricing.md' 
   - MAGENTO 2:
     - Defer Javascript: 'magento2/defer_js.md'
+	- Minimum Order Amount for Customer Group:
+	- Lazy Image Loader:
   - HOW TO:
     - Topics: 'howto.md'
 
