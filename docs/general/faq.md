@@ -28,6 +28,3 @@ Installation
 * Go to admin clear cache
 
 > If you find any JS/Jquery conflict or CSS issues, please submit a ticket to support team in Technical Department
-
-Example
------------------------------------------------
