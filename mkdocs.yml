@@ -9,6 +9,7 @@ pages:
   - MAGENTO 2:
     - Defer Javascript: 'magento2/defer_js.md'
     - Minimum Order Amount for Customer Group:  'magento2/minimum_order_amount_for_customer_group.md'
+	- Lazy Image Loader: 'magento2/lazy_image_loader.md'
   - HOW TO:
     - Topics: 'howto.md'
 
