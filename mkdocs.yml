@@ -3,7 +3,18 @@ pages:
   - Home: 'index.md'
   - GENERAL:
     - FAQ: 'general/faq.md'
+		- Magento Extensions
+		- Installation
+		- User Guide and Translation
+		- Payment, Invoices and Refund
+		- License
+		- Common Conflicts/Bugs
     - License: 'general/license.md'
+	- Installation Guide
+	- Uninstallation
+	- Translation
+	- Upgrade Version
+	- Purchase, Payment and Invoices, Support
   - MAGENTO 1:
     - Multistore Pricing: 'magento1/multistore_pricing.md' 
   - MAGENTO 2:
@@ -12,7 +23,7 @@ pages:
     - Topics: 'howto.md'
 
 # Do not edit in PRs below here
-site_name: BSS Test Documentation
+site_name: BSSCommerce Wiki
 
 markdown_extensions:
   - admonition
