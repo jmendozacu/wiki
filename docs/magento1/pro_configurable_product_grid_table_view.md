@@ -1,0 +1,1 @@
+pro_configurable_product_grid_table_view
