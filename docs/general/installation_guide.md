@@ -1,4 +1,4 @@
-### BSS Magento Extension Installation Guidance
+BSS Magento Extension Installation Guidance
 ===============================================
 
 <font class ="step">**Step 1:**</font>  
