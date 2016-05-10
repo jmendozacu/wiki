@@ -1,6 +1,6 @@
 ### BSS Magento Extension Installation Guidance
 
-<font size="20">**Step 1:**</font>
+<font size="14">**Step 1:**</font>  
 When you finish purchasing process, we will immediately send you an email that includes the link to download the extension.
 On the other hand, you can <font color="#404040">[log in](https://bsscommerce.com/customer/account/login/)</font> your account, in <font color="black">[**My Downloadable Products**](https://bsscommerce.com/downloadable/customer/products/)</font> section, click on **Download Link** to download the extension.  
 ![bss_installation_guide_1](images/bss_installation_guide_1.jpg)  
