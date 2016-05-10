@@ -13,7 +13,7 @@ Step 3:
 --------------------------------------
 It’s required to disable cache in the administration panel of your site. Go to **System/Cache Management**. Select all caches and click **Disable** then submit.   
 ![bss_installation_guide](images/installation_guide_1.jpg)  
-![BSS_Installation_guidance_2](images/BSS-Installation-guidance-2.jpg)
+
 
 
 
