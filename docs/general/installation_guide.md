@@ -2,7 +2,7 @@
 Step 1:
 -------------------------------------
 When you finish purchasing process, we will immediately send you an email that includes the link to download the extension.
-On the other hand, you can [log in](https://bsscommerce.com/customer/account/login/) your account, in [**My Downloadable Products**](https://bsscommerce.com/downloadable/customer/products/) section, click on **Download Link** to download the extension.  
+On the other hand, you can <font color="#404040">[log in](https://bsscommerce.com/customer/account/login/)</font> your account, in <font color="black">[**My Downloadable Products**](https://bsscommerce.com/downloadable/customer/products/)</font> section, click on **Download Link** to download the extension.  
 ![bss_installation_guide_1](images/bss_installation_guide_1.jpg)  
 
 Step 2:
@@ -38,7 +38,7 @@ Step 8:
 ---------------------------------------
 Check everything in **front-end** and try to process, make sure that the extension is successfully installed and well compatible with your site.
 #### *Note
-After purchasing it, you should add our skype account at **support.bsscommerce** to contact us if you cannot install the extension by yourself. BSS Support Team will help you to install the **Magento** module and the installation fee will follow our [Terms and Condition](http://bsscommerce.com/terms-conditions) in Installation Policy section. Further assistance is available via Email and Skype.
+After purchasing it, you should add our skype account at **support.bsscommerce** to contact us if you cannot install the extension by yourself. BSS Support Team will help you to install the **Magento** module and the installation fee will follow our <font color="#404040">[Terms and Condition](http://bsscommerce.com/terms-conditions)</font> in Installation Policy section. Further assistance is available via Email and Skype.
 In case, you have followed all above steps but the extension doesn&prime;t work properly, you can delete the file or change the module&prime;s filename extension to keep your website function as normal. Then please contact us at <font color="blue">support@bsscommerce.com</font> or Skype: support.bsscommerce. Our supporters will assist you in resolving any issues within 24 hours.
 You also can see the example about installation guide for Store Locator exention&prime;s video below:   
 [![bss-video](images/sddefault.webp)](https://www.youtube.com/embed/8mmGt24cU_0)
