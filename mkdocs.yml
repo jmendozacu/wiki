@@ -28,7 +28,7 @@ pages:
     - Topics: 'howto.md'
 
 # Do not edit in PRs below here
-site_name: BSSCommerce Wiki latest documentation
+site_name: BSSCommerce Wiki
 
 markdown_extensions:
   - admonition
