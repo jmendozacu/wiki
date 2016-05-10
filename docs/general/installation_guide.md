@@ -9,10 +9,6 @@ Step 2:
 --------------------------------------
 The file that you download is normally a zip file. Then, please properly unzip that file before installing it.
 
-Step 3:
---------------------------------------
-It’s required to disable cache in the administration panel of your site. Go to **System/Cache Management**. Select all caches and click **“Disable”** then submit.   
-
 
 
 
