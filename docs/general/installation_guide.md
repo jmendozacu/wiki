@@ -15,17 +15,5 @@ It’s required to disable cache in the administration panel of your site. Go to *
 ![bss-installation-guide-](images/installation_guide_1.jpg)  
 ![BSS-Installation-guidance-2](images/BSS-Installation-guidance-2.jpg)
 
-Step 4:
---------------------------------------
-Use FTP client (such as Filezilla, WinSCP, cuteFtp) to upload or copy all folders in the zip package to your Magento site root folder. This will not overwrite any existing file; just add new files to the folder structure.
 
-Step 5:
---------------------------------------
-After uploading is done, **log in your Magento administration** panel to refresh cache. Go to **System/Cache Management**. Select all caches and take action **Refresh** then submit.  
-![bss-installation-guide-3](images/installation_guide_3.jpg)
-
-Step 6:
---------------------------------------
-Navigate to **System/Configuration**, if you can see the extension tab, it is installed properly.   
-![bss-installation-guide-4](images/installation_guide_4.jpg)
 
