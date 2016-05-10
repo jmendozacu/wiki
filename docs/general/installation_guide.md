@@ -1,14 +1,14 @@
 ### BSS Magento Extension Installation Guidance
 
-**Step 1:**  
+<i>**Step 1:**</i>  
 When you finish purchasing process, we will immediately send you an email that includes the link to download the extension.
 On the other hand, you can <font color="#404040">[log in](https://bsscommerce.com/customer/account/login/)</font> your account, in <font color="black">[**My Downloadable Products**](https://bsscommerce.com/downloadable/customer/products/)</font> section, click on **Download Link** to download the extension.  
 ![bss_installation_guide_1](images/bss_installation_guide_1.jpg)  
 
-**Step 2:**  
+<i>**Step 2:**</i>  
 The file that you download is normally a zip file. Then, please properly unzip that file before installing it.
 
-**Step 3:**  
+<i>**Step 3:**</i>  
 It&prime;s required to disable cache in the administration panel of your site. Go to **System/Cache Management**. Select all caches and click **&ldquo;Disable&rdquo;** then submit.   
 ![bss-installation-guide-](images/installation_guide_1.jpg)  
 
