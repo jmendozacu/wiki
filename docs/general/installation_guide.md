@@ -6,7 +6,6 @@ On the other hand, you can <font color="#404040">[log in](https://bsscommerce.co
 ![bss_installation_guide_1](images/bss_installation_guide_1.jpg)  
 
 <font class="step">**Step 2:**</font> 
---------------------------------------
 The file that you download is normally a zip file. Then, please properly unzip that file before installing it.
 
 <font class="step">**Step 3:**</font> 
