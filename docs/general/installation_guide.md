@@ -11,7 +11,7 @@ The file that you download is normally a zip file. Then, please properly unzip t
 
 Step 3:
 --------------------------------------
-
+It’s required to disable cache in the administration panel of your site. Go to **System/Cache Management**. 
 
 
 
