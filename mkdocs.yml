@@ -8,7 +8,8 @@ pages:
     - License: 'general/license.md'
     - Translation: 'general/translation.md'
     - Upgrade Version: 'general/upgrade_version.md'
-    - Purchase, Payment and Invoices, Support: 'general/purchase_payment_and_invoices_support.md'
+    - Purchase, Payment and Invoices: 'general/purchase_payment_and_invoices.md'
+    - Support: 'general/support.md'
   - MAGENTO 1:
     - Defer JavaScript: 'magento1/defer_javascript.md' 
     - Minimum Order Amount for Customer Group : 'magento1/minimum_order_amount_for_customer_group.md' 
