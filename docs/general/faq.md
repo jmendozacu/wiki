@@ -1,16 +1,16 @@
 FAQ
 ====================
-
-Do your extensions support multiple domains?
+[navbar]
+*[Do your extensions support multiple domains?](
 -------------------------------------------
 
 Yes, you can.
-
-How to upgrade an extension?
+)
+*[How to upgrade an extension?](
 ------------
 
 Download latest version of extension in My Account – My Downloads. Then you can follow this wiki Version Upgrade for further upgrading.
-
+)
 Can I request trial?
 -------------
 
@@ -28,3 +28,4 @@ Installation
 * Go to admin clear cache
 
 > If you find any JS/Jquery conflict or CSS issues, please submit a ticket to support team in Technical Department
+[/navbar]
