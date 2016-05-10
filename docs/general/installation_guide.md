@@ -11,7 +11,9 @@ The file that you download is normally a zip file. Then, please properly unzip t
 
 Step 3:
 --------------------------------------
-Its required to disable cache in the administration panel of your site. 
+Its required to disable cache in the administration panel of your site. Go to **System/Cache Management**. Select all caches and click **Disable** then submit.   
+![bss_installation_guide](images/installation_guide_1.jpg)  
+![BSS_Installationguidance-2](images/BSS-Installation-guidance-2.jpg)
 
 
 
