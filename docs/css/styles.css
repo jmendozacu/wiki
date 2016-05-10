@@ -30,6 +30,6 @@ h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
  strong{
 	font-size: 20px !important;
 }
-font .note{
+font['color=#2980b9']{
 	font-size: 18px !important;
 }
