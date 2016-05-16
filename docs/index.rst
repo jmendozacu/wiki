@@ -23,7 +23,7 @@ BSSCommerce Wiki latest documentation
    :caption: Magento 1
 	
    multi-store-pricing/index
-   multi-store-pricing/defer_javascript
+   multi-store-pricing/magento_1/defer_javascript
 
 
 
