@@ -1,4 +1,4 @@
-Welcome to BSSCommerce Wiki
+BSSCommerce Wiki latest documentation
 =============================
 
 
