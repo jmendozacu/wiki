@@ -1,4 +1,4 @@
-Multi Store Pricing
+Lazy Image Loader
 ====================
 
 
