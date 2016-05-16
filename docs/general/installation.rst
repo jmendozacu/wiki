@@ -72,6 +72,7 @@ Check everything in **front-end** and try to process, make sure that the extensi
 .. role:: step
 	
 :step:`*Note`
+
 After purchasing it, you should add our skype account at **support.bsscommerce** to contact us if you cannot install the extension by yourself. BSS Support Team will help you to install the **Magento** module and the installation fee will follow our `Terms and Condition <http://bsscommerce.com/terms-conditions>`_ in Installation Policy section. Further assistance is available via Email and Skype.
 In case, you have followed all above steps but the extension doesn’t work properly, you can delete the file or change the module’s filename extension to keep your website function as normal. Then please contact us at support@bsscommerce.com or Skype: support.bsscommerce. Our supporters will assist you in resolving any issues within 24 hours.
 You also can see the example about installation guide for Store Locator exention's video below:   
