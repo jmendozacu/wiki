@@ -1,3 +1,7 @@
 footer{
 	display: none !important;
 }
+
+.step {
+	font-size: 20px;
+}
