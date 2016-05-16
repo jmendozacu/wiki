@@ -1,12 +1,13 @@
 Installation Guidan
 ==========================================================
 
-``Step 1:``
-
+***************
+Step 1:
+***************
 When you finish purchasing process, we will immediately send you an email that includes the link to download the extension.
 On the other hand, you can `log in <https://bsscommerce.com/customer/account/login/>`_ your account, in `My Downloadable Products <https://bsscommerce.com/downloadable/customer/products/>`_ section, click on **Download Link** to download the extension.
 
-.. image:: _img/intallation_giude/bss_installation_guide_1.jpg
+.. image:: images/intallation_giude/bss_installation_guide_1.jpg
 
 ***************
 Step 2:
@@ -18,9 +19,9 @@ Step 3:
 ***************
 It’s required to disable cache in the administration panel of your site. Go to **System/Cache Management**. Select all caches and click **“Disable”** then submit.   
 
-.. image:: _img/intallation_giude/installation_guide_1.jpg
+.. image:: images/intallation_giude/installation_guide_1.jpg
 
-.. image:: _img/intallation_giude/BSS-Installation-guidance-2.jpg
+.. image:: images/intallation_giude/BSS-Installation-guidance-2.jpg
 
 ***************
 Step 4:
@@ -32,14 +33,14 @@ Step 5:
 ***************
 After uploading is done, **log in your Magento administration** panel to refresh cache. Go to **System/Cache Management**. Select all caches and take action **“Refresh”** then submit.
 
-.. image:: _img/installation_guide_3.jpg
+.. image:: images/installation_guide_3.jpg
 
 ***************
 Step 6:
 ***************
 Navigate to **System/Configuration**, if you can see the extension tab, it isinstalled properly.   
 
-.. image:: _img/intallation_giude/installation_guide_4.jpg
+.. image:: images/intallation_giude/installation_guide_4.jpg
 
 
 ***************
