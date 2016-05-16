@@ -121,7 +121,7 @@ html_theme = 'default'
 # documentation.
 html_theme_options = {
 #Text alignment for the body
-'text-align':'justify',
+'cssfiles': ['_static/custom.css']
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
