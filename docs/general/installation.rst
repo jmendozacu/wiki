@@ -61,4 +61,4 @@ You also can see the example about installation guide for Store Locator exention
 
 .. raw:: html
 
-    <iframe width="560" height="315" src="https://youtu.be/8mmGt24cU_0" frameborder="0" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/8mmGt24cU_0" frameborder="0" allowfullscreen></iframe>
