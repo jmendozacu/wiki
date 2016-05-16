@@ -123,6 +123,14 @@ We support PayPal as our payment method you can use to pay for the extension you
 	Your site faces to some conflicts or bugs caused by our extensions, not modules of other Magento providers. 
 	In this case, you have to provide us access to your site to fix and if we cannot fix problems for you, you will be refunded. 
 	In addition, you cannot receive refund from us in the following cases: 
+	
+		- You do not give access account for us to fix bugs if our extension causes these bugs for your site 
+		- The period for 30 – day money back is expired 
+		- You do not purchase the right extension that you tend to buy. 
+		- The extension does not have functions as you want and these functions are not written in the description. 
+		- The incompatibility with third party extensions unless we confirmed compatibility with the specific extensions before your purchase.
+		- Installation services, conflicts resolution and customization services are not refundable
+
 
 
 V.	Some common conflicts/bugs
