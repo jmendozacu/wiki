@@ -14,3 +14,5 @@ I. Magento Extensions
 	you have to select whether you want to purchase it for Magento 1 OR Magento 2. If you purchased a Magento 1 extension,
 	you will need to re-purchase the extension for Magento 2, as Magento 2 is a completely new system and not a simple upgrade.
 	All our extensions had to be developed from scratch for Magento 2
+
+Our Magento 1 extensions are compatible with: 
