@@ -1,17 +1,42 @@
 Purchase, Payment and Invoices
 ===========================
 
+**1.	Purchase process**
 
+	**Step 1:**
+	
+	Choose your wanted extension with edition and quantity and then Click **"Add to cart"** button
+	
+	.. image:: images/purchase-payment-invoices/step1.jpg
+	
+	**Step 2:**
+	
+	Check again the extension along with quantity and total amount in the shopping cart page. 
+		*	You can edit your purchase by clicking **Edit** and then **Click Update Shopping Cart**. 
+			If you want to continue shopping, please click to **"Continue Shopping"** to come back our Homepage.
+		*	Enter discount code if you are provided 
+		*	After that, please click **"Proceed to Checkout"** button to redirect to the checkout page 
+		
+	.. image:: images/purchase-payment-invoices/step2.jpg
+	
+	**Step 3:**
+	
+		*	Fulfill all required information in the Name & Address section 
+		*	Enter discount code if you haven’t yet used it in the shopping cart 
+		*	Review your order carefully 
+		*	Click **"Place Order"** button
 
-In this guide, I will show you how to print invoice in https://www.magecheckout.com
-Go to My Accounts > My Orders > Select an order > Invoices
+	.. image:: images/purchase-payment-invoices/step3.jpg
+	
+	**Step 4:**
+	
+	After you click **"Place Order"** button, you will be redirected to PayPal website to complete your payment here. 
+	
+	
+**2.	Payment**
 
-.. image:: https://lh6.googleusercontent.com/vCEt-7FtZo2uh6rsOr0xGOX-VXGeZyPrHo387EY1ga_cRdSPJO1UzKVl-dchnI1Bij3mCg0zurHYHiLZHRuNtwIQtD4XTB6uaEvLxmadnZBJJ4SFzshnz7gMq5yjbeGmPG1eEMkV
+	We provide customers PayPal as our payment method to purchase extensions from our site
+	
+**3.	Invoices**
 
-Click on Invoices tab then you will see the following screenshot
-
-.. image:: https://lh3.googleusercontent.com/79pi8subH1V16h7A3N77-cO4H2OKi5pWsiPWrKzSqVSueiR-qQNUEBVO-vE-S1xK76EurWOnunY2UtqBBztSH9DlQgsffeRCDbj2uA0cTJUNltLvmBZC4EQUqeUb4PvhjmTYl64M
-
-You will get an invoice like this
-
-.. image:: https://lh4.googleusercontent.com/veZdo1Uiiy7cKTS3xBBD8RwfZbDZ4KgJ2G07M71Uo9I-suaHPVdF6rEr5ywKbVz9wyrsg50BvIjHQIWvCOCAjSW5mcz6ZtuLKJgWp44oY80OJuouUDaujvLlS62PfBay9KchQOu4
+	After you finish your payment, the invoice will be sent to your email with order information. 
