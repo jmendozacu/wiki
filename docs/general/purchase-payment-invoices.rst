@@ -7,9 +7,7 @@ Purchase, Payment and Invoices
 	
 	Choose your wanted extension with edition and quantity and then Click **"Add to cart"** button
 	
-	.. role:: image_step
-	
-	:image_step:`.. image:: images/purchase-payment-invoices/step1.jpg`
+	.. image:: images/purchase-payment-invoices/step1.jpg
 	
 	
 	
@@ -21,9 +19,7 @@ Purchase, Payment and Invoices
 		*	Enter discount code if you are provided 
 		*	After that, please click **"Proceed to Checkout"** button to redirect to the checkout page 
 		
-	.. role:: image_step
-	
-	:image_step:`.. image:: images/purchase-payment-invoices/step2.jpg`
+	.. image:: images/purchase-payment-invoices/step2.jpg
 	
 	
 	
@@ -34,9 +30,7 @@ Purchase, Payment and Invoices
 		*	Review your order carefully 
 		*	Click **"Place Order"** button
 
-	.. role:: image_step
-	
-	:image_step:`.. image:: images/purchase-payment-invoices/step3.jpg`
+	.. image:: images/purchase-payment-invoices/step3.jpg
 	
 	
 	
@@ -56,6 +50,6 @@ Purchase, Payment and Invoices
 .. raw:: html
 
    <style>
-		.image_step {margin-bottom: 30px;}
+		img {margin-bottom: 30px;}
    </style>
    
