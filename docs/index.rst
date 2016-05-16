@@ -1,3 +1,5 @@
+BSSCommerce Wiki latest documentation
+=============================
 
 
 .. toctree::
