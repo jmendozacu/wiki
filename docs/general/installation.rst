@@ -1,7 +1,7 @@
 Installation Guidan
 ==========================================================
 
-<font class="step">Step 1:</font>
+<div class="step">Step 1:</div>
 
 When you finish purchasing process, we will immediately send you an email that includes the link to download the extension.
 On the other hand, you can `log in <https://bsscommerce.com/customer/account/login/>`_ your account, in `My Downloadable Products <https://bsscommerce.com/downloadable/customer/products/>`_ section, click on **Download Link** to download the extension.
