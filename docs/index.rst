@@ -21,14 +21,9 @@ BSSCommerce Wiki latest documentation
    :maxdepth: 1
    :glob:
    :caption: Magento 1
-   
-	multi-store-pricing/defer_javascript
-	multi-store-pricing/minimum_order_amount
-	multi-store-pricing/index
-	multi-store-pricing/wholesale_fast_order
-	multi-store-pricing/configurable_product
-	multi-store-pricing/pro_configurable_product
-	multi-store-pricing/delete_order 
+	
+   multi-store-pricing/index
+   multi-store-pricing/defer_javascript
 
 
 
