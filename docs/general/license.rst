@@ -4,11 +4,9 @@ License
 This license agreement is an agreement between BSSCommerce and you (the person or company who is being licensed to use extensions). 
 The agreement applies to all extensions and services you purchase from us. 
 
-When you buy and use our products, you acknowledge that you have read this agreement and agree with all the content and terms of the agreement
- and comply it seriously. 
+When you buy and use our products, you acknowledge that you have read this agreement and agree with all the content and terms of the agreement and comply it seriously. 
  
-This agreement takes effective at the moment when you order extensions
- from our site or receive it through email or on data medium or by any other means. 
+This agreement takes effective at the moment when you order extensions from our site or receive it through email or on data medium or by any other means. 
  
 **1.	License**
 
