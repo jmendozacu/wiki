@@ -12,7 +12,7 @@ when we’re back to office on next Monday (GMT+7).
 
 Email: support@bsscommerce.com
 
-Skype: support.
+Skype: support.bsscommerce
 
 Live Chat 
 

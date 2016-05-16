@@ -3,15 +3,18 @@ Purchase, Payment and Invoices
 
 **1.	Purchase process**
 
-	**Step 1:**
+	.. role:: step
+	
+	:step:`Step 1:`
 	
 	Choose your wanted extension with edition and quantity and then Click **"Add to cart"** button
 	
 	.. image:: images/purchase-payment-invoices/step1.jpg
 	
 	
+	.. role:: step
 	
-	**Step 2:**
+	:step:`Step 2:`
 	
 	Check again the extension along with quantity and total amount in the shopping cart page. 
 		*	You can edit your purchase by clicking **Edit** and then **Click Update Shopping Cart**. 
@@ -22,8 +25,9 @@ Purchase, Payment and Invoices
 	.. image:: images/purchase-payment-invoices/step2.jpg
 	
 	
+	.. role:: step
 	
-	**Step 3:**
+	:step:`Step 3:`
 	
 		*	Fulfill all required information in the Name & Address section 
 		*	Enter discount code if you haven’t yet used it in the shopping cart 
@@ -33,8 +37,9 @@ Purchase, Payment and Invoices
 	.. image:: images/purchase-payment-invoices/step3.jpg
 	
 	
+	.. role:: step
 	
-	**Step 4:**
+	:step:`Step 4:`
 	
 	After you click **"Place Order"** button, you will be redirected to PayPal website to complete your payment here. 
 	
@@ -49,7 +54,5 @@ Purchase, Payment and Invoices
 	
 .. raw:: html
 
-   <style>
-		.img{margin-bottom: 30px;}
-   </style>
+	<style>.step {font-size: 16px; font-weight: bold; margin-top: 30px;}</style>
    
