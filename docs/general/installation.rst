@@ -1,10 +1,9 @@
 Installation Guidan
 ==========================================================
 
-.. raw:: html
+.. role:: red
 	
-	<style>.step{font-size:25px; font-weight:bold;}</style>
-	<font class="step">Step 1:</font></br>
+:red:`Step 1:`
 	
 When you finish purchasing process, we will immediately send you an email that includes the link to download the extension.
 On the other hand, you can `log in <https://bsscommerce.com/customer/account/login/>`_ your account, in `My Downloadable Products <https://bsscommerce.com/downloadable/customer/products/>`_ section, click on **Download Link** to download the extension.
@@ -12,9 +11,9 @@ On the other hand, you can `log in <https://bsscommerce.com/customer/account/log
 .. image:: images/intallation_giude/bss_installation_guide_1.jpg
 
 
-.. raw:: html
-
-<font class="step">Step 2:</font></br>
+.. role:: red
+	
+:red:`Step 2:`
 
 The file that you download is normally a zip file. Then, please properly unzip that file before installing it.
 
@@ -79,5 +78,5 @@ You also can see the example about installation guide for Store Locator exention
 .. raw:: html
 
    <iframe width="560" height="315" style="margin-left:calc(25% - 	100px); margin-bottom: 30px" src="https://www.youtube.com/embed/8mmGt24cU_0" frameborder="0" allowfullscreen></iframe>
-   
+   <style>.red{font-size:25px; font-weight: bold;}</style>
    
