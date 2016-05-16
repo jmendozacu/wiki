@@ -80,5 +80,8 @@ You also can see the example about installation guide for Store Locator exention
 .. raw:: html
 
    <iframe width="560" height="315" style="margin-left:calc(25% - 	100px); margin-bottom: 30px" src="https://www.youtube.com/embed/8mmGt24cU_0" frameborder="0" allowfullscreen></iframe>
-   <style>.step{font-size:25px; font-weight: bold;}</style>
+   <style>
+		.step{font-size:25px; font-weight: bold;}
+		.body{text-align: justify;}
+   </style>
    
