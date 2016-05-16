@@ -12,13 +12,17 @@ On the other hand, you can `log in <https://bsscommerce.com/customer/account/log
 .. image:: images/intallation_giude/bss_installation_guide_1.jpg
 
 
-Step 2:
--------------------
+.. raw:: html
+
+<font class="step">Step 2:</font></br>
+
 The file that you download is normally a zip file. Then, please properly unzip that file before installing it.
 
 
-Step 3:
--------------------
+.. raw:: html
+
+<font class="step">Step 3:</font></br>
+
 It's required to disable cache in the administration panel of your site. Go to **System/Cache Management**. Select all caches and click **"Disable"** then submit.   
 
 .. image:: images/intallation_giude/installation_guide_1.jpg
@@ -26,33 +30,44 @@ It's required to disable cache in the administration panel of your site. Go to *
 .. image:: images/intallation_giude/BSS-Installation-guidance-2.jpg
 
 
-Step 4:
--------------------
+.. raw:: html
+
+<font class="step">Step 4:</font></br>
+
 Use FTP client (such as Filezilla, WinSCP, cuteFtp) to upload or copy all folders in the zip package to your Magento site root folder. This will not overwrite any existing file; just add new files to the folder structure.
 
 
-Step 5:
--------------------
+.. raw:: html
+
+<font class="step">Step 5:</font></br>
+
 After uploading is done, **log in your Magento administration** panel to refresh cache. Go to **System/Cache Management**. Select all caches and take action **"Refresh"** then submit.
 
 .. image:: images/intallation_giude/installation_guide_3.jpg
 
 
-Step 6:
--------------------
+.. raw:: html
+
+<font class="step">Step 6:</font></br>
+
 Navigate to **System/Configuration**, if you can see the extension tab, it isinstalled properly.   
 
 .. image:: images/intallation_giude/installation_guide_4.jpg
 
 
 
-Step 7:
--------------------
+.. raw:: html
+
+<font class="step">Step 7:</font></br>
+
 Now if you get Access denied error when click on the extension tab, you need to **log out** admin panel and **log in** again.
 
 
-Step 8:
--------------------
+
+.. raw:: html
+
+<font class="step">Step 8:</font></br>
+
 Check everything in **front-end** and try to process, make sure that the extension is successfully installed and well compatible with your site.
 
 *Note
