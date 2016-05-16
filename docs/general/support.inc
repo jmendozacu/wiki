@@ -1,5 +1,3 @@
-Support
-=====================
 BSSCommerce offers Free Lifetime support for all products purchased from us.
  Please notice that we just provide free lifetime support **for only a domain** for each purchasing time of customers. 
  Support includes answering any question related to our products and fixing any bug/error caused by our products which is reported by customers to make sure 
