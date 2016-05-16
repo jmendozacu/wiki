@@ -1,7 +1,7 @@
 Installation Guidan
 ==========================================================
 
-<tt class="step">Step 1:</tt>
+``Step 1: ``
 
 When you finish purchasing process, we will immediately send you an email that includes the link to download the extension.
 On the other hand, you can `log in <https://bsscommerce.com/customer/account/login/>`_ your account, in `My Downloadable Products <https://bsscommerce.com/downloadable/customer/products/>`_ section, click on **Download Link** to download the extension.
@@ -32,7 +32,7 @@ Step 5:
 ***************
 After uploading is done, **log in your Magento administration** panel to refresh cache. Go to **System/Cache Management**. Select all caches and take action **“Refresh”** then submit.
 
-.. image:: images/installation_guide_3.jpg
+.. image:: images/intallation_giude/installation_guide_3.jpg
 
 ***************
 Step 6:
