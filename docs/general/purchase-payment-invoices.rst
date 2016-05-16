@@ -49,4 +49,7 @@ Purchase, Payment and Invoices
 	
 .. raw:: html
 
-<style>.img{margin-bottom: 30px;}</style>
+   <style>
+		.img{margin-bottom: 30px;}
+   </style>
+   
