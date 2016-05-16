@@ -1,86 +1,49 @@
 License
 =======
 
-Magecheckout Co.
-https://magecheckout.com
+This license agreement is an agreement between BSSCommerce and you (the person or company who is being licensed to use extensions). 
+The agreement applies to all extensions and services you purchase from us. 
 
-This License is entered by Magecheckout to govern the usage or redistribution of
-Magecheckout software. This is a legal agreement between you (either an individual
-or a single entity) and Magecheckout for Magecheckout software product(s) which may
-include extensions, templates and services. 
+When you buy and use our products, you acknowledge that you have read this agreement and agree with all the content and terms of the agreement
+ and comply it seriously. 
+ 
+This agreement takes effective at the moment when you order extensions
+ from our site or receive it through email or on data medium or by any other means. 
+ 
+**1.	License**
 
-By purchasing, installing, or otherwise using Magecheckout products, you acknowledge
-that you have read this License and agree to be bound by the terms of this Agreement.
-If you do not agree to the terms of this License, do not install or use Magecheckout
-products.
+This agreement gives you the right to use only one license for one extension to install for your site. 
+This license remains valid until when you do not want to continue using the module and uninstall from your Magento site or you break terms of the agreement. 
+In addition, when you want to install the extension for another domain, you are required to purchase a separate license. 
 
-The Agreement becomes effective at the moment when you acquire software from
-our site or receive it through email or on data medium or by any other means.
-Magecheckout reserves the right to make reasonable changes to the terms of this
-license agreement and impose its clauses at any given time.
+You just own a copy of extension to install for you site. Therefore, you are not allowed to distribute our extension for any third parties for non-commercial 
+or commercial purposes without our permission. Every distribution by your own decision is regarded as the violation of this Agreement and entails liability, 
+according to the current law.
 
-1. GRANT OF LICENSE
+You may not use any part of the code in whole or part in any other software or product or website.
 
-By purchasing a product of Magecheckout:
+You may not give, sell, sub-license, rent, lease or lend any portion of our extensions to anyone. You may not place the extension on a server so that it is 
+accessible via a public network such as the Internet for distribution purposes.
 
-• Customer will receive source code open 100%.
+**2.	Termination**
 
-• Customer will obtain a License Certificate which will remain valid until the Customer stops 
-  using the Product or until Magecheckout terminates this License because of Customer's
-  failure to comply with any of its Terms and Conditions. Each License Certificate includes a 
-  license serial which is valid for one live Magento installation only and unlimited 
-  test Magento installations.
+In the issue of termination, if you fail in the compliance with terms and conditions of this License Agreement such as any violations of the agreement, 
+BSSCommerce will terminate this license at any time.  Your license to use our extension is revoked and you must destroy all copies of the extension on your site.
 
-• You are allowed to customize our products to fit with your using purpose.
+After we give you a notice of license termination, if you continue to use the module, you hereby agree to accept an injunction to enjoin you from its further use 
+and to pay all costs (including but not limited to reasonable attorney fees) to enforce our revocation of your license and any damages suffered by us because of 
+your misuse of the extension. In addition, we are not bound to return you all amount spent on the purchase of the extension for the termination of this license.
 
+  
+**3.	Limitation of Liability**
 
-2. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS
+BSSCommerce are not responsible for any damages on your site such as loss of profits/saving or loss of information which are not caused by the use of our 
+extension. 
+We are not also liable for any prosecution arising from use of the extension against law or for any illegal use.
 
-(a) Installation and Use
-	For each new Software installation, you are obliged to purchase a separate License.
-	You are not permitted to use any part of the code in whole or part in any other
-	software or product or website.
-	You are legally bound to preserve the copyright information intact including
-	the text/link at bottom.
+**4.	Laws**
 
-(b) Distribution
-	You are not allowed to distribute Magecheckout software to third parties.
-	Any distribution without our permission, including non commercial distribution
-	is considered as violation of this Agreement and entails liability, according to 
-	the current law. You may not place the Software onto a server that allows access
-	to the Software via a public network or the Internet for distribution purposes.
+We are the copyright holder of the extension. The module or a portion of it is a copyrightable matter and is liable to protection by the law. 
+Any activity that infringes terms of this Agreement violates copyright law and will be prosecuted according to the current law. 
 
-(c) Rental
-	You may not give, sell, sub-license, rent, lease or lend any portion of the
-	Software to anyone.
-
-(d) Compliance with Applicable Laws
-	You must comply with all applicable laws regarding use of software products.
-	Magecheckout software and a portion of it are protected by copyright laws and
-	international copyright treaties, as well as other intellectual property laws
-	and treaties. Accordingly, customer is required to treat the software like
-	any other copyrighted material. Any activity violating copyright law will be
-	prosecuted according to the current law. We retain the right to revoke the license
-	of any user holding an invalid license. 
-
-3. TERMINATION
-	Without prejudice to any other rights, Magecheckout may terminate this License at
-	any time if you fail to comply with the terms and conditions of this License.
-	In such event, it constitutes a breach of the agreement, and your license to use
-	the program is revoked and you must destroy all copies of Magecheckout products in
-	your possession.
-	After being notified of termination of your license, if you continue to use
-	Magecheckout software, you hereby agree to accept an injunction to prevent you
-	from its further use and to pay all costs (including but not limited to reasonable
-	attorney fees) to enforce our revocation of your license and any damages suffered
-	by us because of your misuse of the Software.
-	We are not bound to return you the amount spent for purchase of the Software for
-	the termination of this License.
-
-4. LIMITATION OF LIABILITY
-	In no event shall Magecheckout be liable for any damages (including, without limitation,
-	lost profits, business interruption, or lost information) rising out of 'Authorized Users'
-	use of or inability to use the Magecheckout products, even if Magecheckout has been advised of
-	the possibility of such damages. 
-	In no event will Magecheckout be liable for prosecution arising from use of the Software
-	against law or for any illegal use.
+In case you are holding an invalid license, we will reserve the right to revoke the license

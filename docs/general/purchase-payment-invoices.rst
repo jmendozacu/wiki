@@ -46,3 +46,7 @@ Purchase, Payment and Invoices
 **3.	Invoices**
 
 	After you finish your payment, the invoice will be sent to your email with order information. 
+	
+.. raw::html
+
+<style>.img{margin-bottom: 30px;}</style>
