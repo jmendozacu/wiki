@@ -37,7 +37,6 @@ BSSCommerce Wiki latest documentation
    :glob:
    :caption: Magento 2
 
-   magento_2/multi-store-pricing-m2/index
    magento_2/lazy-image-loader-m2/index
    
 
