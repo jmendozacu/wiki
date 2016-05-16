@@ -17,13 +17,13 @@ I. Magento Extensions
 
 Our Magento 1 extensions are compatible with: 
 
-.. role:: menu
-	
-:menu:`Community: 1.4.x.x, 1.5.x.x, 1.6.x.x, 1.7.x.x, 1.8.x.x, 1.9.x.x`
+	.. role:: menu
+		
+	:menu:`Community: 1.4.x.x, 1.5.x.x, 1.6.x.x, 1.7.x.x, 1.8.x.x, 1.9.x.x`
 
-.. role:: menu
-	
-:menu:`Enterprise:1.12.x.x, 1.13.x.x, 1.14.x.x`
+	.. role:: menu
+		
+	:menu:`Enterprise:1.12.x.x, 1.13.x.x, 1.14.x.x`
 
 Our Magento 2 extensions are compatible with all current versions of Community and Enterprise 
 	
@@ -136,4 +136,6 @@ We support PayPal as our payment method you can use to pay for the extension you
 V.	Some common conflicts/bugs
 ----------------------------------------------
 
+.. raw:: html
 
+	<style>.menu:before {content:"\2714";}</style>
