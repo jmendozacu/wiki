@@ -1,4 +1,4 @@
-Installation Guidan
+Installation Guide
 ==========================================================
 
 .. role:: step
