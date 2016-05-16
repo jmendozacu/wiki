@@ -9,6 +9,8 @@ Purchase, Payment and Invoices
 	
 	.. image:: images/purchase-payment-invoices/step1.jpg
 	
+	
+	
 	**Step 2:**
 	
 	Check again the extension along with quantity and total amount in the shopping cart page. 
@@ -19,6 +21,8 @@ Purchase, Payment and Invoices
 		
 	.. image:: images/purchase-payment-invoices/step2.jpg
 	
+	
+	
 	**Step 3:**
 	
 		*	Fulfill all required information in the Name & Address section 
@@ -27,6 +31,8 @@ Purchase, Payment and Invoices
 		*	Click **"Place Order"** button
 
 	.. image:: images/purchase-payment-invoices/step3.jpg
+	
+	
 	
 	**Step 4:**
 	
