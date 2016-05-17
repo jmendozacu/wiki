@@ -75,7 +75,7 @@ In order to delete Invoices, follow this following instructions:
 
 * First: Go to **Admin Panel** => **Sales** => **Invoices**
 * Next: Choose the excessive invoices you want to delete
-* Next: In the **Actions** box => choose :italic:`Delete Invoices` 
+* Next: In the **Actions** box => choose :italic:`Delete snvoices` 
 * Last: click on **Submit** button
 
 .. image:: images/delete_invoices_2.jpg
@@ -83,8 +83,34 @@ In order to delete Invoices, follow this following instructions:
 3.3. Delete Shipments
 ^^^^^^^^^^^^^^^^^^^^^^
 
+In order to delete Shipments, follow this following instructions: 
+
+.. image:: images/delete_shipments_1.jpg
+
+
+* First: Go to **Admin Panel** => **Sales** => **Shipments**
+* Next: Choose the excessive shipments you want to delete
+* Next: In the **Actions** box => choose :italic:`Delete shipments` 
+* Last: click on **Submit** button
+
+.. image:: images/delete_shipments_1.jpg
+
+
 3.4. Delete Credit Memos
 ^^^^^^^^^^^^^^^^^^^^^^^^
+
+In order to delete Credit Memos, follow this following instructions: 
+
+.. image:: images/delete_credit_memos_1.jpg
+
+
+* First: Go to **Admin Panel** => **Sales** => **Credit Memos**
+* Next: Choose the excessive shipments you want to delete
+* Next: In the **Actions** box => choose :italic:`Delete Credit Memos` 
+* Last: click on **Submit** button
+
+.. image:: images/delete_credit_memos_2.jpg
+
 
 
 .. raw:: html
