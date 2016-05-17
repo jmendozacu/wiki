@@ -1,7 +1,7 @@
 User Guide
 =============
 
-I.	Defer Javascript Extension Overview 
+Defer Javascript Extension Overview 
 ---------------------------------------------
 
 Defer Parsing of JavaScript is listed as one of the most impactful factors of speed improvement for websites that you can implement among many 
@@ -13,7 +13,7 @@ files to the end of page after loading all HTML and CSS. As a result, you will k
 and your sales is of course on the way to boost up!
 
 
-II.	How does Defer JavaScript Extension work?
+How does Defer JavaScript Extension work?
 --------------------------------------------- 
 
 To configure the module, follow these below instructions:

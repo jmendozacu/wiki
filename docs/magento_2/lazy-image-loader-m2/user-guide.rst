@@ -1,13 +1,14 @@
 User Guide
 =============
-I.	BSS Lazy Image Loader for Magento 2 Extension Overview
+
+Lazy Image Loader for Magento 2 Extension Overview
 ----------------------------------------------------------------
 
-BSS Lazy Image Loader 2 extension serves Magento 2 based website. It not only creates eye-catching image emerging transition but also optimizes Magento 2 
+Lazy Image Loader 2 extension serves Magento 2 based website. It not only creates eye-catching image emerging transition but also optimizes Magento 2 
 site speed. Especially, the extension is developed with SEO which promotes site rank in the SERPs.
 
 
-II.	How does BSS Lazy Image Loader for Magento 2 extension work?
+How does Lazy Image Loader for Magento 2 extension work?
 ----------------------------------------------------------------
 To make configuration of this module, follow these below instruction:
 
@@ -24,7 +25,7 @@ There are 5 parts you can fix as your wishes: Enabled, Threshold, Exclude contro
 1.	Enabled
 ^^^^^^^^^^^^^^^
 
-You can select between enable and disable BSS Lazy Image Loader for Magento 2 Extension by setting the status in **Enabled** box into "Enable" or "Disable".
+You can select between enable and disable Lazy Image Loader for Magento 2 Extension by setting the status in **Enabled** box into "Enable" or "Disable".
 
 .. image:: images/lazy_image_loader_2.jpg
 
@@ -41,7 +42,7 @@ For instance, if you set the number in the box is 14, it means that the images w
 3.	Exclude controllers, Path, Homepage
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-BSS Lazy Image Loader for Magento 2 Extension allows admin deciding which part will be excluded from lazy-loaded function. To exclude controller, admin can 
+Lazy Image Loader for Magento 2 Extension allows admin deciding which part will be excluded from lazy-loaded function. To exclude controller, admin can 
 click on **Add** and then filling the match in the box. Admin also can delete the Match and and add more by clicking on **Delete**, and **Add** button alternately.
 
 .. image:: images/lazy_image_loader_4.jpg

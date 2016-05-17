@@ -63,7 +63,7 @@ In order to delete Invoices, follow this following instructions:
 
 .. image:: images/delete_invoices_2.jpg
 
-3.3. Delete Shipments
+3. Delete Shipments
 ^^^^^^^^^^^^^^^^^^^^^^
 
 In order to delete Shipments, follow this following instructions: 

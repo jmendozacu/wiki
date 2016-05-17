@@ -3,13 +3,13 @@ User Guide
 
 .. role:: italic
 
-I.	BSS Pro Configurable Product Grid Table View Extension’s Overview
+Pro Configurable Product Grid Table View Extension’s Overview
 -------------------------------------------------------------------------
 
 Pro Configurable Products Table View enables Magento Shop Owners to display associated products, creating a neat and professional table to show 
 specific features of selected products, especially including color-swatch function built-in and tier price display.
 
-II.	How does BSS Pro Configurable Product Grid Table View Extension work?
+How does Pro Configurable Product Grid Table View Extension work?
 -------------------------------------------------------------------------
 
 1. In the frontend
@@ -32,7 +32,7 @@ II.	How does BSS Pro Configurable Product Grid Table View Extension work?
 .. image:: images/pro_configurable_product_2.jpg
 
 
-2.	How to configure BSS Pro Configurable Products Grid Table View Extension in the backend
+2.	How to configure Pro Configurable Products Grid Table View Extension in the backend
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Go through **System** -> **Configuration** -> **BSS COMMERCE** -> **Configurable Grid View**

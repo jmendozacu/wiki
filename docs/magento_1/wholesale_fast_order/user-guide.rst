@@ -1,17 +1,17 @@
 User Guide
 =============
 
-I.	BSS Wholesale Fast Order Extension Overview 
+Wholesale Fast Order Extension Overview 
 -----------------------------------------------------
 
 Recently many researches have proved that even one second delay in buying process can engage your loyal customers in abandoning your online store. 
 Therefore, you can enhance your online store performance and encourage customers to start searching and selecting products by using **Wholesale Fast 
 Order** by BSS Commerce right now.
 
-II.	How does BSS Wholesale Fast Order Extension work? 
+How does Wholesale Fast Order Extension work? 
 ------------------------------------------------------
 
-1. How to use functions of BSS Wholesale Fast Order Extension
+1. How to use functions of Wholesale Fast Order Extension
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Wholesale Fast Order** is a very useful extension that allows selecting multiple products at the same time and then adding them to shopping cart without 
@@ -19,7 +19,7 @@ spending too much time purchasing one by one. By this way, Wholesale Fast Order 
 
 **Step 1**: Click **"Fast Order"** shortcut
 
-When you install BSS Wholesale Fast Order Extension, Fast Order shortcut will appear in the right side of your website. Customers click to Fast Order shortcut 
+When you install Wholesale Fast Order Extension, Fast Order shortcut will appear in the right side of your website. Customers click to Fast Order shortcut 
 and there is a Fast Order pop up for them to search.
 
 .. image:: images/fast_order_step_1.png
@@ -53,7 +53,7 @@ a time.
 
 .. image:: images/fast_order_step_5.png
 
-2. How to configure BSS Wholesale Fast in the backend
+2. How to configure Wholesale Fast in the backend
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 For Admin Configuration, go through **"System > Configuration > BSS Commerce > Fast Order"**.
