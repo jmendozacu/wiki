@@ -45,10 +45,15 @@ In **Sales** section, choose **Orders**. Here, a list of orders is shown.
 .. image:: images/delete_order_2.jpg
 
 
-	* First: Go to **Admin Panel** => **Sales** => **Orders**
-	* Next: Choose the excessive orders you want to delete
+* First: Go to **Admin Panel** => **Sales** => **Orders**
+* Next: Choose the excessive orders you want to delete
 	
 
+
+***Note: Remember that if you choose Delete Orders, all the related information about order’s invoice, shipment, credit memo will be deleted 
+from backend at ease.**
+
+**If you want to delete only invoice or shipment or credit memo of any order, you have to keep this order remaining.**
 
 
 3.2. Delete Invoices
