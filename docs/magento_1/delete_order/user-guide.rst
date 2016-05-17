@@ -50,7 +50,7 @@ In **Sales** section, choose **Orders**. Here, a list of orders is shown.
 .. role:: italic
 
 	-	Next: In the **Actions** box => choose :italic:`**Delete Orders**` 
-	-	Last: click on **Submit** button
+	-	Last: click on :italic:`**Submit**` button
 
 
 3.2. Delete Invoices
