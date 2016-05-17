@@ -40,4 +40,4 @@ Changelog
 
 	.. raw:: html
 
-	<style>.red {font-size: 1.3333em; font-weight: bold; color: red;}</style>
+		<style>.red {font-size: 1.3333em; font-weight: bold; color: red;}</style>
