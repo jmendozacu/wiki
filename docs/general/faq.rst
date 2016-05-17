@@ -158,4 +158,5 @@ Some common conflicts/bugs
 	<style>
 		.menu:before {content:"\2714";}
 		body {text-align: justify;}
+		h1, h2, h3, h4, h5, h6 {text-align: left;}
 	</style>
