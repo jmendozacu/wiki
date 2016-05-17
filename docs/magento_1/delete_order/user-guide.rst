@@ -55,14 +55,14 @@ In **Sales** section, choose **Orders**. Here, a list of orders is shown.
 * Next: In the **Actions** box => choose :italic:`Delete Orders` 
 * Last: click on **Submit** button
 
-:red:`*Note: Remember that if you choose :italic:`Delete Orders`, all the related information about :italic:`order's invoice, shipment, credit memo` will be deleted 
+:red:`*Note: Remember that if you choose *Delete Orders*, all the related information about *order's invoice, shipment, credit memo* will be deleted 
 from backend at ease.`
 
-:red:`If you want to delete only :italic:`invoice` or :italic:`shipment` or :italic:`credit memo` of any order, you have to :italic:`keep this order remaining`.`
+:red:`If you want to delete only *invoice* or *shipment* or *credit memo* of any order, you have to *keep this order remaining*.`
 
 .. image:: images/delete_order_3.jpg
 
-**NOTE: :italic:`You can choose to delete one, more or all orders`**
+**NOTE:** :italic:`You can choose to delete one, more or all orders`
 
 
 3.2. Delete Invoices
@@ -72,6 +72,13 @@ In order to delete Invoices, follow this following instructions:
 
 .. image:: images/delete_invoices_1.jpg
 
+
+* First: Go to **Admin Panel** => **Sales** => **Invoices**
+* Next: Choose the excessive invoices you want to delete
+* Next: In the **Actions** box => choose :italic:`Delete Invoices` 
+* Last: click on **Submit** button
+
+.. image:: images/delete_invoices_2.jpg
 
 3.3. Delete Shipments
 ^^^^^^^^^^^^^^^^^^^^^^
