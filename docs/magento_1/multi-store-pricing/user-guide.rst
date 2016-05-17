@@ -76,11 +76,11 @@ French store view: :euro:`550`, for instance
 
 Finally you save configuration in go to the frontend to see the changes: 
 
-* **Product page in the English store view with the price of** :france:``500:
+* **Product page in the English store view with the price of** :france:`500`:
 	
 .. image:: images/multi_store_pricing_7.jpg
 
-* **Product page in the French store view with price of** :euro:``550:
+* **Product page in the French store view with price of** :euro:`550`:
 
 .. image:: images/multi_store_pricing_8.jpg
 
