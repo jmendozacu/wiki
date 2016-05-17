@@ -41,10 +41,12 @@ Go through **System** -> **Configuration** -> **BSS COMMERCE** -> **Configurable
 
 * In Enable: Choose Yes/ No to enable or disable the module
 
-* In Enable jQuery Library: Choose Yes/ No to enable or disable jQuery Library You can also choose to display Stock Availability. 
-When you enable it, you can see stock availability in the configurable grid table.
+* In Enable jQuery Library: Choose Yes/ No to enable or disable jQuery Library You can also choose to display Stock Availability. When you enable it, you 
+can see stock availability in the configurable grid table.
 
-* In Show Subtotal, you can choose Yes or No to display or hide the subtotal column
+* In **Show Subtotal**, you can choose Yes or No to display or hide the subtotal column
+
+.. image:: images/pro_configurable_product_7.jpg
 
 * You can choose to show or hide **Tier Price** by selecting Yes or No
 
@@ -60,7 +62,7 @@ When you enable it, you can see stock availability in the configurable grid tabl
 		
 		You click to each simple product to set price and choose **Price** in **Product Information**:
 	
-.. image:: images/pro_configurable_product_4.jpg
+		.. image:: images/pro_configurable_product_4.jpg
 		
 		In **Price**: you set specific price for the product
 		
