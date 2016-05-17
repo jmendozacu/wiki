@@ -1,6 +1,8 @@
 Changelog
 =========
 
+.. role:: red
+		
 :red:`Version 1.0.2:`
 
 	* Update deleting order function: completely clear all related invoices, credit memos and shipments

@@ -1,20 +1,10 @@
 Changelog
 =========
 
-:red:`Version 1.0.2:`
+**13 Feb 2016: Release v1.0.7**
 
-	* Update deleting order function: completely clear all related invoices, credit memos and shipments
-	
-	* Compatible with all Magento sites
+Compatible with Magento option of sending the user to the cart or leaving them on the page.
 
-.. role:: red
-		
-:red:`Version 1.0.3:`
+Auto selected quantity on product config page when editing the item from shopping cart.
 
-	* Fix bugs on Magento version 1.9.2.4
-
-
-	
-.. raw:: html
-
-	<style>.red {font-size: 1.3333em; font-weight: bold; color: red;}</style>
+Using the increment qty control of current theme instead of forcing to use the up down arrow.

@@ -1,7 +1,7 @@
 Compatibility
 =================
 
-**Our Delete Order Extension is compatible with:**
+**Our Wholesale Fast Order is compatible with:**
 
 	* Community: 1.4.x.x, 1.5.x.x, 1.6.x.x, 1.7.x.x, 1.8.x.x, 1.9.x.x
 	

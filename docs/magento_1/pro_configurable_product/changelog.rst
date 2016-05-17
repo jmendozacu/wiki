@@ -1,19 +1,39 @@
 Changelog
 =========
 
-:red:`Version 1.0.2:`
+.. role:: red
+		
+:red:`Version 1.0.0:`
 
-	* Update deleting order function: completely clear all related invoices, credit memos and shipments
+	* Showing table price with product tier price
 	
-	* Compatible with all Magento sites
+	* Showing color swatch
+	
+	* Modify product quantity
+	
+	* Including product attributes
 
 .. role:: red
 		
-:red:`Version 1.0.3:`
+:red:`Version 1.0.1:`
 
-	* Fix bugs on Magento version 1.9.2.4
+	* Compatible with Magento option of sending the user to the cart or leaving them on the page
+	
+	* Auto selected quantity on product config page when editing the item from shopping cart
+	
+	* Using the increment qty control of current theme instead of forcing to use the up down arrow
+
+.. role:: red
+		
+:red:`Version 1.0.8: Stable Version`
 
 
+.. role:: red
+		
+:red:`Version 1.1.1: Update New Feature`
+	
+	* Support Simple Product Pricing
+	
 	
 .. raw:: html
 
