@@ -19,8 +19,6 @@ of an order that each customer group has to meet.
 How does Magento Minimum Order Amount for Customer Group Extension work? 
 ----------------------------------------------------------------------------
 
-**Easily configure from backend** 
-
 Administrator can easily enable/disable this extension from backend without special knowledge needed. 
 Check it at **System**-> **Configuration** -> **Sales** -> **Minimum Order Amount** 
 
