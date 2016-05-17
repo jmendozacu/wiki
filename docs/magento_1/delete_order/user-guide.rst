@@ -77,7 +77,7 @@ In order to delete Invoices, follow this following instructions:
 
 * First: Go to **Admin Panel** => **Sales** => **Invoices**
 * Next: Choose the excessive invoices you want to delete
-* Next: In the **Actions** box => choose :italic:`Delete snvoices` 
+* Next: In the **Actions** box => choose :italic:`Delete Invoices` 
 * Last: click on **Submit** button
 
 .. image:: images/delete_invoices_2.jpg
