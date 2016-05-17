@@ -27,12 +27,12 @@ shipments or credit memos.
 In order to strengthen the effectiveness of your backend, our best developers have designed a convenient extension called **Magento Delete Order extension**.
  This tool helps to delete all redundant invoices, shipments, orders, or credit memos at ease. Eventually, the backend will be neater and handier.
 
-	**Make backend will be neater and handier**
+	* **Make backend will be neater and handier**
 	
 	Instead of bothering with manual select needed files in a wide range of disorganized orders, invoices, shipments and credit memos, 
 	you will find it easier to classify them within clicks. 
 	
-	**Delete all invoices, shipments, orders, or credit memos at ease**
+	* **Delete all invoices, shipments, orders, or credit memos at ease**
 	
 	Not only helping the admin find clearer ways to manage data thanks to neater and handier backend, the plug-in receives users’ 
 	appreciation with a premium feature: Deleting.
