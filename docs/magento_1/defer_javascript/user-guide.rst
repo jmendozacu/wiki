@@ -70,3 +70,6 @@ You can see the information you need in the table shown in the end of frontend p
 After finishing configuration process, you can click on **"Save Config"** button to save all of your setting with Defer JavaScript.
 
 
+.. raw:: html
+
+   <style>body {text-align: justify;}</style>

@@ -32,3 +32,8 @@ As a result, this extension enables you to show configurable products in a compl
 an intuitive visual editor to tailor the size, price, colors, availability, subtotal and quantity of your products.
 
 .. image:: images/configurable_product_2.jpg
+
+
+.. raw:: html
+
+   <style>body {text-align: justify;}</style>

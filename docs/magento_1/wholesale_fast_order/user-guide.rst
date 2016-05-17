@@ -112,3 +112,9 @@ In **Hide products with customer group**: You click “Add” to choose customer gro
 In **XML of update blocks**:
 
 .. image:: images/fast_order_6.png
+
+
+.. raw:: html
+
+   <style>body {text-align: justify;}</style>
+

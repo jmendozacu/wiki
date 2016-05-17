@@ -18,3 +18,8 @@ Live Chat
 
 There is a note that when you contact us for fixing bugs on your site, please provide us access to 
 your website (including Admin account and FTP information) so that we are able to support you as soon as possible. 
+
+
+.. raw:: html
+
+   <style>body {text-align: justify;}</style>

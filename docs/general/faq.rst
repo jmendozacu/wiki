@@ -155,4 +155,7 @@ Some common conflicts/bugs
 
 .. raw:: html
 
-	<style>.menu:before {content:"\2714";}</style>
+	<style>
+		.menu:before {content:"\2714";}
+		body {text-align: justify;}
+	</style>

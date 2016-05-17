@@ -45,3 +45,8 @@ We are the copyright holder of the extension. The module or a portion of it is a
 Any activity that infringes terms of this Agreement violates copyright law and will be prosecuted according to the current law. 
 
 In case you are holding an invalid license, we will reserve the right to revoke the license
+
+
+.. raw:: html
+
+   <style>body {text-align: justify;}</style>

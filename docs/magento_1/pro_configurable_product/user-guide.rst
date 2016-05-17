@@ -92,5 +92,4 @@ can see stock availability in the configurable grid table.
    <style>
 		.italic {font-style: italic;font-weight:bold;text-decoration: underline;}
 		body {text-align: justify;}
-		body img:nth-child(5), body img:nth-child(6) {float:left;}
    </style>

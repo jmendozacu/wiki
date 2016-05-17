@@ -51,5 +51,6 @@ Purchase, Payment and Invoices
 
    <style>
 		img {margin-bottom: 30px;}
+		body {text-align: justify;}
    </style>
    
