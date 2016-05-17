@@ -90,8 +90,8 @@ As a result, you can set up different price for a product: **HTC Touch Diamond (
 .. raw:: html
 
    <style>
-		.france:before {content:'00A3';}
-		.euro:before {content:'20AC';}
+		.france:before {content:'\00A3';}
+		.euro:before {content:'\20AC';}
 		.italic{font-style: italic;font-weight:bold;}
 		p {text-align: justify;}
    </style>
