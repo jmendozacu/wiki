@@ -30,6 +30,7 @@ Check it at **System**-> **Configuration** -> **Sales** -> **Minimum Order Amoun
 In **Enable**: Choose **Yes** to enable the module or choose **No** to disable it. 
 
 In **Minimum Amount**: click **"Add Minimum Amount"** to set up minimum order amount for each customer group. 
+
 In **Description Message**: you customize your own message/notification to show customers in the shopping cart in case requirements about 
 order amount are not met. 
 
