@@ -6,6 +6,8 @@ User Guide
 
 .. role:: red
 
+.. role:: rednote
+
 I. BSS Delete Order Overview
 ---------------------------------------------------------
 
@@ -55,10 +57,10 @@ In **Sales** section, choose **Orders**. Here, a list of orders is shown.
 * Next: In the **Actions** box => choose :italic:`Delete Orders` 
 * Last: click on **Submit** button
 
-:red:`*Note: Remember that if you choose *Delete Orders*, all the related information about *order's invoice, shipment, credit memo* will be deleted 
+:red:`*Note: Remember that if you choose` :rednote:`Delete Orders` :red:`, all the related information about` :rednote:`order's invoice, shipment, credit memo` :red:`will be deleted 
 from backend at ease.`
 
-:red:`If you want to delete only *invoice* or *shipment* or *credit memo* of any order, you have to *keep this order remaining*.`
+:red:`If you want to delete only` :rednote:`invoice* :red:`or` :rednote:`shipment` :red:`or` :rednote:`credit memo` :red:`of any order, you have to` :rednote:`keep this order remaining.`
 
 .. image:: images/delete_order_3.jpg
 
@@ -117,6 +119,7 @@ In order to delete Credit Memos, follow this following instructions:
 
    <style>
 		.red {color:red;font-weight:bold;}
+		.red {color:red;font-weight:bold;font-style: italic}
 		.italic {font-style: italic;font-weight:bold;}
 		body {text-align: justify;}
    </style>
