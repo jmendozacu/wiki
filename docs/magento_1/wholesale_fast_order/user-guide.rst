@@ -116,5 +116,5 @@ In **XML of update blocks**:
 
 .. raw:: html
 
-   <style>body {text-align: justify;}</style>
+   <style>p {text-align: justify;}</style>
 

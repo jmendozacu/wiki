@@ -91,4 +91,5 @@ can see stock availability in the configurable grid table.
 
    <style>
 		.italic {font-style: italic;font-weight:bold;text-decoration: underline;}
+		p {text-align: justify;}
    </style>

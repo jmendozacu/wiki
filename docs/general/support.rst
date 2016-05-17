@@ -22,4 +22,4 @@ your website (including Admin account and FTP information) so that we are able t
 
 .. raw:: html
 
-   <style>body {text-align: justify;}</style>
+   <style>p {text-align: justify;}</style>

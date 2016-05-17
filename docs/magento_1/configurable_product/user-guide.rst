@@ -36,4 +36,4 @@ an intuitive visual editor to tailor the size, price, colors, availability, subt
 
 .. raw:: html
 
-   <style>body {text-align: justify;}</style>
+   <style>p {text-align: justify;}</style>

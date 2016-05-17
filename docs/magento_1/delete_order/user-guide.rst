@@ -102,6 +102,6 @@ In order to delete Credit Memos, follow this following instructions:
 		.red {color:red;font-weight:bold;}
 		.rednote {color:red;font-style: italic}
 		.italic {font-style: italic;font-weight:bold;}
-		body {text-align: justify;}
+		p {text-align: justify;}
    </style>
 

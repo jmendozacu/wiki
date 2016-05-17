@@ -49,4 +49,4 @@ In case you are holding an invalid license, we will reserve the right to revoke 
 
 .. raw:: html
 
-   <style>body {text-align: justify;}</style>
+   <style>p {text-align: justify;}</style>

@@ -72,4 +72,4 @@ After finishing configuration process, you can click on **"Save Config"** button
 
 .. raw:: html
 
-   <style>body {text-align: justify;}</style>
+   <style>p {text-align: justify;}</style>
