@@ -22,13 +22,13 @@ BSSCommerce Wiki latest documentation
    :glob:
    :caption: Magento 1
 	
-   magento_1/defer_javascript
+   magento_1/defer_javascript/index
    magento_1/minimum_order_amount
    magento_1/multi-store-pricing/index
    magento_1/wholesale_fast_order
    magento_1/configurable_product
    magento_1/pro_configurable_product
-   magento_1/delete_order
+   magento_1/delete_order/index
 
 
 
