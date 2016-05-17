@@ -40,6 +40,19 @@ In order to delete orders, following these below instructions:
 
 .. image:: images/delete_order_1.jpg
 
+In **Sales** section, choose **Orders**. Here, a list of orders is shown. 
+
+.. image:: images/delete_order_2.jpg
+
+	-	First: Go to **Admin Panel** => **Sales** => **Orders**
+	-	Next: Choose the excessive orders you want to delete
+	
+.. role:: italic
+
+	-	Next: In the **Actions** box => choose :italic:`**Delete Orders**` 
+	-	Last: click on **Submit** button
+
+
 3.2. Delete Invoices
 ^^^^^^^^^^^^^^^^^^^^^^
 
@@ -50,5 +63,10 @@ In order to delete orders, following these below instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 
+.. raw:: html
 
+   <style>
+		.italic {font-style: italic;}
+		body {text-align: justify;}
+   </style>
 
