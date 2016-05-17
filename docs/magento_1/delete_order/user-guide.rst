@@ -1,6 +1,10 @@
 User Guide
 =============
 
+
+.. role:: italic
+
+
 I. BSS Delete Order Overview
 ---------------------------------------------------------
 
@@ -47,16 +51,17 @@ In **Sales** section, choose **Orders**. Here, a list of orders is shown.
 
 * First: Go to **Admin Panel** => **Sales** => **Orders**
 * Next: Choose the excessive orders you want to delete
-	
-.. role:: italic
-
-* Next: In the **Actions** box => choose :italic:`**Delete Orders**` 
-* Last: click on :italic:`**Submit**` button
+* Next: In the **Actions** box => choose :italic:`Delete Orders` 
+* Last: click on :italic:**Submit** button
 
 ***Note: Remember that if you choose Delete Orders, all the related information about order’s invoice, shipment, credit memo will be deleted 
 from backend at ease.**
 
 **If you want to delete only invoice or shipment or credit memo of any order, you have to keep this order remaining.**
+
+.. image:: images/delete_order_3.jpg
+
+**NOTE: You can choose to delete one, more or all orders**
 
 
 3.2. Delete Invoices
