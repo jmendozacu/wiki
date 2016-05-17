@@ -107,7 +107,7 @@ searching box.
 
 In **Enable for customer groups**: you choose group for whom you do not want to enable Wholesale Fast Order
 
-In **Hide products with customer group**: You click “Add” to choose customer group and add product names or SKU that will be hidden from this group.
+In **Hide products with customer group**: You click "Add" to choose customer group and add product names or SKU that will be hidden from this group.
 
 In **XML of update blocks**:
 
