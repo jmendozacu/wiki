@@ -1,5 +1,5 @@
-Delete Order
-====================
+Configurable Product Grid Table View
+========================================
 
 
 
