@@ -19,23 +19,20 @@ Changelog
 	
 	* Allow admin to hide specific products with certain customer groups in fast order's seaching box
 
-.. role:: red
-		
+	
 :red:`Version 2.0.3:`
 
 	* Switch on/ off fast order shortcut on web layouts
 
 	
-.. role:: red
-		
+	
 :red:`Version 2.0.9:`
 
 	* New Feature: Allow display Fast Order in CMS Page
 	
 	* Fix form key issue for Magento 1.9.2.3
 
-.. role:: red
-		
+	
 :red:`Version 2.1.0:`
 
 

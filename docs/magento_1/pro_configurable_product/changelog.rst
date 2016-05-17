@@ -13,8 +13,7 @@ Changelog
 	
 	* Including product attributes
 
-.. role:: red
-		
+
 :red:`Version 1.0.1:`
 
 	* Compatible with Magento option of sending the user to the cart or leaving them on the page
@@ -23,13 +22,11 @@ Changelog
 	
 	* Using the increment qty control of current theme instead of forcing to use the up down arrow
 
-.. role:: red
-		
+
 :red:`Version 1.0.8: Stable Version`
 
 
-.. role:: red
-		
+
 :red:`Version 1.1.1: Update New Feature`
 	
 	* Support Simple Product Pricing

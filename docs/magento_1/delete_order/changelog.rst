@@ -9,8 +9,7 @@ Changelog
 	
 	* Compatible with all Magento sites
 
-.. role:: red
-		
+
 :red:`Version 1.0.3:`
 
 	* Fix bugs on Magento version 1.9.2.4
