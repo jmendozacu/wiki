@@ -64,7 +64,7 @@ can see stock availability in the configurable grid table.
 	
 		.. raw:: html
 		
-			<img alt="../../_images/pro_configurable_product_4.jpg" src="../../_images/pro_configurable_product_4.jpg" style="margin-left: -75px;">
+			<img alt="../../_images/pro_configurable_product_4.jpg" src="../magento_1/pro_configurable_product/images/pro_configurable_product_4.jpg" style="margin-left: -75px;">
 		
 		
 		In **Price**: you set specific price for the product
