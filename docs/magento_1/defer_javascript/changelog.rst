@@ -31,13 +31,13 @@ Changelog
 		
 :red:`Version 1.0.9:`
 
-	--
+	----
 
 .. role:: red
 		
 :red:`Version 1.1.1:`
 	
 
-	.. raw:: html
+.. raw:: html
 
-		<style>.red {font-size: 1.3333em; font-weight: bold; color: red;}</style>
+	<style>.red {font-size: 1.3333em; font-weight: bold; color: red;}</style>
