@@ -3,6 +3,10 @@ User Guide
 
 .. role:: italic
 
+.. role:: euro
+
+.. role:: france
+
 Magento Multistore Pricing Extension Overview
 ---------------------------------------------------
 
@@ -51,7 +55,7 @@ In product grid, you choose each product to set up prices by clicking to **Edit*
 .. image:: images/multi_store_pricing_4.jpg
 
 Step 2: In **Price** section (on the left side column), you unmark **"Use Default Value"** and add your wanted price for the product in this 
-English store view: £500, for instance 
+English store view: :france:`500`, for instance 
 
 In addition, you can also set up **Special Prices** for this product 
 
@@ -68,15 +72,15 @@ Finally, you save configuration and continue to set up price in the other store 
 .. image:: images/multi_store_pricing_6.jpg
 
 **Step 2**: In Price section (on the left side column), you unmark **"Use Default Value"** and add your wanted price for the product in this 
-French store view: €550, for instance 
+French store view: :euro:`550`, for instance 
 
 Finally you save configuration in go to the frontend to see the changes: 
 
-* Product page in the English store view with the price of £500:
+* **Product page in the English store view with the price of** :france:`500`:
 	
 .. image:: images/multi_store_pricing_7.jpg
 
-* Product page in the French store view with price of €550:
+* **Product page in the French store view with price of** :euro:`550`:
 
 .. image:: images/multi_store_pricing_8.jpg
 
@@ -86,6 +90,8 @@ As a result, you can set up different price for a product: **HTC Touch Diamond (
 .. raw:: html
 
    <style>
+		.france:before {content:'00A3';}
+		.euro:before {content:'20AC';}
 		.italic{font-style: italic;font-weight:bold;}
 		p {text-align: justify;}
    </style>
