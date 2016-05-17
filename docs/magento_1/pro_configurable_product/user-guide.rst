@@ -63,10 +63,11 @@ can see stock availability in the configurable grid table.
 		You click to each simple product to set price and choose **Price** in **Product Information**:
 	
 	
-		.. raw:: html
+	.. raw:: html
 	
-			<img alt="../../_images/pro_configurable_product_4.jpg" src="../../_images/pro_configurable_product_4.jpg" style="margin-left: -75px;">
+			<img alt="../../_images/pro_configurable_product_4.jpg" src="../images/pro_configurable_product_4.jpg" style="margin-left: -75px;">
 	
+		
 		
 		In **Price**: you set specific price for the product
 		
@@ -76,7 +77,10 @@ can see stock availability in the configurable grid table.
 		
 		The pro configurable product grid table view is displayed as below:
 
-		
+		.. raw:: html
+	
+			<img alt="../../_images/pro_configurable_product_5.jpg" src="../images/pro_configurable_product_5.jpg" style="margin-left: -75px;">
+	
 	- If you choose No, this extension will display the prices of configurable products instead of the different prices of simple products.
 	
 	The pro configurable product grid table view is displayed as below:

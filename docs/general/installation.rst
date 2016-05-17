@@ -11,15 +11,11 @@ On the other hand, you can `log in <https://bsscommerce.com/customer/account/log
 .. image:: images/intallation_giude/bss_installation_guide_1.jpg
 
 
-.. role:: step
-	
 :step:`Step 2:`
 
 The file that you download is normally a zip file. Then, please properly unzip that file before installing it.
 
 
-.. role:: step
-	
 :step:`Step 3:`
 
 Turn off Magento Compilation by navigating to System-Tools-Compilation or you can try to use following command line to disable it 
@@ -34,15 +30,11 @@ It's required to disable cache in the administration panel of your site. Go to *
 .. image:: images/intallation_giude/BSS-Installation-guidance-2.jpg
 
 
-.. role:: step
-	
 :step:`Step 5:`
 
 Use FTP client (such as Filezilla, WinSCP, cuteFtp) to upload or copy all folders in the zip package to your Magento site root folder. This will not overwrite any existing file; just add new files to the folder structure.
 
 
-.. role:: step
-	
 :step:`Step 6:`
 
 After uploading is done, **log in your Magento administration** panel to refresh cache. Go to **System/Cache Management**. Select all caches and take action **"Refresh"** then submit.
@@ -50,8 +42,6 @@ After uploading is done, **log in your Magento administration** panel to refresh
 .. image:: images/intallation_giude/installation_guide_3.jpg
 
 
-.. role:: step
-	
 :step:`Step 7:`
 
 Navigate to **System/Configuration**, if you can see the extension tab, it isinstalled properly.   
@@ -59,23 +49,15 @@ Navigate to **System/Configuration**, if you can see the extension tab, it isins
 .. image:: images/intallation_giude/installation_guide_4.jpg
 
 
-
-.. role:: step
-	
 :step:`Step 8:`
 
 Now if you get Access denied error when click on the extension tab, you need to **log out** admin panel and **log in** again.
 
 
-
-.. role:: step
-	
 :step:`Step 9:`
 
 Check everything in **front-end** and try to process, make sure that the extension is successfully installed and well compatible with your site.
 
-.. role:: step
-	
 :step:`*Note`
 
 After purchasing it, you should add our skype account at **support.bsscommerce** to contact us if you cannot install the extension by yourself. BSS Support Team will help you to install the **Magento** module and the installation fee will follow our `Terms and Condition <http://bsscommerce.com/terms-conditions>`_ in Installation Policy section. Further assistance is available via Email and Skype.
