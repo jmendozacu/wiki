@@ -8,15 +8,15 @@ Do your extensions support multiple domains?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-	One extension is used for only one domain and if you want to use for other domains, you have to purchase this extension again. 
+One extension is used for only one domain and if you want to use for other domains, you have to purchase this extension again. 
 	
 What Magento Editions/Versions is compatible with?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-	Please note Magento 1 and Magento 2 are separate products and if you purchase an extension today,
-	you have to select whether you want to purchase it for Magento 1 OR Magento 2. If you purchased a Magento 1 extension,
-	you will need to re-purchase the extension for Magento 2, as Magento 2 is a completely new system and not a simple upgrade.
-	All our extensions had to be developed from scratch for Magento 2
+Please note Magento 1 and Magento 2 are separate products and if you purchase an extension today,
+you have to select whether you want to purchase it for Magento 1 OR Magento 2. If you purchased a Magento 1 extension,
+you will need to re-purchase the extension for Magento 2, as Magento 2 is a completely new system and not a simple upgrade.
+All our extensions had to be developed from scratch for Magento 2
 
 Our Magento 1 extensions are compatible with: 
 
@@ -75,28 +75,28 @@ Installation, User guide and Translation
 How can I install the extension?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-	To install the extension by your own, please read Installation Guide and follow steps we instruct you from this detailed document. 
+To install the extension by your own, please read Installation Guide and follow steps we instruct you from this detailed document. 
 	
 What should I do if I can’t install the extension?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-	In case you cannot install the extension, please contact us to ask for more support. We are willing to install it for you based on our policy. 
+In case you cannot install the extension, please contact us to ask for more support. We are willing to install it for you based on our policy. 
 	
 Do you offer free installation?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 	
-	We offer Free Installation for all paid extensions on a domain only. Once requested, we will contact you by asking for your site’s credentials 
-	(Admin information, FTP account). 
+We offer Free Installation for all paid extensions on a domain only. Once requested, we will contact you by asking for your site’s credentials 
+(Admin information, FTP account). 
 
-	However, Free Installation Offer is just valid for 3 weeks (15 working days) for each order upon the date of purchase. After this period, 
-	we will charge the extra fee for this kind of service (basically $40/ an Installation Request). Free installation is not applied on 
-	free extensions and updated versions. 
+However, Free Installation Offer is just valid for 3 weeks (15 working days) for each order upon the date of purchase. After this period, 
+we will charge the extra fee for this kind of service (basically $40/ an Installation Request). Free installation is not applied on 
+free extensions and updated versions. 
 
 Where can I get the user guide of extension?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-	Our detailed user guide with clear instructions is attached on the product page of each extension you bought from our site or you also get
-	user guide of each extension in this Wiki. 
+Our detailed user guide with clear instructions is attached on the product page of each extension you bought from our site or you also get
+user guide of each extension in this Wiki. 
 	
 License 
 ---------------------------------------------
@@ -118,37 +118,37 @@ We support PayPal as our payment method you can use to pay for the extension you
 How long does it take to receive my extension after purchasing?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-	When you finish placing orders, the link for downloading your paid extension will be provided for you in your account.
-	Please go to My Account-> My Downloadable Products to see the available link and download the extension.
+When you finish placing orders, the link for downloading your paid extension will be provided for you in your account.
+Please go to My Account-> My Downloadable Products to see the available link and download the extension.
 	
 How can I get my Invoice?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-	Your invoice is sent to your email after you finish your payment 
+Your invoice is sent to your email after you finish your payment 
 	
 Can I ask for refund after purchasing your extensions?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-	You absolutely ask for refund after purchasing our extension as long as the number of your purchase days does not excess 30 days because 
-	we only make refund for customer for a period of 30 days since the date you completed orders on our site. 
+You absolutely ask for refund after purchasing our extension as long as the number of your purchase days does not excess 30 days because 
+we only make refund for customer for a period of 30 days since the date you completed orders on our site. 
 	
 What cases can I get refund?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-	If you are not satisfied about our extensions because our extensions do not function properly, you can ask for refund for the period of 30 days 
-	since the purchase date.  
+If you are not satisfied about our extensions because our extensions do not function properly, you can ask for refund for the period of 30 days 
+since the purchase date.  
 	
-	For more details, there are some cases you can get money return such as: 
-	Your site faces to some conflicts or bugs caused by our extensions, not modules of other Magento providers. 
-	In this case, you have to provide us access to your site to fix and if we cannot fix problems for you, you will be refunded. 
-	In addition, you cannot receive refund from us in the following cases: 
+For more details, there are some cases you can get money return such as: 
+Your site faces to some conflicts or bugs caused by our extensions, not modules of other Magento providers. 
+In this case, you have to provide us access to your site to fix and if we cannot fix problems for you, you will be refunded. 
+In addition, you cannot receive refund from us in the following cases: 
 	
-		- You do not give access account for us to fix bugs if our extension causes these bugs for your site 
-		- The period for 30 – day money back is expired 
-		- You do not purchase the right extension that you tend to buy. 
-		- The extension does not have functions as you want and these functions are not written in the description. 
-		- The incompatibility with third party extensions unless we confirmed compatibility with the specific extensions before your purchase.
-		- Installation services, conflicts resolution and customization services are not refundable
+	- You do not give access account for us to fix bugs if our extension causes these bugs for your site 
+	- The period for 30 – day money back is expired 
+	- You do not purchase the right extension that you tend to buy. 
+	- The extension does not have functions as you want and these functions are not written in the description. 
+	- The incompatibility with third party extensions unless we confirmed compatibility with the specific extensions before your purchase.
+	- Installation services, conflicts resolution and customization services are not refundable
 
 
 
