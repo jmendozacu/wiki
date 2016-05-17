@@ -61,11 +61,11 @@ can see stock availability in the configurable grid table.
 		Go through: **Catalog** -> **Manage Catalog**
 		
 		You click to each simple product to set price and choose **Price** in **Product Information**:
-	
-		.. raw:: html
+
 		
-			<img alt="../../_images/pro_configurable_product_4.jpg" src="../magento_1/pro_configurable_product/images/pro_configurable_product_4.jpg" style="margin-left: -75px;">
-		
+.. image:: images/pro_configurable_product_4.jpg
+
+	- 
 		
 		In **Price**: you set specific price for the product
 		
@@ -76,7 +76,8 @@ can see stock availability in the configurable grid table.
 		The pro configurable product grid table view is displayed as below:
 
 		
-		.. image:: images/pro_configurable_product_5.jpg
+		
+.. image:: images/pro_configurable_product_5.jpg
 	
 	- If you choose No, this extension will display the prices of configurable products instead of the different prices of simple products.
 	
