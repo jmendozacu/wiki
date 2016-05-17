@@ -8,7 +8,7 @@ User Guide
 
 .. role:: rednote
 
-I. BSS Delete Order Overview
+BSS Delete Order Overview
 ---------------------------------------------------------
 
 Imagine that a ton of unnecessary orders, invoices, shipments and credit memos are account for large scale of Database memory, 
@@ -18,29 +18,10 @@ it does **not support you to delete** them. Moreover, there is almost no plug-in
 Fortunately, BSS Delete Order extension addresses this vital weakness of Magento and helps you to manage the Data better with superior benefits.
 
 
-II. What makes BSS Delete Order Your Must-Have Extension?
+How does BSS Delete Order work?
 ---------------------------------------------------------
 
-The default Magento lacking of offering deleting function leads to a result that the store backend is full of useless invoices, orders, 
-shipments or credit memos.
-
-In order to strengthen the effectiveness of your backend, our best developers have designed a convenient extension called **Magento Delete Order extension**. 
-This tool helps to delete all redundant invoices, shipments, orders, or credit memos at ease. Eventually, the backend will be neater and handier.
-
-* **Make backend will be neater and handier**
-	
-	Instead of bothering with manual select needed files in a wide range of disorganized orders, invoices, shipments and credit memos, 
-	you will find it easier to classify them within clicks. 
-	
-* **Delete all invoices, shipments, orders, or credit memos at ease**
-	
-	Not only helping the admin find clearer ways to manage data thanks to neater and handier backend, the plug-in receives users’ 
-	appreciation with a premium feature: Deleting.
-
-III. How does BSS Delete Order work? ( Instruction Manual)
----------------------------------------------------------
-
-3.1. Delete orders
+1. Delete orders
 ^^^^^^^^^^^^^^^^^^^^^^
 
 In order to delete orders, following these below instructions:
@@ -67,7 +48,7 @@ from backend at ease.`
 **NOTE:** :italic:`You can choose to delete one, more or all orders`
 
 
-3.2. Delete Invoices
+2. Delete Invoices
 ^^^^^^^^^^^^^^^^^^^^^^
 
 In order to delete Invoices, follow this following instructions: 
@@ -98,7 +79,7 @@ In order to delete Shipments, follow this following instructions:
 .. image:: images/delete_shipments_2.jpg
 
 
-3.4. Delete Credit Memos
+4. Delete Credit Memos
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 In order to delete Credit Memos, follow this following instructions: 
