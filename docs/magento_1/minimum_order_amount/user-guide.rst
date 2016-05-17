@@ -38,7 +38,3 @@ For example, if customer does not order with the minimum amount of $100, the mes
 .. image:: images/minimum_order_amount_2.jpg
 
 
-
-.. raw:: html
-
-   <style>body {text-align: justify;}</style>
