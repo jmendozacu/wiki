@@ -60,7 +60,7 @@ In **Sales** section, choose **Orders**. Here, a list of orders is shown.
 :red:`*Note: Remember that if you choose` :rednote:`Delete Orders` :red:`, all the related information about` :rednote:`order's invoice, shipment, credit memo` :red:`will be deleted 
 from backend at ease.`
 
-:red:`If you want to delete only` :rednote:`invoice* :red:`or` :rednote:`shipment` :red:`or` :rednote:`credit memo` :red:`of any order, you have to` :rednote:`keep this order remaining.`
+:red:`If you want to delete only` :rednote:`invoice` :red:`or` :rednote:`shipment` :red:`or` :rednote:`credit memo` :red:`of any order, you have to` :rednote:`keep this order remaining.`
 
 .. image:: images/delete_order_3.jpg
 
@@ -95,7 +95,7 @@ In order to delete Shipments, follow this following instructions:
 * Next: In the **Actions** box => choose :italic:`Delete shipments` 
 * Last: click on **Submit** button
 
-.. image:: images/delete_shipments_1.jpg
+.. image:: images/delete_shipments_2.jpg
 
 
 3.4. Delete Credit Memos
