@@ -48,9 +48,9 @@ can see stock availability in the configurable grid table.
 
 .. image:: images/pro_configurable_product_7.jpg
 
-* You can choose to show or hide **Tier Price** by selecting Yes or No
+* You can choose to show or hide **Tier Price** by selecting **Yes** or **No**
 
-* In **Use Option Swatch**: Choose Yes or No to enable/disable Swatch
+* In **Use Option Swatch**: Choose **Yes** or **No** to **enable/disable** Swatch
 
 * In **Configurable Product Use Simple Price**:
 
