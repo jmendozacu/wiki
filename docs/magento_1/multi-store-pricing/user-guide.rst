@@ -76,11 +76,15 @@ French store view: :euro:`550`, for instance
 
 Finally you save configuration in go to the frontend to see the changes: 
 
-* **Product page in the English store view with the price of** :france:`500`:
+.. role:: francebold 
+
+* **Product page in the English store view with the price of** :francebold:`500`:
 	
 .. image:: images/multi_store_pricing_7.jpg
 
-* **Product page in the French store view with price of** :euro:`550`:
+.. role:: eurobold 
+
+* **Product page in the French store view with price of** :eurobold:`550`:
 
 .. image:: images/multi_store_pricing_8.jpg
 
@@ -91,7 +95,11 @@ As a result, you can set up different price for a product: **HTC Touch Diamond (
 
    <style>
 		.france:before {content:'\00A3';}
+		.francebold:before {content:'\00A3'; font-weight:bold;}
+		.francebold {font-weight:bold;}
 		.euro:before {content:'\20AC';}
+		.eurobold:before {content:'\20AC'; font-weight:bold;}
+		.eurobold {font-weight:bold;}
 		.italic{font-style: italic;font-weight:bold;}
 		p {text-align: justify;}
    </style>
