@@ -26,7 +26,7 @@ Purchase, Payment and Invoices
 	**Step 3:**
 	
 		*	Fulfill all required information in the Name & Address section 
-		*	Enter discount code if you haven’t yet used it in the shopping cart 
+		*	Enter discount code if you have not yet used it in the shopping cart 
 		*	Review your order carefully 
 		*	Click **"Place Order"** button
 
