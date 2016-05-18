@@ -8,7 +8,7 @@ it works well as the demo version. Support does not include customizing our prod
 extra fee. Free support service is just applied on paid products. Please notice that we do not offer free support for free extensions, 
 that means if customers ask for any kind of support for a free extension, there will be extra fee for this kind of service. 
 Customer can contact for support by Email, sending Ticket or through our Live Chat. Please kindly understand all support request on weekend will be processed 
-when we’re back to office on next Monday (GMT+7).
+when we're back to office on next Monday (GMT+7).
 
 Email: support@bsscommerce.com
 

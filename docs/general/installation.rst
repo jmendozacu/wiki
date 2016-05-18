@@ -19,6 +19,7 @@ The file that you download is normally a zip file. Then, please properly unzip t
 :step:`Step 3:`
 
 Turn off Magento Compilation by navigating to System-Tools-Compilation or you can try to use following command line to disable it 
+
 php -f shell/compiler.php -- clear
  
 :step:`Step 4:`
