@@ -27,6 +27,7 @@ BSSCommerce Wiki latest documentation
    magento_1/delete_order/index
    magento_1/minimum_order_amount/index
    magento_1/multi-store-pricing/index
+   magento_1/order_delivery_date/index
    magento_1/pro_configurable_product/index
    magento_1/wholesale_fast_order/index
 
