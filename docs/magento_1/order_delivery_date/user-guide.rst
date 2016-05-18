@@ -40,7 +40,7 @@ These unavailable days will come up as processing days, fader and non-clickable.
 .. image:: images/order_delivery_date_5.jpg
 
 Beside the days excluded, if a company or store wants to disable any other days which are not suitable for shipping goods for their own reasons or regulations, 
-**"Time Slots"** will be selected as store owners’ wishes. Then customers can choose one of options as below:
+**"Time Slots"** will be selected as store owners' wishes. Then customers can choose one of options as below:
 
 .. image:: images/order_delivery_date_6.jpg
 
