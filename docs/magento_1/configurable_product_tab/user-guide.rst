@@ -57,12 +57,12 @@ In **Advanced Tier Price**:
 	
 	:menu:`Choose` **Yes** to display Tier Prices in a separated table (Only apply to children products with the same tier prices). Tier prices are shown as below:
 
-.. image:: images/configurable_product_tab_3.jpg
+	.. image:: images/configurable_product_tab_3.jpg
 
 	:menu:`Choose` **No** to display Tier Prices in the table (Please note that Tier prices are shown in the table when children products have different tier 
 	prices or at least a children product has different tier prices from other ones). In that case, Tier prices are displayed as below: 
 
-.. image:: images/configurable_product_tab_4.jpg
+	.. image:: images/configurable_product_tab_4.jpg
 
 In **Advanced Tier Price Calculation**: 
 
