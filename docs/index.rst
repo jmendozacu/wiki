@@ -23,6 +23,7 @@ BSSCommerce Wiki latest documentation
    :caption: Magento 1
 	
    magento_1/configurable_product/index
+   magento_1/configurable_product_tab/index
    magento_1/defer_javascript/index
    magento_1/delete_order/index
    magento_1/minimum_order_amount/index
@@ -39,6 +40,7 @@ BSSCommerce Wiki latest documentation
    :glob:
    :caption: Magento 2
 
+   magento_2/defer_javascript_m2/index
    magento_2/lazy-image-loader-m2/index
    
 
