@@ -71,6 +71,6 @@ You also can see the example about installation guide for Store Locator exention
    <style>
 		.step{font-size:25px; font-weight: bold;}
 		p {text-align: justify;}
-		a {font-weight:bold; text-decoration:underline;}
+		a .reference external {font-weight:bold; text-decoration:underline;}
    </style>
    
