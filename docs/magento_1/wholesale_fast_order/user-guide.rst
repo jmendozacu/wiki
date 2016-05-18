@@ -68,7 +68,7 @@ insert this html into the file you want the shortcut will display:
 
 *<a href="domain/fastorder/ajax/loadform/" title="Fast Order" class="bss-fastorder" data-featherlight="ajax">Fast Order</a>*
 
-Select CMS Page if you want to show Fast Order in a CMS Page. It’s required to create a CMS	Page from Admin panel and add this code below into its content.
+Select CMS Page if you want to show Fast Order in a CMS Page. It's required to create a CMS	Page from Admin panel and add this code below into its content.
 
 *{{block type="core/template" template="bss/fastorder/form.phtml}}*
 
