@@ -2,6 +2,8 @@ Installation Guide
 ==========================================================
 
 .. role:: step
+
+.. role:: mail
 	
 :step:`Step 1:`
 	
@@ -61,8 +63,12 @@ Check everything in **front-end** and try to process, make sure that the extensi
 
 :step:`*Note`
 
-After purchasing it, you should add our skype account at **support.bsscommerce** to contact us if you cannot install the extension by yourself. BSS Support Team will help you to install the **Magento** module and the installation fee will follow our `Terms and Condition <http://bsscommerce.com/terms-conditions>`_ in Installation Policy section. Further assistance is available via Email and Skype.
-In case, you have followed all above steps but the extension doesn’t work properly, you can delete the file or change the module’s filename extension to keep your website function as normal. Then please contact us at support@bsscommerce.com or Skype: support.bsscommerce. Our supporters will assist you in resolving any issues within 24 hours.
+After purchasing it, you should add our skype account at **support.bsscommerce** to contact us if you cannot install the extension by yourself. 
+BSS Support Team will help you to install the **Magento** module and the installation fee will follow our 
+`Terms and Condition <http://bsscommerce.com/terms-conditions>`_ in Installation Policy section. Further assistance is available via Email and Skype.
+In case, you have followed all above steps but the extension doesn't work properly, you can delete the file or change the module's filename extension 
+to keep your website function as normal. Then please contact us at support@bsscommerce.com or Skype: :mail:`support.bsscommerce`. Our supporters will assist you 
+in resolving any issues within 24 hours.
 You also can see the example about installation guide for Store Locator exention's video below:   
 
 .. raw:: html
@@ -70,6 +76,7 @@ You also can see the example about installation guide for Store Locator exention
    <iframe width="560" height="315" style="margin-left:calc(25% - 	100px); margin-bottom: 30px" src="https://www.youtube.com/embed/8mmGt24cU_0" frameborder="0" allowfullscreen></iframe>
    <style>
 		.step{font-size:25px; font-weight: bold;}
+		.mail{text-decoration: none; font-weight: bold; color: #2980B9;}
 		p {text-align: justify;}
 		a .reference external {font-weight:bold; text-decoration:underline;}
    </style>
