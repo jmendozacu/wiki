@@ -19,7 +19,24 @@ Topics
 
 `9. Magento Tutorial: Create Color Swatches for Configurable Product <http://bsscommerce.com/blog/magento-tutorial-create-color-swatches-for-configurable-product/>`_
 
-`3. How To Upgrade Magento 2.0.2 to Magento 2.0.4 Version <http://bsscommerce.com/blog/how-to-upgrade-magento-2-0-2-to-magento-2-0-4-version/>`_
+`10. Newsletter Tutorial: How to Create and Send Newsletter in Magento? <http://bsscommerce.com/blog/newsletter-tutorial-how-to-create-and-send-newsletter-in-magento/>`_
+
+`11. How To Delete Order in Magento <http://bsscommerce.com/blog/how-to-delete-orders-in-magento/>`_
+
+`12. How to Optimize Magento Site Speed with GTMetrix <http://bsscommerce.com/blog/magento-optimize-site-speed-gtmetrix/>`_
+
+`13. How to Set up Payment Sections in Magento Site? [Part 1] <http://bsscommerce.com/blog/how-to-set-up-payment-section-in-magento-site/>`_
+
+`14. How to Set up Payment Section in Magento Site? [Part 2] <http://bsscommerce.com/blog/part-2-how-to-set-up-payment-section-in-magento-site/_>`_
+
+`15. How to Set up Payment Section in Magento Site? [Part 3] <http://bsscommerce.com/blog/part-3-how-to-set-up-payment-section-in-magento-site/>`_
+
+`16. Equip Impervious Magento Security for Your Online Store [Part 1] <http://bsscommerce.com/blog/inforgraphic-equip-impervious-magento-for-your-online-store/>`_
+
+`17. Equip Impervious Magento Security for Your Online Store [Part 2] <http://bsscommerce.com/blog/part-2-equip-impervious-magento-security-for-your-online-store/>`_
+
+`18. Magento Fix: Customers Can't Login to Version 1.8, 1.8.1 and 1.9 <http://bsscommerce.com/blog/magento-fix-customers-cant-login-to-version-1-8-1-8-1-and-1-9/>`_
+
 
 
 
