@@ -27,7 +27,7 @@ Topics
 
 `13.  How to Set up Payment Sections in Magento Site? [Part 1] <http://bsscommerce.com/blog/how-to-set-up-payment-section-in-magento-site/>`_
 
-`14.  How to Set up Payment Section in Magento Site? [Part 2] <http://bsscommerce.com/blog/part-2-how-to-set-up-payment-section-in-magento-site/_>`_
+`14.  How to Set up Payment Section in Magento Site? [Part 2] <http://bsscommerce.com/blog/part-2-how-to-set-up-payment-section-in-magento-site/>`_
 
 `15.  How to Set up Payment Section in Magento Site? [Part 3] <http://bsscommerce.com/blog/part-3-how-to-set-up-payment-section-in-magento-site/>`_
 

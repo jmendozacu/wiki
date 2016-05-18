@@ -157,6 +157,6 @@ Some common conflicts/bugs
 .. raw:: html
 
 	<style>
-		.menu:before {content:"\2714";}
+		.menu:before {content:"\2714";margin-right:10px;}
 		p {text-align: justify;}
 	</style>
