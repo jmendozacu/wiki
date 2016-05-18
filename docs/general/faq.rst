@@ -45,7 +45,7 @@ How can I receive the updated version?
 
 When BSSCommerce publishes new version of any product, 
 please take notice of the release note tab in the product page to get the update news about the new version. 
-Customers purchased product from us can get the updated version by contacting us via email; 
+Customers purchased product from us can get the updated version by `contacting us via email <http://bsscommerce.com/contacts>`_; 
 we will send the new package version once we receive this kind of request. 
 In addition, you can go to My Account-> My Downloadable Products to download the latest version of the extension. 
 
