@@ -102,5 +102,6 @@ In **Show Detailed Qty Selected**:
 
 	<style>
 		.menu:before {content:"\2714";margin-right:10px;}
+		.dollar:before {content:"\20AC";}
 		p {text-align: justify;}
 	</style>
