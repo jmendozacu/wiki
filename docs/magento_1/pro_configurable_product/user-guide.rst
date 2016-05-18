@@ -6,8 +6,9 @@ User Guide
 Pro Configurable Product Grid Table View Extension’s Overview
 -------------------------------------------------------------------------
 
-Pro Configurable Products Table View enables Magento Shop Owners to display associated products, creating a neat and professional table to show 
-specific features of selected products, especially including color-swatch function built-in and tier price display.
+`Pro Configurable Products Table View <http://bsscommerce.com/magento-pro-magento-configurable-product-grid-table-view.html>`_ enables Magento Shop Owners to display 
+associated products, creating a neat and professional table to show specific features of selected products, especially including color-swatch function built-in 
+and tier price display.
 
 How does Pro Configurable Product Grid Table View Extension work?
 -------------------------------------------------------------------------

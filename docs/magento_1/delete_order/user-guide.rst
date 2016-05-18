@@ -8,17 +8,18 @@ User Guide
 
 .. role:: rednote
 
-BSS Delete Order Overview
+Delete Order Overview
 ---------------------------------------------------------
 
 Imagine that a ton of unnecessary orders, invoices, shipments and credit memos are account for large scale of Database memory, 
 which results in diminishing Server performance and bothers shop owners. Magento, however, allows you to **cancel** the orders, 
 it does **not support you to delete** them. Moreover, there is almost no plug-in solve this problem.
 
-Fortunately, BSS Delete Order extension addresses this vital weakness of Magento and helps you to manage the Data better with superior benefits.
+Fortunately, `Delete Order extension <http://bsscommerce.com/magento-delete-order-extension.html>`_ addresses this vital weakness of 
+Magento and helps you to manage the Data better with superior benefits.
 
 
-How does BSS Delete Order work?
+How does Delete Order work?
 ---------------------------------------------------------
 
 1. Delete orders

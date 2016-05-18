@@ -14,7 +14,7 @@ How does Wholesale Fast Order Extension work?
 1. How to use functions of Wholesale Fast Order Extension
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Wholesale Fast Order** is a very useful extension that allows selecting multiple products at the same time and then adding them to shopping cart without 
+`Wholesale Fast Order <http://bsscommerce.com/magento-wholesale-fast-order.html>`_ is a very useful extension that allows selecting multiple products at the same time and then adding them to shopping cart without 
 spending too much time purchasing one by one. By this way, Wholesale Fast Order can optimize order process and decrease buying time by following these steps:
 
 **Step 1**: Click **"Fast Order"** shortcut
@@ -116,5 +116,8 @@ In **XML of update blocks**:
 
 .. raw:: html
 
-   <style>p {text-align: justify;}</style>
+   <style>
+		p {text-align: justify;}
+		a[class='reference external'] {font-weight:bold;}
+   </style>
 

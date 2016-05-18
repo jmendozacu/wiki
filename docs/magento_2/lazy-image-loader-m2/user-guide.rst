@@ -4,8 +4,9 @@ User Guide
 Lazy Image Loader for Magento 2 Extension Overview
 ----------------------------------------------------------------
 
-Lazy Image Loader 2 extension serves Magento 2 based website. It not only creates eye-catching image emerging transition but also optimizes Magento 2 
-site speed. Especially, the extension is developed with SEO which promotes site rank in the SERPs.
+`Lazy Image Loader 2 extension <http://bsscommerce.com/magento2/magento-lazy-image-loader-extension-for-magento-2.html>`_ serves Magento 2 based website. 
+It not only creates eye-catching image emerging transition but also optimizes Magento 2 site speed. Especially, the extension is developed with SEO which 
+promotes site rank in the SERPs.
 
 
 How does Lazy Image Loader for Magento 2 extension work?

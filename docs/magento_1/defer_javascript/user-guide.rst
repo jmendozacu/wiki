@@ -4,7 +4,7 @@ User Guide
 Defer Javascript Extension Overview 
 ---------------------------------------------
 
-Defer Parsing of JavaScript is listed as one of the most impactful factors of speed improvement for websites that you can implement among many 
+`Defer Parsing of JavaScript <http://bsscommerce.com/magento-defer-js-extension.html>`_ is listed as one of the most impactful factors of speed improvement for websites that you can implement among many 
 website optimization tips.
 
 When customers visit your website, they do not expect to wait so long for loading pages because this makes them impatient and leave your website 

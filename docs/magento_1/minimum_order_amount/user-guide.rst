@@ -4,8 +4,8 @@ User Guide
 Magento Minimum Order Amount for Customer Group Extension Overview
 ----------------------------------------------------------------------------
 
-Magento Minimum Order Amount for Customer Group Extension is a must-have extension that allows setting up the minimum amount 
-of an order that each customer group has to meet. 
+`Magento Minimum Order Amount <http://bsscommerce.com/magento-minimum-order-amount-for-customer-group.html>`_ for Customer Group Extension is a must-have 
+extension that allows setting up the minimum amount of an order that each customer group has to meet. 
 
 	* Flexibly set the limitation for each customer group 
 

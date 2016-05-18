@@ -14,7 +14,7 @@ Being an e-Commerce shop owner, have you ever found a temporary solution to set 
 what will you do if you have a desire for setting multiple prices of the same items in each store view of each local store but all default Magento functions 
 ucannot help you handle it?
 
-Multistore Pricing extension is a useful tool which allows online shop owners set and display different prices for each product in each store view of the 
+`Multistore Pricing extension <http://bsscommerce.com/magento-multistore-pricing.html>`_ is a useful tool which allows online shop owners set and display different prices for each product in each store view of the 
 corresponding store as wish. With this powerful extension, now you will not face with any trouble in setting specific prices in multi store views for same 
 products. Therefore, you can attract specific customers from different store views by price policy as you want.
 

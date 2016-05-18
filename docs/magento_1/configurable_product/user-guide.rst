@@ -4,9 +4,10 @@ User Guide
 Configurable Product Grid Table View Extension 
 --------------------------------------------------------
 
-Configurable Products Grid Table View by BSS enables Magento Shop Owners to displays associated products, creating a neat and professional table 
-to show specific features of selected products. Configurable Product Grid Table allows your customer to increase/decrease the quantity of product 
-configuration in a grid view table and can add more than one product configuration to cart at a time.
+`Configurable Products Grid Table View <http://bsscommerce.com/magento-configurable-product-grid-table-view.html>`_ by BSS enables Magento Shop Owners 
+to displays associated products, creating a neat and professional table to show specific features of selected products. Configurable Product Grid Table 
+allows your customer to increase/decrease the quantity of product configuration in a grid view table and can add more than one product configuration to 
+cart at a time.
 
 
 How does Configurable product grid table view work? 
