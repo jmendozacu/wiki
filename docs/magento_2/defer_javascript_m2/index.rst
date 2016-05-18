@@ -1,5 +1,5 @@
-Lazy Image Loader
-====================
+Defer JavaScript for Magento 2
+==============================
 
 
 
