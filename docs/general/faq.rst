@@ -60,7 +60,7 @@ Are your extensions compatible with 3rd-party extensions?
 All of our extensions were tested in clean Magento installations without third party extensions and we can't 
 make sure whether they are compatible with 3rd party extensions or not. Therefore, 
 in case you are not sure about the comparability of our extensions with other 3rd party extensions installed on your site in advance,
-please contact us for more information before your purchase. 
+please `contact us <http://bsscommerce.com/contacts>`_ for more information before your purchase. 
  
 Are your extensions open sources or encrypted?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -116,8 +116,9 @@ We support PayPal as our payment method you can use to pay for the extension you
 How long does it take to receive my extension after purchasing?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-When you finish placing orders, the link for downloading your paid extension will be provided for you in your account.
-Please go to My Account-> My Downloadable Products to see the available link and download the extension.
+ When you finish your purchase, we will immediately send you an email including download link for you to get the module. In addition, the link 
+ for downloading your paid extension will be provided for you in your account. Please go to My Account-> My Downloadable Products to see the available 
+ link and download the extension.
 	
 How can I get my Invoice?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

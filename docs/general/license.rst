@@ -12,7 +12,7 @@ This agreement takes effective at the moment when you order extensions from our 
 
 This agreement gives you the right to use only one license for one extension to install for your site. 
 This license remains valid until when you do not want to continue using the module and uninstall from your Magento site or you break terms of the agreement. 
-In addition, when you want to install the extension for another domain, you are required to purchase a separate license. 
+In addition, when you want to install the extension for another domain, you are required to purchase this extension again. 
 
 You just own a copy of extension to install for you site. Therefore, you are not allowed to distribute our extension for any third parties for non-commercial 
 or commercial purposes without our permission. Every distribution by your own decision is regarded as the violation of this Agreement and entails liability, 
