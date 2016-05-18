@@ -54,30 +54,27 @@ can see stock availability in the configurable grid table.
 
 * In **Configurable Product Use Simple Price**:
 
-	- If you choose Yes, you have to do the two following things:
+If you choose Yes, you have to do the two following things:
 	
-		+You have to set different prices for simple products. 
-		
-		Go through: **Catalog** -> **Manage Catalog**
-		
-		You click to each simple product to set price and choose **Price** in **Product Information**:
+	+You have to set different prices for simple products.
 	
+	Go through: **Catalog** -> **Manage Catalog**
 	
-		.. image:: images/pro_configurable_product_4.jpg
-		
-		
-		In **Price**: you set specific price for the product
-		
-		+Set different tier prices of simple products for ranges of quantities (the quantity ranges of products are the same):
-		
-		In **Tier Price**, click **Add Tier** to set up specific tier price for each range of quantity and customer group
-		
-		The pro configurable product grid table view is displayed as below:
+	You click to each simple product to set price and choose **Price** in **Product Information**:
+	
+.. image:: images/pro_configurable_product_4.jpg
 
-		
-		.. image:: images/pro_configurable_product_5.jpg
+	In **Price**: you set specific price for the product
 	
-	- If you choose No, this extension will display the prices of configurable products instead of the different prices of simple products.
+	+Set different tier prices of simple products for ranges of quantities (the quantity ranges of products are the same):
+	
+	In **Tier Price**, click **Add Tier** to set up specific tier price for each range of quantity and customer group
+	
+	The pro configurable product grid table view is displayed as below:
+	
+.. image:: images/pro_configurable_product_5.jpg
+	
+If you choose No, this extension will display the prices of configurable products instead of the different prices of simple products.
 	
 	The pro configurable product grid table view is displayed as below:
 
