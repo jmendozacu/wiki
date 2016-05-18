@@ -20,7 +20,7 @@ The file that you download is normally a zip file. Then, please properly unzip t
 
 Turn off Magento Compilation by navigating to System-Tools-Compilation or you can try to use following command line to disable it 
 
-php -f shell/compiler.php -- clear
+			php -f shell/compiler.php -- clear
  
 :step:`Step 4:`
  
@@ -71,5 +71,6 @@ You also can see the example about installation guide for Store Locator exention
    <style>
 		.step{font-size:25px; font-weight: bold;}
 		p {text-align: justify;}
+		a {font-weight:bold; text-decoration:underline;}
    </style>
    

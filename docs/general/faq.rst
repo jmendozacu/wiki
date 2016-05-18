@@ -78,7 +78,7 @@ To install the extension by your own, please read `Installation Guide <http://wi
 What should I do if I can’t install the extension?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-In case you cannot install the extension, please contact us to ask for more support. We are willing to install it for you based on `our policy <http://bsscommerce.com/terms-conditions>`_. 
+In case you cannot install the extension, please `contact us <http://bsscommerce.com/contacts>`_ to ask for more support. We are willing to install it for you based on `our policy <http://bsscommerce.com/terms-conditions>`_. 
 	
 Do you offer free installation?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
