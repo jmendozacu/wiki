@@ -73,12 +73,12 @@ Installation, User guide and Translation
 How can I install the extension?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-To install the extension by your own, please read Installation Guide and follow steps we instruct you from this detailed document. 
+To install the extension by your own, please read `Installation Guide <http://wiki.bsscommerce.com/en/latest/general/installation.html>`_ and follow steps we instruct you from this detailed document. 
 	
 What should I do if I can’t install the extension?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-In case you cannot install the extension, please contact us to ask for more support. We are willing to install it for you based on our policy. 
+In case you cannot install the extension, please contact us to ask for more support. We are willing to install it for you based on `our policy <http://bsscommerce.com/terms-conditions>`_. 
 	
 Do you offer free installation?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
