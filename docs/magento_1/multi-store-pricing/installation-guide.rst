@@ -1,10 +1,9 @@
 Installation Guide
 ==================
 
-.. role:: header
 
-:header:`For Magento 1.9.2.x` 
-
+For Magento 1.9.2.x
+--------------------
 
 **Step 1:**
 
@@ -27,8 +26,8 @@ and insert code below to after this line:
 
 (You can see the example file in the example folder if you have not still got it well and please note that you use it only for Magento 1.9.2.x)
 
-
-:header:`For Magento 1.5` 
+For Magento 1.5 
+--------------------
 
 **Step 1:**
 
@@ -50,9 +49,3 @@ and insert code below after this line:
 
 .. literalinclude:: code_examples/magento1.5_step3.py
 
-
-.. raw:: html
-
-   <style>
-		.header{font-size: 1.3333em; font-weight: bold;}
-   </style>
