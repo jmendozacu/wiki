@@ -11,7 +11,6 @@ Multi Store Pricing
 	installation-guide
     user-guide
     compatibility/index
-    
-    *
+   
 
 
