@@ -29,8 +29,7 @@ Code to insert:
 
 //add modify code get store price
 
-.. literalinclude:: code_examples/scatter.py
-
+.. literalinclude:: code_examples/magento_step3.py
 
 //end
 
