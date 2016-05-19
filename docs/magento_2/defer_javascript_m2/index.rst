@@ -1,4 +1,4 @@
-Defer JavaScript for Magento 2
+Defer JavaScript
 ==============================
 
 

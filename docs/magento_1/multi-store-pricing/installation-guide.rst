@@ -10,7 +10,7 @@ Copy all files in the extension folder to the Magento root folder.
 **Step 2:**
 
 Copy file **app/code/core/Mage/Catalog/Model/Resource/Product/Collection.php** to **app/code/local/Mage/Catalog/Model/Resource/Product/Collection.php**
-
+	
 **Step 3:**  
 
 Open file **app/code/local/Mage/Catalog/Model/Resource/Product/Collection.php**, search **"protected function _productLimitationPrice($joinLeft = false)"** 
@@ -24,7 +24,7 @@ and insert code below to after this line:
 
 (You can show example in folder example- file it only for Magento 1.9.2.x)
 
-header::`For Magento 1.5:` 
+:header:`For Magento 1.5:` 
 
 **Step 1:**
 
@@ -51,5 +51,4 @@ and insert code below after this line:
 
    <style>
 		.header{font-size: 1.3333 em; font-weight: bold; text-align:center;}
-		p {text-align: justify;}
    </style>
