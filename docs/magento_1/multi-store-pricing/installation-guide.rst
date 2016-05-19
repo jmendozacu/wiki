@@ -47,4 +47,9 @@ and insert code below after this line:
 .. literalinclude:: code_examples/magento1.5_step3.py
 
 
-	
+.. raw:: html
+
+   <style>
+		.header{font-size: 1.3333 em; font-weight: bold; text-align:center;}
+		p {text-align: justify;}
+   </style>

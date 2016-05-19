@@ -8,8 +8,8 @@ Multi Store Pricing
     :maxdepth: 1
     :glob:
 	
-    installation-guide
     user-guide
+	installation-guide
     compatibility/index
     
     *
