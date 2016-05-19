@@ -50,5 +50,5 @@ and insert code below after this line:
 .. raw:: html
 
    <style>
-		.header{font-size: 1.3333 em; font-weight: bold; text-align:center;}
+		.header{font-size: 1.3333em; font-weight: bold; text-align:center;}
    </style>
