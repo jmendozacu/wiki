@@ -21,7 +21,7 @@ and insert code below to after this line:
 
 .. literalinclude:: code_examples/magento_leftjoin_step3.py
 	
-**-You use this code to insert**: 
+**- You use this code to insert**: 
 
 .. literalinclude:: code_examples/magento_step3.py
 
@@ -46,7 +46,7 @@ and insert code below after this line:
 
 .. literalinclude:: code_examples/magento1.5_join_step3.py
 
-**-You use this code to insert**:
+**- You use this code to insert**:
 
 .. literalinclude:: code_examples/magento1.5_step3.py
 
