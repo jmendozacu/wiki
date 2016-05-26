@@ -71,8 +71,7 @@ Next, go to **Percentage Tier Price** to set up the tier price as you want. Ther
 :example:`In this example, the` :italic:`group price` *for* :italic:`"Not logged in"` *customers is $50, for* :italic:`"General"` *customers is $45, for* 
 :italic:`Wholesalers` *is $40*.
 
-	* In **Tier Price**, click on **Add Tier** button to set up tier price in percentage or a fixed amount for each customer group based 
-	on :italic:`Standard price` and :italic:`Group price`.
+* In **Tier Price**, click on **Add Tier** button to set up tier price in percentage or a fixed amount for each customer group based on :italic:`Standard price` and :italic:`Group price`.
 
 There are 4 criterias admin need to know and fill in: :italic:`Customer Group, Quantity, Discount Type, Applied Price, Tier Value`.
 
