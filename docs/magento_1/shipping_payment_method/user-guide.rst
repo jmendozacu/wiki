@@ -20,7 +20,7 @@ This extension permits admin to satisfy their customers by providing their custo
 How Magento Shipping and Payment per Customer Groups works
 ----------------------------------------------------------
 
-After installing BSS Shipping and Payment Per Customer Group into your website, a new tab named **Advanced Shipping/Payment** methods will appear in your backend 
+After installing Magento Shipping and Payment Per Customer Group into your website, a new tab named **Advanced Shipping/Payment** methods will appear in your backend 
 page allowing admin to set up advanced shipping and payment methods for each specific customer group.
 
 1.	Set up Payment Methods for customer groups
@@ -45,7 +45,7 @@ Here, all payment methods which are set up by admin in payment section will be l
 
 In order to set up any **payment method** for customer group(s), 
 
-	:menu:`Choose the Payment method`
+	:menu:`Choose the` **Payment method**
 	
 	:menu:`Choose your desired customer group(s)`
 	
