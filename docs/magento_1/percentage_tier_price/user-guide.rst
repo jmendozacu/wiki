@@ -5,6 +5,8 @@ User Guide
 
 .. role:: example
 
+.. role:: center
+
 
 Magento Percentage Off Tiered Price Extension Overview 
 ------------------------------------------------------
@@ -92,14 +94,15 @@ There are 4 criterias admin need to know and fill in: :italic:`Customer Group, Q
 
 -Only when not-logged-in customers buy this product with at least 5 items, they will get the new tired price which is fixed-discount ($47).
 
-- Only when general customers buy this product with at least 10 items, they will get the new tier price which is 5% discount on the standard price ($50). 
-
-                                                  *The new tier price = $50 - $50*5% = $47.5*
+- Only when general customers buy this product with at least 10 items, they will get the new tier price which is 5% discount on the standard price ($50).
+ 
+	:center:`The new tier price = $50 - $50*5% = $47.5`
 
 .. raw:: html
 
    <style>
 		p {text-align: justify;}
+		.center {text-align: center;}
 		.italic {font-weight:bold; font-style:italic;}
 		.example {font-style:italic;}
 		.example:before {content:'*';}
