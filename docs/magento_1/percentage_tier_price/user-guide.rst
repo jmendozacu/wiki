@@ -92,17 +92,24 @@ There are 4 criterias admin need to know and fill in: :italic:`Customer Group, Q
 
 :example:`For this example:`
 
--Only when not-logged-in customers buy this product with at least 5 items, they will get the new tired price which is fixed-discount ($47).
+*-Only when not-logged-in customers buy this product with at least 5 items, they will get the new tired price which is fixed-discount ($47)*.
 
-- Only when general customers buy this product with at least 10 items, they will get the new tier price which is 5% discount on the standard price ($50).
+*-Only when general customers buy this product with at least 10 items, they will get the new tier price which is 5% discount on the standard price ($50)*.
  
 	:center:`The new tier price = $50 - $50*5% = $47.5`
+
+*-Only when the wholesalers buy this product with at least 15 items, they will get the tier price which is 10% discount on the group price ($40)*
+
+	:center:`The new tier price = $40 - $40*10% = $36`
+	
+After all, click on **Save** or **Save and continue edit** buttons to save the configuration. All the tier prices will be automatically updated and 
+displayed on frontend. 
 
 .. raw:: html
 
    <style>
 		p {text-align: justify;}
-		.center {text-align: center;}
+		.center {margin-left:calc(35% - 80px)}
 		.italic {font-weight:bold; font-style:italic;}
 		.example {font-style:italic;}
 		.example:before {content:'*';}
