@@ -1,21 +1,19 @@
 User Guide
 =============
 
-.. _my-reference-label:
-
-Lazy Image Loader Extension Overview
+Magento Lazy Image Loader Extension Overview
 ----------------------------------------------
 
 If you are a Facebook user, you definitely know its image load mechanism. For the purpose of reducing image load time to enhance customer experience, 
 Facebook permits pages loading images as customers' scroll.
 
-`Lazy Image Loader extension <http://bsscommerce.com/magento1/magento-lazy-image-loader.html>`_ possesses the same functionality 
+`Magento Lazy Image Loader extension <http://bsscommerce.com/magento1/magento-lazy-image-loader.html>`_ possesses the same functionality 
 which loads product images on your Magento site only when customers scroll the page. By the same token, the extension easy usage drives Magento newcomers 
 at ease. Likewise, the abilities to exclude particular controllers and paths from the effect of Lazy Image Loader extension promote the extension to be 
 the adorable extension that needs to be added to shop owners carts.
 
 
-How does Lazy Image Loader extension work?
+How does Magento Lazy Image Loader extension work?
 ----------------------------------------------
 
 To make configuration of this module, follow these below instruction:
@@ -31,7 +29,7 @@ After these 2 steps, a screen for configuration appears like the below picture:
 1.	Enabled
 ^^^^^^^^^^^^
 
-You can select between enable and disable Lazy Image Loader Extension by setting the status in **Enabled** box into "Enable" or "Disable".
+You can select between enable and disable Magento Lazy Image Loader Extension by setting the status in **Enabled** box into "Enable" or "Disable".
 
 .. image:: images/lazy_image_loader1.jpg
 
@@ -67,7 +65,7 @@ if you set the number in the box is 14, it means that the images will be loaded 
 5.	Exclude controllers, Path, Homepage
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Lazy Image Loader Extension allows admin deciding which part will be excluded from lazy-loaded function. To exclude controller, admin can click on 
+Magento Lazy Image Loader Extension allows admin deciding which part will be excluded from lazy-loaded function. To exclude controller, admin can click on 
 **Add Match** and then filling the match in the box. Admin also can delete the **Match** and add more by clicking on **Delete**, and **Add Match** 
 button alternately. 
 
@@ -98,7 +96,7 @@ For example:  If you want to exclude an image named BSS from Lazy Image Loader's
 	
 It means that you just need to add **notlazy** after **src** attribute to <img> and then this image is not affected by Lazy Image Loader 
 
-After finishing all of these set-up steps, you can click on **Save Config** button to start using :ref:`Lazy Image Loader extension`.
+After finishing all of these set-up steps, you can click on **Save Config** button to start using Magento Lazy Image Loader extension.
 
 
 .. raw:: html
