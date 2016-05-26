@@ -98,7 +98,7 @@ For example:  If you want to exclude an image named BSS from Lazy Image Loader's
 	
 It means that you just need to add **notlazy** after **src** attribute to <img> and then this image is not affected by Lazy Image Loader 
 
-After finishing all of these set-up steps, you can click on **Save Config** button to start using :ref:`Lazy Image Loader extension <http://bsscommerce.com/magento1/magento-lazy-image-loader.html>`.
+After finishing all of these set-up steps, you can click on **Save Config** button to start using :ref:`Lazy Image Loader extension <http://bsscommerce.com/magento1/magento-lazy-image-loader.html>_`.
 
 
 .. raw:: html
