@@ -3,6 +3,9 @@ User Guide
 
 .. role:: italic
 
+.. role:: example
+
+
 Magento Percentage Off Tiered Price Extension Overview 
 ------------------------------------------------------
 
@@ -55,11 +58,13 @@ After choose to edit the product price, go to board **Product Information** on t
 
 .. image:: images/percentage_tier_price2.jpg
 
-**In this example,* :italic:`standard price` *of the product which being set up tier price is $50*.
+:example:`In this example,` :italic:`standard price` *of the product which being set up tier price is $50*.
 
 .. raw:: html
 
    <style>
 		p {text-align: justify;}
 		.italic {font-weight:bold; font-style:italic;}
+		.example {font-style:italic;}
+		.example:before {content:'*';}
    </style>
