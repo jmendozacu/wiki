@@ -72,7 +72,7 @@ Finally, you save configuration and continue to set up price in the other store 
 .. image:: images/multi_store_pricing_6.jpg
 
 **Step 2**: In Price section (on the left side column), you unmark **"Use Default Value"** and add your wanted price for the product in this 
-French store view: €550, for instance 
+French store view: :euro:`550`, for instance 
 
 Finally you save configuration in go to the frontend to see the changes: 
 
