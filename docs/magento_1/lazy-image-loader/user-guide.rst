@@ -66,14 +66,18 @@ if you set the number in the box is 14, it means that the images will be loaded 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Lazy Image Loader Extension allows admin deciding which part will be excluded from lazy-loaded function. To exclude controller, admin can click on 
-**Add Match** and then filling the match in the box. Admin also can delete the **Match** and and add more by clicking on **Delete**, and **Add Match** 
+**Add Match** and then filling the match in the box. Admin also can delete the **Match** and add more by clicking on **Delete**, and **Add Match** 
 button alternately. 
 
 .. image:: images/lazy_image_loader5.jpg
 
+Similar to **Controller**, admin can control the **Path** which they do not want to be affected by Lazy Image Loader. 
+
+.. image:: images/lazy_image_loader5_1.jpg
+
 Finally, admin can set whether Homepage be affected by lazy image load or not in the box **Exclude Home Page**.
 
-.. image:: images/lazy_image_loader6.jpg
+.. image:: images/lazy_image_loader5_2.jpg
 
 
 6.	Exclude lazy images 
@@ -82,7 +86,7 @@ Finally, admin can set whether Homepage be affected by lazy image load or not in
 In **Help Exclude lazy images**: Our extensions allows adding attribute **notlazy** after **src** attribute to <img> to help you prevent loading lazy images and 
 make them not be affected by this extension.   
 
-.. image:: images/lazy_image_loader7.jpg
+.. image:: images/lazy_image_loader6.jpg
 
 For example:  If you want to exclude an image named BSS from Lazy Image Loader's impact, you do as the following:
  
