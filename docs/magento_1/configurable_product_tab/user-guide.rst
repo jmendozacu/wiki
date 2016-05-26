@@ -3,8 +3,6 @@ User Guide
 
 .. role:: menu
 
-.. role:: dollar
-
 
 
 Magento Configurable Product Tab Table View Extension Overview
@@ -68,9 +66,9 @@ In **Advanced Tier Price Calculation**:
 
 	:menu:`If you choose` **Yes**, Tier price is based on tier prices of total quantity of chosen children products to calculate total amount
 	
- For example, tier price of buying 1-9 Pink-M shirts and 1-9 Pink-L shirts is similarly :dollar:`210`. Tier price of buying 10-more Pink-M shirts and 10-more Pink-L 
- shirts is :dollar:`200`. Therefore, when you buy 5 Pink-M shirts and 5 Pink-L shirts, tier price is now determined as :dollar:`200`/shirt (Tier price of buying 10-more Pink-M 
- shirts and 10-more Pink –L shirt). Total amount is now :dollar:`2,000`. 
+ For example, tier price of buying 1-9 Pink-M shirts and 1-9 Pink-L shirts is similarly $210. Tier price of buying 10-more Pink-M shirts and 10-more Pink-L 
+ shirts is $200. Therefore, when you buy 5 Pink-M shirts and 5 Pink-L shirts, tier price is now determined as $200/shirt (Tier price of buying 10-more Pink-M 
+ shirts and 10-more Pink –L shirt). Total amount is now $2,000. 
  
  
 	.. image:: images/configurable_product_tab_5.jpg
@@ -103,6 +101,5 @@ In **Show Detailed Qty Selected**:
 
 	<style>
 		.menu:before {content:"\2714";margin-right:10px;}
-		.dollar:before {content:"\0024";}
 		p {text-align: justify;}
 	</style>
