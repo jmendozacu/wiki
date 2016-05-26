@@ -60,15 +60,15 @@ In **Select children categories price**:
 
 .. image:: images/minimun_category_amount3.jpg
 
-There are 2 options in box: **Min Price** and **Max Price** 
+There are 2 options in box: :italic:`Min Price` and :italic:`Max Price` 
 
 This box allows admin to set up price displaying for products which belong to many categories and have different prices in each category. When customers 
 don't add product to cart from any specific category but adding from other pages, for instance in the search result page, the price will be shown as the 
 customization.
 
-	* Choose **Min Price** to show the lowest price in all categories which products belong to when products are purchased.
+	* Choose :italic:`Min Price` to show the lowest price in all categories which products belong to when products are purchased.
 
-	* Choose **Max Price** to show the highest price in all categories which products belong to when products are purchased.
+	* Choose :italic:`Max Price` to show the highest price in all categories which products belong to when products are purchased.
 
 In **Notification**: 
 
@@ -102,10 +102,10 @@ After these 3 steps, a screen for configuration appears like the below picture:
 
 In the box **Minium Amount**, fill in with number of the minimum amount of each category.
 
-*In this example, when filling* **1000** => *the minimum amount of Furniture category is :dollar:`1000` for customers. So that customers have 
+*In this example, when filling* **1000** => *the minimum amount of Furniture category is* :dollar:`1000` *for customers. So that customers have 
 to place orders which worth more than 1000$ to proceed checkout*.
 
-*If customer orders under-:dollar:`1000-product`, a message notification will appear in frontend like this picture*:
+*If customer orders under*-:dollar:`1000-product`, *a message notification will appear in frontend like this picture*:
 
 .. image:: images/minimun_category_amount6.jpg
 
