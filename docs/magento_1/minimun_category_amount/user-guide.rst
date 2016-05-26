@@ -102,10 +102,10 @@ After these 3 steps, a screen for configuration appears like the below picture:
 
 In the box **Minium Amount**, fill in with number of the minimum amount of each category.
 
-*In this example, when filling* **1000** => *the minimum amount of Furniture category is* :dollar:`1000` *for customers. So that customers have 
+*In this example, when filling* **1000** => *the minimum amount of Furniture category is $1000 *for customers. So that customers have 
 to place orders which worth more than 1000$ to proceed checkout*.
 
-*If customer orders under*-:dollar:`1000-product`, *a message notification will appear in frontend like this picture*:
+*If customer orders under-$1000-product, a message notification will appear in frontend like this picture*:
 
 .. image:: images/minimun_category_amount6.jpg
 
