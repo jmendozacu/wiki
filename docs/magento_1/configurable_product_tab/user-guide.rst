@@ -79,7 +79,7 @@ In **Advanced Tier Price Calculation**:
 	each children product multiply to total quantity of each chosen children product. 
 	
 	For the above example, when using Magento default tier price calculation, total amount is determined as :dollar:`2,100,000` because it is calculated based on each 
-	tier price of each children product (Tier price is equal to :dollar:`210` shirt)
+	tier price of each children product (Tier price is equal to $210 shirt)
 	
 .. image:: images/configurable_product_tab_6.jpg
 
