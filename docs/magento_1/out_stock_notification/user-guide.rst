@@ -6,7 +6,7 @@ User Guide
 Magento Out Of Stock Notification Overview
 ------------------------------------------
 
-`Magento Out Of Stock Notification extension <http://bsscommerce.com/extensions/magento-configurable-product-tab-table-view.html>`_ is a convenient plug-in 
+`Magento Out Of Stock Notification extension <http://bsscommerce.com/magento-out-of-stock-notification-extension.html>`_ is a convenient plug-in 
 offering customers a chance to sign up for back in stock notification with currently out of stock product so that whenever the stock is available, a notification 
 email will be sent to customers.
 
