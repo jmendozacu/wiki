@@ -3,7 +3,6 @@ User Guide
 
 .. role:: italic
 
-.. role:: dollar
 
 Magento Minimum Amount For Category Overview
 --------------------------------------------
@@ -116,6 +115,5 @@ After all, don’t forget to click on **Save Config** button to save all configura
 
    <style>
 		p {text-align: justify;}
-		.dollar:before {content:"\0024";}
 		.italic {font-weight:bold; font-style:italic;}
    </style>
