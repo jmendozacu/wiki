@@ -94,7 +94,7 @@ There are 4 criterias admin need to know and fill in: :italic:`Customer Group, Q
 
 - Only when general customers buy this product with at least 10 items, they will get the new tier price which is 5% discount on the standard price ($50). 
 
-	:example:`The new tier price = $50 - $50*5% = $47.5`
+                                                  *The new tier price = $50 - $50*5% = $47.5*
 
 .. raw:: html
 
