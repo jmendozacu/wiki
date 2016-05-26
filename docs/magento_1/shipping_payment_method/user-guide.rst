@@ -53,11 +53,11 @@ In order to set up any **payment method** for customer group(s),
 
 *For instance, if you wish to set up* :italic:`Payment by cards or by PayPal account` *for NOT LOGGED IN CUSTOMERS*
 
-	:menu:`Go to Payment by cards or by PayPal account`
+	:menu:`Go to` **Payment by cards or by PayPal account**
 	
 	:menu:`Click on  NOT LOGGED IN`
 	
-	:menu:`Click on “save Visibility settings” to save your configuration`
+	:menu:`Click on "save Visibility settings" to save your configuration`
 
 .. image:: images/shipping_payment_method1.jpg
 
