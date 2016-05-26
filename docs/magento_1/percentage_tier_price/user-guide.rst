@@ -55,7 +55,7 @@ After choose to edit the product price, go to board **Product Information** on t
 
 .. image:: images/percentage_tier_price2.jpg
 
-* *In this example,* :italic:`standard price` *of the product which being set up tier price is $50*.
+**In this example,* :italic:`standard price` *of the product which being set up tier price is $50*.
 
 .. raw:: html
 
