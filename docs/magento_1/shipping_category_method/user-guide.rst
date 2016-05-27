@@ -128,7 +128,7 @@ After finishing all of these set-up steps, you can click on **Save Config** butt
 
    <style>
 		p {text-align: justify;}
-		.home{font-weight:bold}
-		.home:before {content:"\2714";margin-right:10px;}
+		.menu{font-weight:bold}
+		.menu:before {content:"\2714";margin-right:10px;}
    </style>
 
