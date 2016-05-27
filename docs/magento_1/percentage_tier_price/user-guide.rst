@@ -11,7 +11,7 @@ User Guide
 Magento Percentage Tier Price Extension Overview 
 ------------------------------------------------------
 
-`Magento Percentage Tier Pricing extension <http://bsscommerce.com/magento1/magento-percentage-off-tiered-pricing.html>`_ extends default 
+`Magento Percentage Tier Price extension <http://bsscommerce.com/magento1/magento-percentage-off-tiered-pricing.html>`_ extends default 
 Magento Tier Price function by allowing admin to define tier prices as a percentage.
 
 * Easily set up tier price based on standard price or group price
@@ -20,10 +20,10 @@ Magento Tier Price function by allowing admin to define tier prices as a percent
 
 * Automatically update tier price when price is changed
 
-Magento Percentage Tier Pricing updates the tier prices according to the percentages you have inputted when you update the price of your product. 
+Magento Percentage Tier Price updates the tier prices according to the percentages you have inputted when you update the price of your product. 
 This extension will effectively reduces your time-consuming and optimizes your sale activity.
 
-How does Magento Percentage Tier Pricing work? 
+How does Magento Percentage Tier Price work? 
 ------------------------------------------------------
 
 1.	Instruction Manual
@@ -33,12 +33,12 @@ As an admin, you can set up your own store page by the most effective way that s
 
 * Step 1: Go to **Admin Panel** => **System** => **Configuration**.
 
-* Step 2:  At the left side of the page, find **BSS Commerce** => select **Percentage Tier Pricing**.
+* Step 2:  At the left side of the page, find **BSS Commerce** => select **Percentage Tier Price**.
 After these 2 steps, a screen for configuration appears like the following picture:
 
 .. image:: images/percentage_tier_price.jpg
 
-The **General** tab appears with a box named **"Enabled"** for admin to enable **Percentage Tier Pricing extension**. There are 2 options in the box: 
+The **General** tab appears with a box named **"Enabled"** for admin to enable **Percentage Tier Price extension**. There are 2 options in the box: 
 :italic:`Yes` or :italic:`No`. Choose :italic:`Yes` to enable the extension, choose :italic:`No` to not. 
 
 After that, don't forget to click on **Save config** button to continue the configuration.
