@@ -30,7 +30,7 @@ BSSCommerce Wiki latest documentation
    magento_1/configurable_product/index
    magento_1/configurable_product_matrix/index
    magento_1/configurable_product_tab/index
-   magento_1/customer_group_without_tax /index
+   magento_1/customer_group_without_tax/index
    magento_1/defer_javascript/index
    magento_1/delete_order/index
    magento_1/google_tag_manager/index
