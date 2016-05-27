@@ -1,117 +1,103 @@
 User Guide
 =============
 
-Wholesale Fast Order Extension Overview 
------------------------------------------------------
+Magento Limit Order Quantity Per Category Overview
+--------------------------------------------------
 
-Recently many researches have proved that even one second delay in buying process can engage your loyal customers in abandoning your online store. 
-Therefore, you can enhance your online store performance and encourage customers to start searching and selecting products by using **Wholesale Fast 
-Order** by BSS Commerce right now.
+`Magento Limit Order Quantity Per Category Extension <http://bsscommerce.com/magento1/magento-limit-order-quantity-per-category.html>`_ allows setting 
+minimum and maximum quantity of all products per category in an order that customers have to meet before processing a successful order. This extension also 
+helps Magento store owners limit order quantity per category for each specific customer group. This makes them to control product quantity to reduce shipping 
+costs and other related costs and especially is an ideal choice for wholesale. 
 
-How does Wholesale Fast Order Extension work? 
-------------------------------------------------------
-
-1. How to use functions of Wholesale Fast Order Extension
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-`Wholesale Fast Order <http://bsscommerce.com/magento-wholesale-fast-order.html>`_ is a very useful extension that allows selecting multiple products at the same time and then adding them to shopping cart without 
-spending too much time purchasing one by one. By this way, Wholesale Fast Order can optimize order process and decrease buying time by following these steps:
-
-**Step 1**: Click **"Fast Order"** shortcut
-
-When you install Wholesale Fast Order Extension, Fast Order shortcut will appear in the right side of your website. Customers click to Fast Order shortcut 
-and there is a Fast Order pop up for them to search.
-
-.. image:: images/fast_order_step_1.png
-
-**Step 2**: Search products by typing names or SKU in the search boxes of the Fast Order pop up
+Magento Limit Order Quantity Per Category  Extension also allows determining  product category in the shopping cart for the products belonging to multiple 
+categories when customers directly search products and add to cart. In addition, updating product category becomes more easily in case customers continuously 
+add the same products in the different categories to cart.  
 
 
-There will be some suggestions for customers to choose and both names and SKU are included in the search results with the highlighted search keyword.
+How does Magento Limit Order Quantity Per Category  Extension work?
+-------------------------------------------------------------------
 
-.. image:: images/fast_order_step_2.png
+.. image:: images/limit_order_quantity_category.jpg
 
-**Step 3**: Select your wanted products with quantity and add them to cart
+1.	In **Enable**: 
+^^^^^^^^^^^^^^
 
-.. image:: images/fast_order_step_3.png
+	Choose **Yes** to enable module or choose **No** to disable it
 
-In addition, customers also import a CSV file of products (just require product name and SKU) to carry out the buying process faster without spending much time
+2.	In **Show Category**: 
+^^^^^^^^^^^^^^^^^^^^^
+
+* Choose **Yes** to display product category in the shopping cart as below: 
+
+.. image:: images/limit_order_quantity_category1.jpg
+
+* Choose **No** to hide product category 
 
 
-If customers search for a configurable product, Wholesale Fast Order displays attributes in a pop up to choose. Moreover, you can edit product attributes and 
-other custom options by clicking **"EDIT"** button.
+3.	In **Category of Product From Search Result**: 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: images/fast_order_step_3_1.png
+This function is applied to products belonging to multiple categories. When customers directly search these products and add to cart, this extension 
+determines product category in the shopping cart by applying minimum and maximum rules of products 
 
-**Step 4**: Customers can also view your shopping cart page to see chosen products. In the shopping cart page, there may be Fast Order Section to help customers 
-continue their searching process.
-
-.. image:: images/fast_order_step_4.png
-
-**Step 5**: Process to checkout right after adding products into cart. The grand total will be automatically calculated as you add multiple desired items to cart at 
-a time.
-
-.. image:: images/fast_order_step_5.png
-
-2. How to configure Wholesale Fast in the backend
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-For Admin Configuration, go through **"System > Configuration > BSS Commerce > Fast Order"**.
-
-.. image:: images/fast_order.png
-
-In **Enabled**: You can switch on/switch off Whole Sale Fast Order by choosing **Yes** or **No** it in the backend.
-
-In **Fast Order Display**: Choose **Popup** to display Fast order function in a Popup. It will display a Fast Order shortcut in Magento default toplink. 
-If the site does not have toplink or toplink has been edited this setting does not take effect. To put Fast Order shortcut to your wanted position please 
-insert this html into the file you want the shortcut will display:
-
-*<a href="domain/fastorder/ajax/loadform/" title="Fast Order" class="bss-fastorder" data-featherlight="ajax">Fast Order</a>*
-
-Select CMS Page if you want to show Fast Order in a CMS Page. It's required to create a CMS	Page from Admin panel and add this code below into its content.
-
-*{{block type="core/template" template="bss/fastorder/form.phtml}}*
-
-In **Enabled jQuery Library**:
-
-	* Choose Yes to enable jQuery Library to run things related to jQuery. 
-
-	* Choose No if your site already has jQuery Library already because it will cause some conflicts. 
+There are two options for you to choose: 
 	
-With Wholesale Fast Order, you can easily set up the number of lines shown in the pop up and the shopping cart page.
+	* Choose **Min Qty**: the product is determined to belong to the category with the biggest value of minimum quantity set up between categories
+	
+	* Choose **Max Qty**: the product is determined to belong to the category with the smallest value of maximum quantity set up between categories. 
 
-.. image:: images/fast_order_1.png
+**Take an example to make it sense:**
 
-In **Number of lines (Shopping Cart)**: you set the number of lines of Fast Order shown in the Shopping cart. For example, you set equal to 1 and the 
-number of lines in the shopping cart is 1 as bellows:
+Product A belongs to 2 categories: **X** and **Y**
 
-.. image:: images/fast_order_2.png
+	* For category **X**, minimum and maximum quantities per category are set up as: min qty=2, max qty=8
+	
+	* For category **Y**, minimum and maximum quantities per category are set up as: min qty=5, max qty=15
 
-In **Number of lines (Pop up)**: you set the number of lines of Fast Order shown in the pop up. For example, you set equal to 3 and Fast order pop up contains 
-3 lines as bellows:
+When customers search Product A and add to cart 
 
-.. image:: images/fast_order_3.png
+	* If you choose "category of product form result search" as **Min qty**, in the shopping cart, Product A belongs to category **Y** (because  the biggest value of minimum quantity between two categories is 5) 
 
-If you set these numbers of lines equal to 0, there is not any fast order shown in the pop up and the shopping cart page.
+	.. image:: images/limit_order_quantity_category2.jpg
+	
+	* If you choose "category of product form result search" as **Max qty**, in the shopping cart, Product A belongs to category **X** (because the smallest value of maximum quantity between two categories is 8) 
+	
+	.. image:: images/limit_order_quantity_category3.jpg
+	
+	
 
-.. image:: images/fast_order_4.png
+4.	In **Category Update**: 
+^^^^^^^^^^^^^^^^^^^^^^^
 
-In **Autocomplete minimum characters**: you set the minimum characters customers have to type in the search box so that the result can appear.
+This function is also applied to products in multiple categories. When customers continuously add these products to cart from category pages or search results 
+and this configuration will allow updating the product category in the shopping cart 
 
-In **Max results to show**: you set the number of results displayed in the autocomplete box
+There are two options to select: 
 
-One of the differences of Wholesale Fast Order by BSS is the function of allowing admin to hide specific products with certain customer groups in fast order's 
-searching box.
+	* Choose **Yes** to update category based on the final product category added to cart 
+	
+	* Choose **No** to update category based on the first product category added to cart 
 
-.. image:: images/fast_order_5.png
+**Take an example as below:**
 
-In **Enable for customer groups**: you choose group for whom you do not want to enable Wholesale Fast Order
+For example, customers add Product A (in category X) to cart first and then they continue to add this Product A (also in category Y) to cart.  Therefore, there 
+is a question that which category this product A belongs to when it is displayed in the shopping cart - category X or Y? Let’s follow to see the more detailed 
+explanation!
 
-In **Hide products with customer group**: You click "Add" to choose customer group and add product names or SKU that will be hidden from this group.
++If you choose **Yes**, the category of Product A will be updated into category Y (the most recent category added) and of course all minimum and maximum quantity 
+rules are applied according to category Y 
 
-In **XML of update blocks**:
++If you choose **No**, the category of Product A will be updated into category X (the first category selected) and all minimum and maximum quantity rules are 
+applied according to category X
+	
+	
+5.	In Min/Max Order Quantity 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: images/fast_order_6.png
+.. image:: images/limit_order_quantity_category4.jpg
+
+Click "**Add Qty**" button to set minimum and maximum quantity per category for specific customer group 
+
 
 
 .. raw:: html
