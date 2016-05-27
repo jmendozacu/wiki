@@ -20,9 +20,11 @@ How does Magento Configurable Product Matrix View Extension Extension work?
 
 You go to **System** -> **Configuration** -> **BSSCOMMERCE** -> **Configurable Matrix View**
 
+
 .. image:: images/configurable_product_matrix.jpg
+
 	
-	In **Enabled:** Choose **Yes** to enable the module or choose No to disable it in your site 
+In **Enabled:** Choose **Yes** to enable the module or choose No to disable it in your site 
 
 In **Enabled jQuery Library:**
 
