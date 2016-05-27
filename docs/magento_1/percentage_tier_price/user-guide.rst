@@ -60,7 +60,7 @@ After choose to edit the product price, go to board **Product Information** on t
 
 .. image:: images/percentage_tier_price2.jpg
 
-:example:`In this example,` :italic:`standard price` *of the product which being set up tier price is $50*.
+:example:`*In this example,` :italic:`standard price` *of the product which being set up tier price is $50*.
 
 Next, go to **Percentage Tier Price** to set up the tier price as you want. There are 2 sections for admin to configure: **Group Price** and **Tier Price**.
 
@@ -68,7 +68,7 @@ Next, go to **Percentage Tier Price** to set up the tier price as you want. Ther
 
 	.. image:: images/percentage_tier_price3.jpg
 
-:example:`In this example, the` :italic:`group price` *for* :italic:`"Not logged in"` *customers is $50, for* :italic:`"General"` *customers is $45, for* 
+:example:`*In this example, the` :italic:`group price` *for* :italic:`"Not logged in"` *customers is $50, for* :italic:`"General"` *customers is $45, for* 
 :italic:`Wholesalers` *is $40*.
 
 * In **Tier Price**, click on **Add Tier** button to set up tier price in percentage or a fixed amount for each customer group based on :italic:`Standard price` and :italic:`Group price`.
@@ -90,7 +90,7 @@ There are 4 criterias admin need to know and fill in: :italic:`Customer Group, Q
 	
 -In **Value** column, fill with new value for tier price by a new dollar amount (for fixed discount) or by percentage (for % discount)
 
-:example:`For this example:`
+:example:`*For this example:`
 
 *-Only when not-logged-in customers buy this product with at least 5 items, they will get the new tired price which is fixed-discount ($47)*.
 
@@ -112,5 +112,4 @@ displayed on frontend.
 		.center {margin-left:calc(35% - 80px)}
 		.italic {font-weight:bold; font-style:italic;}
 		.example {font-style:italic;}
-		.example:before {content:'*';}
    </style>
