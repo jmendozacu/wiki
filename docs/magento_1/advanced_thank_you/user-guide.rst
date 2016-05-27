@@ -67,8 +67,7 @@ The frontend will appear like this below picture:
 
 :example:`*Note: Customers who check out as guests will not able to see` :italic:`View Order` *button*.
 
-* **Custom Message**: Insert your custom message which appears on the thank you page to inform that orders are successful or being 
-processed. (E.g: *Your order has been processed*)
+* **Custom Message**: Insert your custom message which appears on the thank you page to inform that orders are successful or being processed. (E.g: *Your order has been processed*)
 
 After configuration, click on **Save config** button and reload the frontend to see the change.
 
