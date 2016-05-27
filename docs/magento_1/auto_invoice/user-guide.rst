@@ -31,7 +31,9 @@ Click "Send Email" and your customer will be successfully received it.
 Backend Configuration
 ^^^^^^^^^^^^^^^^^^^^^
 
-Magento Auto Invoice is easily configured from backend by these steps: Go to Backend-> system->configuration
+Magento Auto Invoice is easily configured from backend by these steps: 
+
+Go to Backend-> system->configuration
 
 
 Easily **enable/disable** the extension and select the suitable **Payment Methods**

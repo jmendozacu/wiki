@@ -47,7 +47,7 @@ BSSCommerce Wiki latest documentation
    magento_1/redirect_cart_to_checkout/index
    magento_1/reorder_product/index
    magento_1/rich_snippets/index
-   magento_1/shipping_method_category/index
+   magento_1/shipping_category_method/index
    magento_1/shopping_cart_rule_store_view/index
    magento_1/store_locator/index
    magento_1/unboxed/index
