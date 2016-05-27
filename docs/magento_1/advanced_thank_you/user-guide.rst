@@ -3,7 +3,7 @@ User Guide
 
 .. role:: italic
 
-.. role:: note
+.. role:: example
 
 Magento Advanced Thank You Page Overview 
 -----------------------------------------
@@ -65,7 +65,7 @@ The frontend will appear like this below picture:
 
 .. image:: images/advanced_thank_you2_1.jpg
 
-:note:`*Note: Customers who check out as guests will not able to see` :italic:`View Order` *button*.
+:example:`*Note: Customers who check out as guests will not able to see` :italic:`View Order` *button*.
 
 * **Custom Message**: Insert your custom message which appears on the thank you page to inform that orders are successful or being 
 processed. (E.g: *Your order has been processed*)
@@ -152,7 +152,7 @@ There are 3 boxes appear for customization in this section:
 
    <style>
 		.italic {font-weight:bold; font-style:italic;}
-		.note {font-style:italic;}
+		.example {font-style:italic;}
 		p {text-align: justify;}
    </style>
 
