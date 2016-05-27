@@ -1,4 +1,4 @@
-Lazy Image Loader
+Magento 2 Lazy Load
 ====================
 
 

@@ -1,15 +1,15 @@
 User Guide
 =============
 
-Lazy Image Loader for Magento 2 Extension Overview
+Magento 2 Lazy Load Extension Overview
 ----------------------------------------------------------------
 
-`Lazy Image Loader 2 extension <http://bsscommerce.com/magento2/magento-lazy-image-loader-extension-for-magento-2.html>`_ serves Magento 2 based website. 
+`Magento 2 Lazy Load extension <http://bsscommerce.com/magento2/magento-lazy-image-loader-extension-for-magento-2.html>`_ serves Magento 2 based website. 
 It not only creates eye-catching image emerging transition but also optimizes Magento 2 site speed. Especially, the extension is developed with SEO which 
 promotes site rank in the SERPs.
 
 
-How does Lazy Image Loader for Magento 2 extension work?
+How does Magento 2 Lazy Load extension work?
 ----------------------------------------------------------------
 To make configuration of this module, follow these below instruction:
 
@@ -26,7 +26,7 @@ There are 5 parts you can fix as your wishes: Enabled, Threshold, Exclude contro
 1.	Enabled
 ^^^^^^^^^^^^^^^
 
-You can select between enable and disable Lazy Image Loader for Magento 2 Extension by setting the status in **Enabled** box into "Enable" or "Disable".
+You can select between enable and disable Magento 2 Lazy Load Extension by setting the status in **Enabled** box into "Enable" or "Disable".
 
 .. image:: images/lazy_image_loader_2.jpg
 
@@ -43,7 +43,7 @@ For instance, if you set the number in the box is 14, it means that the images w
 3.	Exclude controllers, Path, Homepage
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Lazy Image Loader for Magento 2 Extension allows admin deciding which part will be excluded from lazy-loaded function. To exclude controller, admin can 
+Magento 2 Lazy Load Extension allows admin deciding which part will be excluded from lazy-loaded function. To exclude controller, admin can 
 click on **Add** and then filling the match in the box. Admin also can delete the Match and and add more by clicking on **Delete**, and **Add** button alternately.
 
 .. image:: images/lazy_image_loader_4.jpg
@@ -57,7 +57,7 @@ Finally, admin can set whether Homepage be affected by lazy image load or not in
 .. image:: images/lazy_image_loader_6.jpg
 
 After finishing all of these set-up steps, you can click on **Save Config** button to start using 
-`Lazy Image Loader for Magento 2 extension <http://bsscommerce.com/magento-lazy-image-loader-extension-for-magento-2.html>`_ .
+`Magento 2 Lazy Load extension <http://bsscommerce.com/magento-lazy-image-loader-extension-for-magento-2.html>`_ .
 
 .. raw:: html
 

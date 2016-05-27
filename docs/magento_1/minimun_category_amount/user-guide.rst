@@ -108,7 +108,7 @@ to place orders which worth more than 1000$ to proceed checkout*.
 
 .. image:: images/minimun_category_amount6.jpg
 
-After all, don’t forget to click on **Save Config** button to save all configuration.
+After all, don't forget to click on **Save Config** button to save all configuration.
 
 
 .. raw:: html

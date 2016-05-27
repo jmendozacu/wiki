@@ -32,10 +32,8 @@ BSSCommerce Wiki latest documentation
    magento_1/minimun_category_amount/index
    magento_1/multi-store-pricing/index
    magento_1/order_delivery_date/index
-   magento_1/out_stock_notification/index
    magento_1/percentage_tier_price/index
    magento_1/pro_configurable_product/index
-   magento_1/shipping_payment_method/index
    magento_1/wholesale_fast_order/index
 
 

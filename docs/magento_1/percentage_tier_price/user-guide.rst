@@ -8,10 +8,10 @@ User Guide
 .. role:: center
 
 
-Magento Percentage Off Tiered Price Extension Overview 
+Magento Percentage Tier Price Extension Overview 
 ------------------------------------------------------
 
-`Magento Percentage Off Tiered Pricing extension <http://bsscommerce.com/magento1/magento-percentage-off-tiered-pricing.html>`_ extends default 
+`Magento Percentage Tier Pricing extension <http://bsscommerce.com/magento1/magento-percentage-off-tiered-pricing.html>`_ extends default 
 Magento Tier Price function by allowing admin to define tier prices as a percentage.
 
 * Easily set up tier price based on standard price or group price
@@ -20,10 +20,10 @@ Magento Tier Price function by allowing admin to define tier prices as a percent
 
 * Automatically update tier price when price is changed
 
-Magento Percentage Off Tiered Pricing updates the tier prices according to the percentages you have inputted when you update the price of your product. 
+Magento Percentage Tier Pricing updates the tier prices according to the percentages you have inputted when you update the price of your product. 
 This extension will effectively reduces your time-consuming and optimizes your sale activity.
 
-How does Magento Percentage Off Tiered Pricing work? 
+How does Magento Percentage Tier Pricing work? 
 ------------------------------------------------------
 
 1.	Instruction Manual
@@ -33,12 +33,12 @@ As an admin, you can set up your own store page by the most effective way that s
 
 * Step 1: Go to **Admin Panel** => **System** => **Configuration**.
 
-* Step 2:  At the left side of the page, find **BSS Commerce** => select **Percentage Off Tiered Pricing**.
+* Step 2:  At the left side of the page, find **BSS Commerce** => select **Percentage Tier Pricing**.
 After these 2 steps, a screen for configuration appears like the following picture:
 
 .. image:: images/percentage_tier_price.jpg
 
-The **General** tab appears with a box named **"Enabled"** for admin to enable **Percentage Off Tiered Pricing extension**. There are 2 options in the box: 
+The **General** tab appears with a box named **"Enabled"** for admin to enable **Percentage Tier Pricing extension**. There are 2 options in the box: 
 :italic:`Yes` or :italic:`No`. Choose :italic:`Yes` to enable the extension, choose :italic:`No` to not. 
 
 After that, don't forget to click on **Save config** button to continue the configuration.
@@ -88,7 +88,7 @@ There are 4 criterias admin need to know and fill in: :italic:`Customer Group, Q
 	+In **Of** column, choose 1 of 2 options to apply discount on: :italic:`Standard Price` *and* :italic:`Group Price`. *Remember that if admin choose* 
 	:italic:`Fixed` *on* :italic:`Type` *column, this section is disabled*.
 	
-* In *Value* column, fill with new value for tier price by a new dollar amount (for fixed discount) or by percentage (for % discount)
+-In **Value** column, fill with new value for tier price by a new dollar amount (for fixed discount) or by percentage (for % discount)
 
 :example:`For this example:`
 
