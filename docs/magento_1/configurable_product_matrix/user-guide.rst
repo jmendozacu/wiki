@@ -42,11 +42,11 @@ In **Display Out of Stock Status:**
 
 	* If you choose **Yes**, out of stock products are still shown in the matrix form and stock numbers are equal to 0
 
-.. image:: images/configurable_product_matrix1.jpg
+	.. image:: images/configurable_product_matrix1.jpg
 
 	* If you choose **No**, customer cannot choose these products due to no quantity box  to select and also stock number are not displayed.
 	
-.. image:: images/configurable_product_matrix2.jpg
+	.. image:: images/configurable_product_matrix2.jpg
 
 .. raw:: html
 
