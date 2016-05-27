@@ -7,9 +7,9 @@ Magento Customer Group without Tax Overview
 -------------------------------------------
 
 `Magento Customer Group without Tax extension <http://bsscommerce.com/extensions/order-management/magento-customer-group-without-tax-extension.html>`_ has ability 
-to reject taxes on category page and product page. Also, customers won’t see tax rate in their cart and check out with pay no tax. This unique extension also 
-allows admin apply for specific customers and individual customer groups while tax rates are still shown to remained customers. Hence, it’s really useful for 
-your website’s marketing and sale policy. 
+to reject taxes on category page and product page. Also, customers won't see tax rate in their cart and check out with pay no tax. This unique extension also 
+allows admin apply for specific customers and individual customer groups while tax rates are still shown to remained customers. Hence, it's really useful for 
+your website's marketing and sale policy. 
 
 
 How Magento Customer Group without Tax works
