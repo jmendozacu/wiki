@@ -65,10 +65,10 @@ The frontend will appear like this below picture:
 
 .. image:: images/advanced_thank_you2_1.jpg
 
-:italic:`*Note: Customers who check out as guests will not able to see` :italic:`View Order` *button*.
+:note:`*Note: Customers who check out as guests will not able to see` :italic:`View Order` *button*.
 
-* **Custom Message**: Insert your custom message which appears on the thank you page to inform that orders are successful or being processed. 
-(E.g: *Your order has been processed*)
+* **Custom Message**: Insert your custom message which appears on the thank you page to inform that orders are successful or being 
+processed. (E.g: *Your order has been processed*)
 
 After configuration, click on **Save config** button and reload the frontend to see the change.
 
@@ -81,11 +81,9 @@ After configuration, click on **Save config** button and reload the frontend to 
 
 There are 2 boxes appear for customization in this section:
 
-* **Enable**: Choose :italic:`Yes` to enable appearing :italic:`newsletter subscription` on the Thank you page which allows customers subscribe their 
-email for your newsletter. Otherwise, choose *No*.
+* **Enable**: Choose :italic:`Yes` to enable appearing :italic:`newsletter subscription` on the Thank you page which allows customers subscribe their email for your newsletter. Otherwise, choose :italic:`No`.
 
-* **Sort Order**: : Insert appearing ordinal number of :italic:`newsletter subscription` on the thank you page (E.g: if you insert "**5**" => newsletter 
-subscription will appear last on the thank you page)
+* **Sort Order**: Insert appearing ordinal number of :italic:`newsletter subscription` on the thank you page (E.g: if you insert "**5**" => newsletter subscription will appear last on the thank you page)
 
 The frontend will appear like this below picture:
 
@@ -100,8 +98,7 @@ The frontend will appear like this below picture:
 
 There are 3 boxes appear for customization in this section:
 
-* **Enable**: Choose :italic:`Yes` to enable appearing :italic:`cross sell block` which shows related products on the Thank you page. Otherwise, 
-choose :italic:`No`.
+* **Enable**: Choose :italic:`Yes` to enable appearing :italic:`cross sell block` which shows related products on the Thank you page. Otherwise, choose :italic:`No`.
 
 * **Sort Order**: Insert appearing ordinal number of :italic:`cross-selling products` on the thank you page.
 
@@ -138,8 +135,7 @@ E.g: *If you choose* :italic:`"Electronics Landing"`, *the frontend will appear 
 
 There are 3 boxes appear for customization in this section:
 
-* **Enable**: Choose :italic:`Yes` to enable appearing :italic:`Social Network Sharing` on the Thank you page which allows customer to share their orders on 
-their own social pages. Otherwise, choose :italic:`No`.
+* **Enable**: Choose :italic:`Yes` to enable appearing :italic:`Social Network Sharing` on the Thank you page which allows customer to share their orders on their own social pages. Otherwise, choose :italic:`No`.
 
 * **Sort Order**: Insert appearing ordinal number of :italic:`Social Network Sharing` on the thank you page.
 
