@@ -1,123 +1,67 @@
 User Guide
 =============
 
-Wholesale Fast Order Extension Overview 
------------------------------------------------------
-
-Recently many researches have proved that even one second delay in buying process can engage your loyal customers in abandoning your online store. 
-Therefore, you can enhance your online store performance and encourage customers to start searching and selecting products by using **Wholesale Fast 
-Order** by BSS Commerce right now.
-
-How does Wholesale Fast Order Extension work? 
-------------------------------------------------------
-
-1. How to use functions of Wholesale Fast Order Extension
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-`Wholesale Fast Order <http://bsscommerce.com/magento-wholesale-fast-order.html>`_ is a very useful extension that allows selecting multiple products at the same time and then adding them to shopping cart without 
-spending too much time purchasing one by one. By this way, Wholesale Fast Order can optimize order process and decrease buying time by following these steps:
-
-**Step 1**: Click **"Fast Order"** shortcut
-
-When you install Wholesale Fast Order Extension, Fast Order shortcut will appear in the right side of your website. Customers click to Fast Order shortcut 
-and there is a Fast Order pop up for them to search.
-
-.. image:: images/fast_order_step_1.png
-
-**Step 2**: Search products by typing names or SKU in the search boxes of the Fast Order pop up
+.. role:: italic
 
 
-There will be some suggestions for customers to choose and both names and SKU are included in the search results with the highlighted search keyword.
+Magento Reorder Extension Overview
+-----------------------------------
 
-.. image:: images/fast_order_step_2.png
+`Magento Reorder Products <http://bsscommerce.com/magento1/magento-reorder-product-extension.html>`_ is an excellent extension that facilitates customers 
+to reorder products on their dashboard. Your customers can rearrange product positions as they wish, which increases their satisfaction with your 
+services. Magento Reorder Product Extension allows customers to quickly reorder their previously chosen products and make any necessary changes as they wish!
 
-**Step 3**: Select your wanted products with quantity and add them to cart
+This extension enables to separate reorder product section on customer account page to a board named **My reorder product** which helps customers reorder any 
+products they want instantly and easily add them back to cart as fastest as possible for checkout.
 
-.. image:: images/fast_order_step_3.png
-
-In addition, customers also import a CSV file of products (just require product name and SKU) to carry out the buying process faster without spending much time
+.. image:: images/reorder_product.jpg
 
 
-If customers search for a configurable product, Wholesale Fast Order displays attributes in a pop up to choose. Moreover, you can edit product attributes and 
-other custom options by clicking **"EDIT"** button.
 
-.. image:: images/fast_order_step_3_1.png
+How Magento Reorder Extension works
+-----------------------------------
 
-**Step 4**: Customers can also view your shopping cart page to see chosen products. In the shopping cart page, there may be Fast Order Section to help customers 
-continue their searching process.
+In order to configure BSS Reorder extension,
 
-.. image:: images/fast_order_step_4.png
+Step 1: Go to **Admin Panel** => **System** => **Configuration** 
 
-**Step 5**: Process to checkout right after adding products into cart. The grand total will be automatically calculated as you add multiple desired items to cart at 
-a time.
+Step 2: At the left side of the page, find **BSS Commerce** => select **Reorder Products** 
 
-.. image:: images/fast_order_step_5.png
+After these 2 steps, a screen for configuration appears like the following picture:
 
-2. How to configure Wholesale Fast in the backend
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. image:: images/reorder_product1.jpg
 
-For Admin Configuration, go through **"System > Configuration > BSS Commerce > Fast Order"**.
+There are two sections for admin to continue configuration: **General Settings** and **Products List Settings**. 
 
-.. image:: images/fast_order.png
+* First section: **General Settings** 
 
-In **Enabled**: You can switch on/switch off Whole Sale Fast Order by choosing **Yes** or **No** it in the backend.
+	In **Display Controls** box, choose :italic:`Yes` to enable the extension. To disable all functions of this extension, choose :italic:`Yes`.
 
-In **Fast Order Display**: Choose **Popup** to display Fast order function in a Popup. It will display a Fast Order shortcut in Magento default toplink. 
-If the site does not have toplink or toplink has been edited this setting does not take effect. To put Fast Order shortcut to your wanted position please 
-insert this html into the file you want the shortcut will display:
+* Second section: Product List settings 
 
-*<a href="domain/fastorder/ajax/loadform/" title="Fast Order" class="bss-fastorder" data-featherlight="ajax">Fast Order</a>*
+	**Sort By** box allows admin to choose from listed options for setting the arrangement of reorder products in :italic:`"My Reorder Products"` board of 
+	customer account page. 
 
-Select CMS Page if you want to show Fast Order in a CMS Page. It's required to create a CMS	Page from Admin panel and add this code below into its content.
+Admin can set customer's reoder products by 3 following features: :italic:`Name, Price, Recent Order`.
 
-*{{block type="core/template" template="bss/fastorder/form.phtml}}*
+.. image:: images/reorder_product2.jpg
 
-In **Enabled jQuery Library**:
+In **Maximum Order amount** box, type the maximum amount of orders that can be reordered. 
 
-	* Choose Yes to enable jQuery Library to run things related to jQuery. 
+For all orders with total amount is more than this typed amount will not be able to be reordered and will not be displayed in :italic:`"My reorder products"` 
+board of customer account page.
 
-	* Choose No if your site already has jQuery Library already because it will cause some conflicts. 
-	
-With Wholesale Fast Order, you can easily set up the number of lines shown in the pop up and the shopping cart page.
+.. image:: images/reorder_product3.jpg
 
-.. image:: images/fast_order_1.png
+After all above configuration is done, you save the configuration by clicking on **Save config** button to the right of the backend. To see the change, go to 
+frontend and reload the page.
 
-In **Number of lines (Shopping Cart)**: you set the number of lines of Fast Order shown in the Shopping cart. For example, you set equal to 1 and the 
-number of lines in the shopping cart is 1 as bellows:
-
-.. image:: images/fast_order_2.png
-
-In **Number of lines (Pop up)**: you set the number of lines of Fast Order shown in the pop up. For example, you set equal to 3 and Fast order pop up contains 
-3 lines as bellows:
-
-.. image:: images/fast_order_3.png
-
-If you set these numbers of lines equal to 0, there is not any fast order shown in the pop up and the shopping cart page.
-
-.. image:: images/fast_order_4.png
-
-In **Autocomplete minimum characters**: you set the minimum characters customers have to type in the search box so that the result can appear.
-
-In **Max results to show**: you set the number of results displayed in the autocomplete box
-
-One of the differences of Wholesale Fast Order by BSS is the function of allowing admin to hide specific products with certain customer groups in fast order's 
-searching box.
-
-.. image:: images/fast_order_5.png
-
-In **Enable for customer groups**: you choose group for whom you do not want to enable Wholesale Fast Order
-
-In **Hide products with customer group**: You click "Add" to choose customer group and add product names or SKU that will be hidden from this group.
-
-In **XML of update blocks**:
-
-.. image:: images/fast_order_6.png
 
 
 .. raw:: html
 
    <style>
 		p {text-align: justify;}
-		a[class='reference external'] {font-weight:bold;}
+		.italic {font-weight:bold; font-style:italic;}
    </style>
 
