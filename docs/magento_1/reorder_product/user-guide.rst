@@ -35,9 +35,9 @@ There are two sections for admin to continue configuration: **General Settings**
 
 * First section: **General Settings** 
 
-	In **Display Controls** box, choose :italic:`Yes` to enable the extension. To disable all functions of this extension, choose :italic:`Yes`.
+	In **Display Controls** box, choose :italic:`Yes` to enable the extension. To disable all functions of this extension, choose :italic:`No`.
 
-* Second section: Product List settings 
+* Second section: **Product List settings** 
 
 	**Sort By** box allows admin to choose from listed options for setting the arrangement of reorder products in :italic:`"My Reorder Products"` board of 
 	customer account page. 
