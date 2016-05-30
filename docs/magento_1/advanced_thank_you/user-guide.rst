@@ -114,11 +114,11 @@ The frontend will appear like this below picture:
 
 There are 3 boxes appear for customization in this section:
 
-* Enable: Choose :italic:`Yes` to enable appearing :italic:`CMS block` on the Thank you page. Otherwise, choose :italic:`No`.
+* **Enable**: Choose :italic:`Yes` to enable appearing :italic:`CMS block` on the Thank you page. Otherwise, choose :italic:`No`.
 
-* Sort Order: Insert appearing ordinal number of :italic:`CMS block` on the thank you page.
+* **Sort Order**: Insert appearing ordinal number of :italic:`CMS block` on the thank you page.
 
-* CMS: Pick from the list the :italic:`CMS block` you wish to appear on the landing page.
+* **CMS**: Pick from the list the :italic:`CMS block` you wish to appear on the landing page.
 
 E.g: *If you choose* :italic:`"Electronics Landing"`, *the frontend will appear like this picture:*
 

@@ -39,11 +39,9 @@ You can easily enable or disable BSS Defer JavaScript module by selecting **"Yes
 There may be some pages you do not want them to be affected by Defer JavaScript. Therefore, to exclude impact of BSS Defer JavaScript from some pages, 
 you can fulfill these pages’ information into **Excluded** boxes:
 
-	* Exclude controllers and paths: By clicking **Add Match** button and then write down your wished paths or controllers you can disable defer JavaScript 
-	on these paths or controllers page. 
+	* Exclude controllers and paths: By clicking **Add Match** button and then write down your wished paths or controllers you can disable defer JavaScript on these paths or controllers page. 
 	
-	* Exclude Homepage: you can disable this module on Homepage through only a click. Select "Yes" in the **Exclude Home Page** box, you can disable the 
-	module on your home page. 
+	* Exclude Homepage: you can disable this module on Homepage through only a click. Select "Yes" in the **Exclude Home Page** box, you can disable the module on your home page. 
 	
 .. image:: images/defer_javascript_3.jpg
 
