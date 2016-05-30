@@ -8,10 +8,10 @@ User Guide
 Magento Advanced Thank You Page Overview 
 -----------------------------------------
 
-`Magento Advanced Thank You Page <http://bsscommerce.com/extensions/magento-configurable-product-tab-table-view.html>`_ extension is a unique extension which 
+`Magento Advanced Thank You Page <http://bsscommerce.com/magento1/magento-advanced-thank-you-page-extension.html>`_ extension is a unique extension which 
 allows admin to tweak the success page or also called "thank you page" for better sales conversion.
 
-The Success page, which appears when customer’s order process is accomplished, is often forgotten by many Magento users. Interestingly, this page can be of 
+The Success page, which appears when customer's order process is accomplished, is often forgotten by many Magento users. Interestingly, this page can be of 
 much value when admin know how to make use of it properly. Our Advanced Thank You Page Extension is designed with the hope to help you utilize the success page 
 to empower your sale.
 
@@ -54,12 +54,11 @@ There are 5 boxes appear in this section:
 
 * **Enable**: Choose :italic:`Yes` to enable appearing order's detail information on the Thank you page. Otherwise, choose :italic:`No`.
 
-* Sort Order: Insert appearing ordinal number of :italic:`order information` (E.g: if you insert "**1**" => order information will appear first on the thank you page)
+* **Sort Order**: Insert appearing ordinal number of :italic:`order information` (E.g: if you insert "**1**" => order information will appear first on the thank you page)
 
-* Show Order Number: Choose :italic:`Yes` to enable showing :italic:`Order number` on the thank you page. Otherwise, choose :italic:`No`.
+* **Show Order Number**: Choose :italic:`Yes` to enable showing :italic:`Order number` on the thank you page. Otherwise, choose :italic:`No`.
 
-* Show Order Button: Choose :italic:`Yes` to show **View Order** button for customer on thank you page. This button allow customers view all their orders' detail 
-information when click on through a navigation. 
+* **Show Order Button**: Choose :italic:`Yes` to show **View Order** button for customer on thank you page. This button allow customers view all their orders' detail information when click on through a navigation. 
 
 The frontend will appear like this below picture:
 
