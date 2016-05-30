@@ -63,7 +63,7 @@ If you choose Yes, you have to do the two following things:
 	
 	You click to each simple product to set price and choose **Price** in **Product Information**:
 	
-.. image:: images/pro_configurable_product_4.jpg
+	.. image:: images/pro_configurable_product_4.jpg
 
 	In **Price**: you set specific price for the product
 	
@@ -73,13 +73,13 @@ If you choose Yes, you have to do the two following things:
 	
 	The pro configurable product grid table view is displayed as below:
 	
-.. image:: images/pro_configurable_product_5.jpg
+	.. image:: images/pro_configurable_product_5.jpg
 	
 If you choose No, this extension will display the prices of configurable products instead of the different prices of simple products.
 	
 	The pro configurable product grid table view is displayed as below:
 
-.. image:: images/pro_configurable_product_6.jpg
+	.. image:: images/pro_configurable_product_6.jpg
 
 * In **Show Unit Price**: Choose **Yes** to display unit price column in the grid table view and choose **No** to hide it.
 
