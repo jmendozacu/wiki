@@ -18,7 +18,7 @@ you have to select whether you want to purchase it for Magento 1 OR Magento 2. I
 you will need to re-purchase the extension for Magento 2, as Magento 2 is a completely new system and not a simple upgrade.
 All our extensions had to be developed from scratch for Magento 2
 
-Our Magento 1 extensions are compatible with: 
+`Our Magento 1 extensions <http://bsscommerce.com/magento1.html/>`_ are compatible with: 
 
 	.. role:: menu
 		
@@ -26,7 +26,7 @@ Our Magento 1 extensions are compatible with:
 
 	:menu:`Enterprise:1.12.x.x, 1.13.x.x, 1.14.x.x`
 
-Our Magento 2 extensions are compatible with all current versions of Community and Enterprise 
+`Our Magento 2 extensions <http://bsscommerce.com/magento2.html/>`_ are compatible with all current versions of Community and Enterprise 
 	
 What browsers are your Magento extensions compatible with?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
