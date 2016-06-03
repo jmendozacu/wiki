@@ -47,7 +47,8 @@ When BSSCommerce publishes new version of any product,
 please take notice of the release note tab in the product page to get the update news about the new version. 
 Customers purchased product from us can get the updated version by `contacting us via email <http://bsscommerce.com/contacts>`_; 
 we will send the new package version once we receive this kind of request. 
-In addition, you can go to My Account-> My Downloadable Products to download the latest version of the extension. 
+In addition, you can go to `My Account <https://bsscommerce.com/customer/account/>`_ -> `My Downloadable Products <https://bsscommerce.com/downloadable/customer/products/>`_ to 
+download the latest version of the extension. 
 
 Can I get the updated versions of extensions for free?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -94,7 +95,7 @@ Where can I get the user guide of extension?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Our detailed user guide with clear instructions is attached on the product page of each extension you bought from our site or you also get
-user guide of each extension in this Wiki. 
+user guide of each extension in this `Wiki <http://wiki.bsscommerce.com/en/latest/>`_. 
 	
 License 
 ---------------------------------------------
@@ -117,7 +118,8 @@ How long does it take to receive my extension after purchasing?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
  When you finish your purchase, we will immediately send you an email including download link for you to get the module. In addition, the link 
- for downloading your paid extension will be provided for you in your account. Please go to My Account-> My Downloadable Products to see the available 
+ for downloading your paid extension will be provided for you in your account. 
+ Please go to `My Account <https://bsscommerce.com/customer/account/>`_ -> `My Downloadable Products <https://bsscommerce.com/downloadable/customer/products/>`_ to see the available 
  link and download the extension.
 	
 How can I get my Invoice?
