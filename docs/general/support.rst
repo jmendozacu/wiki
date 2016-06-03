@@ -7,15 +7,15 @@ Support includes answering any question related to our products and fixing any b
 it works well as the demo version. Support does not include customizing our product to fit your own needs; with any request for customization will require 
 extra fee. Free support service is just applied on paid products. Please notice that we do not offer free support for free extensions, 
 that means if customers ask for any kind of support for a free extension, there will be extra fee for this kind of service. 
-Customer can contact for support by Email, sending `Ticket <http://bsscommerce.com/>`_ or through our 
-`Live Chat <https://bsscommerce.com/helpdeskultimate/customer/>`_. Please kindly understand all support request on weekend will be processed 
+Customer can contact for support by Email, sending `Ticket <https://bsscommerce.com/helpdeskultimate/customer/>`_ or through our 
+`Live Chat <https://bsscommerce.com/>`_. Please kindly understand all support request on weekend will be processed 
 when we're back to office on next Monday (GMT+7).
 
 Email: support@bsscommerce.com
 
 Skype: support.bsscommerce
 
-`Live Chat <https://bsscommerce.com/helpdeskultimate/customer/>`_
+`Live Chat <https://bsscommerce.com/>`_
 
 There is a note that when you contact us for fixing bugs on your site, please provide us access to 
 your website (including Admin account and FTP information) so that we are able to support you as soon as possible. 
