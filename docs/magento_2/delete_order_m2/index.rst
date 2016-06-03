@@ -1,4 +1,4 @@
-Defer JavaScript
+Delete Order for Magento 
 ==============================
 
 
