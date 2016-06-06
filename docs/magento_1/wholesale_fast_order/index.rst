@@ -10,7 +10,8 @@ Wholesale Fast Order
 
     user-guide
     compatibility/index
+    changelog
+	faq
     
-    *
 
 
