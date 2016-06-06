@@ -47,7 +47,8 @@ Yes, you can. You configure it in "Enable for customer group" in the Magento adm
 I want to hide some products from retailer group but they still appear on Magento Wholesale Product list. Can the extension do this? And how?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-I want to hide some products from retailer group but they still appear on Magento Wholesale Product list. Can the extension do this? And how?
+Yes. The extension supports the feature. You can hide some products from particular customer group. To do this, click "Add" button on "Hide products with 
+customer group" and complete information there.
 
 Do I need to complete the product names when searching them?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
