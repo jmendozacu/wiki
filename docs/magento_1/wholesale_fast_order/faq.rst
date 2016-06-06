@@ -1,8 +1,10 @@
 FAQs
 =====
 
-General 
--------
+.. role:: red
+
+:red:`General`
+--------------
 
 Is this extension compatible with Magento rwd theme?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -28,8 +30,8 @@ You can follow Installation guide and carry out as instructed to install on your
 
 
 
-Features
---------
+:red:`Features`
+-----------------
 
 What types of products does your Magento extension support?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -69,8 +71,8 @@ Yes, it supports you to enable Jquery Library.
 
 
 
-Guide 
--------
+:red:`Guide` 
+-------------
 
 I want Magento Fast Order to display as a page instead of Popup. What should I do?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -116,3 +118,11 @@ How to manage the number of results shown in Fast Order popup?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In "Max results to show" from the Magento admin, you choose the number of results shown.
+
+
+.. raw:: html
+
+	<style>
+		.red {color:red;}
+		p {text-align: justify;}
+	</style>
