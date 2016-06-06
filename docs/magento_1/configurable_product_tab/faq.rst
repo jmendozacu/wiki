@@ -41,7 +41,7 @@ No, it cannot. Our module just shown the tab table in the product page
 
 **How to disable this extension from my site?**
  
-If you do not want to continue using this module, you go through **System->Configuration->Configurable product Tab Table**
+If you do not want to continue using this module, you go through **System -> Configuration -> Configurable product Tab Table**
 
 In Enable, you set No to disable this extension 
 
