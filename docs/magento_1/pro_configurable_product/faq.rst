@@ -32,7 +32,7 @@ Simple product pricing means that the module will display different prices and t
 
 Yes, of course. You absolutely add a lot of products to cart at one time just by choosing your desired quantities. 
  
-*When using this pro configurable product grid table view, what kind of images does color swatch support?**
+**When using this pro configurable product grid table view, what kind of images does color swatch support?**
 
 Color swatch 
  
@@ -70,7 +70,7 @@ in the Price section of children products?**
 In case you do not want to use simple product pricing, prices of children products are prices of your configurable products. It means that these 
 prices (or tier prices) of simple products are the same in the table. 
 
-So you needn’t configure anything in the price section of each simple product other than set No for Configurable products use simple price 
+So you needn't configure anything in the price section of each simple product other than set No for Configurable products use simple price 
 
 **How to disable Color Swatch for my configurable products?**
 
