@@ -25,8 +25,8 @@ BSSCommerce Wiki latest documentation
    magento_1/add_multiple_products/index
    magento_1/admin_product_preview/index
    magento_1/advanced_search_auto_complete/index
-   magento_1/advanced_thank_you/index
    magento_1/auto_invoice/index
+   magento_1/checkout_success_page/index
    magento_1/configurable_product/index
    magento_1/configurable_product_matrix/index
    magento_1/configurable_product_tab/index

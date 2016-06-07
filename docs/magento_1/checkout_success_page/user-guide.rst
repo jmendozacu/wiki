@@ -5,29 +5,29 @@ User Guide
 
 .. role:: example
 
-Magento Advanced Thank You Page Overview 
+Magento Checkout Success Page Overview 
 -----------------------------------------
 
-`Magento Advanced Thank You Page <http://bsscommerce.com/magento1/magento-advanced-thank-you-page-extension.html>`_ extension is a unique extension which 
+`Magento Checkout Success Page <http://bsscommerce.com/magento-checkout-success-page.html>`_ extension is a unique extension which 
 allows admin to tweak the success page or also called "thank you page" for better sales conversion.
 
 The Success page, which appears when customer's order process is accomplished, is often forgotten by many Magento users. Interestingly, this page can be of 
-much value when admin know how to make use of it properly. Our Advanced Thank You Page Extension is designed with the hope to help you utilize the success page 
+much value when admin know how to make use of it properly. Our Checkout Success Page Extension is designed with the hope to help you utilize the success page 
 to empower your sale.
 
 
-How does Magento Advanced Thank You Page extension work? 
+How does Magento Checkout Success Page extension work? 
 --------------------------------------------------------
 
 As an admin, you can set up your own store page by the most effective way that supports your trading objective. To polish the website configuration:
 
 * Step 1: Go to **Admin Panel** => **System** => **Configuration**
 
-* Step 2:  At the left side of the page, find **BSS COMMERCE**  => select **Advanced Thank You Page** 
+* Step 2:  At the left side of the page, find **BSS COMMERCE**  => select **Checkout Success Page** 
 
 After these 2 steps, a screen for configuration appears like the below picture:
 
-.. image:: images/advanced_thank_you.jpg
+.. image:: images/checkout_success_page.jpg
 
 There are 6 sections for admin to continue configuring the extension: **General, Order Information Section, Newsletter Subscription Section, 
 Cross Sell Block Section, CMS Block Section, Social Network Sharing Section.**
@@ -35,7 +35,7 @@ Cross Sell Block Section, CMS Block Section, Social Network Sharing Section.**
 1.	General Settings 
 ^^^^^^^^^^^^^^^^^^^^
 
-.. image:: images/advanced_thank_you1.jpg
+.. image:: images/checkout_success_page1.jpg
 
 There are 2 options in box **Enable**: **Yes** and **No**.
 
@@ -48,7 +48,7 @@ There are 2 options in box **Enable**: **Yes** and **No**.
 2.	Order Information Section 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: images/advanced_thank_you2.jpg
+.. image:: images/checkout_success_page2.jpg
 
 There are 5 boxes appear in this section:
 
@@ -62,7 +62,7 @@ There are 5 boxes appear in this section:
 
 The frontend will appear like this below picture:
 
-.. image:: images/advanced_thank_you2_1.jpg
+.. image:: images/checkout_success_page2_1.jpg
 
 :example:`*Note: Customers who check out as guests will not able to see` :italic:`View Order` *button*.
 
@@ -75,7 +75,7 @@ After configuration, click on **Save config** button and reload the frontend to 
 3.	Newsletter Subscription Section 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: images/advanced_thank_you3.jpg
+.. image:: images/checkout_success_page3.jpg
 
 There are 2 boxes appear for customization in this section:
 
@@ -85,14 +85,14 @@ There are 2 boxes appear for customization in this section:
 
 The frontend will appear like this below picture:
 
-.. image:: images/advanced_thank_you3_1.jpg
+.. image:: images/checkout_success_page3_1.jpg
 
 
 
 4.	Newsletter Subscription Section
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: images/advanced_thank_you4.jpg
+.. image:: images/checkout_success_page4.jpg
 
 There are 3 boxes appear for customization in this section:
 
@@ -104,13 +104,13 @@ There are 3 boxes appear for customization in this section:
 
 The frontend will appear like this below picture:
 
-.. image:: images/advanced_thank_you4_1.jpg
+.. image:: images/checkout_success_page4_1.jpg
 
 
 5.	CMS Block Section
 ^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: images/advanced_thank_you5.jpg
+.. image:: images/checkout_success_page5.jpg
 
 There are 3 boxes appear for customization in this section:
 
@@ -122,14 +122,14 @@ There are 3 boxes appear for customization in this section:
 
 E.g: *If you choose* :italic:`"Electronics Landing"`, *the frontend will appear like this picture:*
 
-.. image:: images/advanced_thank_you5_1.jpg
+.. image:: images/checkout_success_page5_1.jpg
 
 
 
 6.	Social Network Sharing Section
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: images/advanced_thank_you6.jpg
+.. image:: images/checkout_success_page6.jpg
 
 There are 3 boxes appear for customization in this section:
 
@@ -141,7 +141,7 @@ There are 3 boxes appear for customization in this section:
 
 *E.g: If choosing* :italic:`"Large icons"` *the frontend will appear like this picture:*
 
-.. image:: images/advanced_thank_you6_1.jpg
+.. image:: images/checkout_success_page6_1.jpg
 
 
 

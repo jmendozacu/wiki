@@ -1,4 +1,4 @@
-Advanced Thank you Page
+Checkout Success Page
 =======================
 
 
