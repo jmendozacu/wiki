@@ -14,8 +14,8 @@ This module works well with both Magento Community Edition and Magento Enterpris
 **How can I get updates for Configurable product grid table view?**  
 
 Please take a look at the release note tab in the Configurable product grid table view page and you will get news about update information. You also 
-contact us via email and we will send you the new package version of this module.  In addition, you can download the latest version of Configurable product 
-grid table view by going to My Account->My Downloadable Products. 
+contact us via email and we will send you the new package version of this module.  In addition, you can download the latest version of Configurable product grid table view by going 
+to `My Account <https://bsscommerce.com/customer/account/>`_ -> `My Downloadable Products <https://bsscommerce.com/downloadable/customer/products/>`_ . 
 
 **How do I uninstall Configurable product grid table view?** 
 

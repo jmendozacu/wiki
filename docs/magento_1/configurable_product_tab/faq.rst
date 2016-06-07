@@ -57,8 +57,6 @@ Otherwise, they are still in the original table when you set No
  
 It’s very simple, you find **Show Detailed Qty Selected** in the configuration of this module from backend, set No for it to only display total product quantity. 
 
-**What should I do to exclude an out of stock product from the table?** 
-
 
 .. raw:: html
 
