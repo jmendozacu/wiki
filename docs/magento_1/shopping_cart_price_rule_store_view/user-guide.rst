@@ -6,21 +6,21 @@ User Guide
 .. role:: example
 
 
-Magento Shopping Cart Rules per Store View Extension Overview
+Magento Shopping Cart Price Rule per Store View Extension Overview
 -------------------------------------------------------------
 
 If you are using multiple store views function to do business on your Magento site, have you ever had a demand of creating different shopping cart rules for 
 each store view? Do you want to offer different promotional prices for each target customer group in each store view? 
 
-`Magento Shopping Cart Rules per Store View Extension <http://bsscommerce.com/magento1/shopping-cart-rules-per-store-view.html>`_ is developed to optimize the 
+`Magento Shopping Cart Price Rule per Store View Extension <http://bsscommerce.com/magento1/shopping-cart-rules-per-store-view.html>`_ is developed to optimize the 
 multiple store view function by enabling admin to set up different price rules in shopping cart of different store views. With this powerful extension, you can 
 manage your promotional price strategy effectively, leading to boosting up sale and completing multiple store view system.
 
 
-How does Magento Shopping Cart Rules per Store View Extension work?
+How does Magento Shopping Cart Price Rule per Store View Extension work?
 -------------------------------------------------------------------
 
-1.	Enable Shopping Cart Rules per Store View Extension
+1.	Enable Shopping Cart Price Rule per Store View Extension
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 You go to **System** -> **Configuration** -> **Shopping Cart Price Rules Per Store**
