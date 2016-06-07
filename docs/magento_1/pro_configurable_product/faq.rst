@@ -22,7 +22,6 @@ The differences are mainly concentrated on some advanced features of Pro configu
 Color swatch is the function that helps customers to show configurable products with different colors and designs when they click to each attribute 
 such as color, fabric or size (attributes depend on your configurable products)
 
-**What does color swatch function do?**
  
 **What is the function of simple product pricing?**
 
@@ -31,10 +30,7 @@ Simple product pricing means that the module will display different prices and t
 **Can I add multiple products to cart at once?**
 
 Yes, of course. You absolutely add a lot of products to cart at one time just by choosing your desired quantities. 
- 
-**When using this pro configurable product grid table view, what kind of images does color swatch support?**
 
-Color swatch 
  
 **In what cases does color swatch display as a label or as a picture?**
 
