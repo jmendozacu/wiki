@@ -24,7 +24,7 @@ grid table view by going to My Account->My Downloadable Products.
 
 **Can I add many products to cart at one time?**
  
-Yes, of course. Let’s fill your desired quantities and add them to cart by clicking "**Add to Cart**" button 
+Yes, of course. Let's fill your desired quantities and add them to cart by clicking "**Add to Cart**" button 
 
 **How many attributes that Configurable product grid table view can support?**
  
@@ -53,7 +53,7 @@ Yes, it supports you to enable Jquery Library.
 
 **I just want show stock status, not stock number in the table, how should I do?**
  
-You go to the backend and set No for “Display Stock Number”. The you Save config and go to the frontend to see changes. In the stock availability 
+You go to the backend and set No for "**Display Stock Number**". The you Save config and go to the frontend to see changes. In the stock availability 
 column, stock numbers are replaced with stock status. 
 
 **How can I hide stock availability column from the table?**
