@@ -12,7 +12,8 @@ Yes, it is compatible with rwd theme of Magento
 
 **How can I get user guide of Wholesale Fast Order?**
 
-You can get user guide in the PDF file right on the product page of Wholesale Fast Order or user guide in this wiki 
+You can get user guide in the PDF file right on the product page of `Wholesale Fast Order <http://bsscommerce.com/magento-wholesale-fast-order.html>`_ or user guide in 
+this `wiki <http://wiki.bsscommerce.com/en/latest>`_
 
 **Do you provide free support and free installation for Wholesale Fast Order?** 
 
