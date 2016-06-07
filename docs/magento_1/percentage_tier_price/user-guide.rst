@@ -88,7 +88,7 @@ There are 4 criterias admin need to know and fill in: :italic:`Customer Group, Q
 	+In **Of** column, choose 1 of 2 options to apply discount on: :italic:`Standard Price` *and* :italic:`Group Price`. *Remember that if admin choose* 
 	:italic:`Fixed` *on* :italic:`Type` *column, this section is disabled*.
 	
--In **Value** column, fill with new value for tier price by a new dollar amount (for fixed discount) or by percentage (for % discount)
+	+In **Value** column, fill with new value for tier price by a new dollar amount (for fixed discount) or by percentage (for % discount)
 
 :example:`*For this example:`
 
