@@ -3,9 +3,6 @@ FAQs
 
 .. role:: red
 
-:red:`General`
---------------
-
 
 
 .. raw:: html
