@@ -3,8 +3,6 @@ Changelog
 
 .. role:: red
 		
-
-
 	
 .. raw:: html
 
