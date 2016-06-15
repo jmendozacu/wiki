@@ -2,8 +2,8 @@ Installation Guide
 ==================
 
 
-For Magento 1.9.2.x
---------------------
+For Magento 1.6 and above
+-------------------------
 
 **Step 1:**
 
@@ -37,7 +37,7 @@ You copy file **app/code/core/Mage/Catalog/Model/Resource/Eav/Mysql4/Product/Col
 **Step 2:**
 
 Open file **app/code/local/Mage/Catalog/Model/Resource/Eav/Mysql4/Product/Collection.ph**, search **"protected function _productLimitationJoinPrice()"** 
-and insert code below after this line: 
+and insert this snippet of code after following line: 
 
 .. literalinclude:: code_examples/magento1.5_join_step3.py
 
