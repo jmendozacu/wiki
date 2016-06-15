@@ -19,7 +19,7 @@ of orders with tiny amount are not cost-efficient for your business, then you ca
 
 **3. Magento also has a default minimum order amount function, so why should i use another extension like BSS Minimum Order Amount for my website?**
 
-:bullet:`The reason`why we develop this extension is to optimize the similar default function in Magento. Magento itself just allows you to set up a 
+:bullet:`The reason` why we develop this extension is to optimize the similar default function in Magento. Magento itself just allows you to set up a 
 specific minimum order amount for the whole website, meanwhile our extension enables you to choose different minimum amounts for different 
 customer groups, especially at the scope of a storeview only. It is super convenient when your website has multi-store view.
 
