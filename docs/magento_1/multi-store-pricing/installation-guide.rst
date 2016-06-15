@@ -31,14 +31,10 @@ For Magento 1.5
 
 **Step 1:**
 
-You copy all files in the extension folder to the Magento root folder.
-
-**Step 2:**
-
 You copy file **app/code/core/Mage/Catalog/Model/Resource/Eav/Mysql4/Product/Collection.php** to 
 **app/code/local/Mage/Catalog/Model/Resource/Eav/Mysql4/Product/Collection.php**
 
-**Step 3:**
+**Step 2:**
 
 Open file **app/code/local/Mage/Catalog/Model/Resource/Eav/Mysql4/Product/Collection.ph**, search **"protected function _productLimitationJoinPrice()"** 
 and insert code below after this line: 
