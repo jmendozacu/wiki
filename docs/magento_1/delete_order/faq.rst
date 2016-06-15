@@ -25,7 +25,7 @@ of info will have to be done seperately.
 **4. Using this extension, if i delete a certain order by mistake, is it moved to a folder like recycle bin from which i can find and restore it or it 
 is deleted for good?**
 
-:bullet:`Unfortunately`, the answer is no. When you delete an order, it is deleted permanently and can not be restore. So before hitting the Submit button 
+:bullet:`Unfortunately`, the answer is no. When you delete an order, it is deleted permanently and can not be restore. So before hitting the **Submit** button 
 for this action, please take a second look carefully
 
 Guide
