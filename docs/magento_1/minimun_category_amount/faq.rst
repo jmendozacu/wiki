@@ -68,6 +68,6 @@ enable the module, at "Select children categories price" you choose Min Price or
 
 	<style>
 		p {text-align: justify;}
-		.bullet:before {content:'\2192';margin-right: 5px;}
+		.bullet:before {content:'\2192';margin-right: 9px;}
 	</style>
 
