@@ -46,7 +46,7 @@ Guide
 amount for that product?**
 
 :bullet:`There are` two options for you to decide the final minimum order amount for a certain product in multiple categories: it will be the min or max price 
-among  different minimum order amounts for all those categories. To do so, go to System :bullet:`Configuration` :bullet:`BSS Commerce` :bullet:`Categories Minimum Amount` then 
+among  different minimum order amounts for all those categories. To do so, go to System :bullet:`Configuration`  :bullet:`BSS Commerce`  :bullet:`Categories Minimum Amount` then 
 enable the module, at "Select children categories price" you choose Min Price or Max Price
 
 	* Min Price: The final one will be the lowest among minimum amounts of all categories into which that product is sorted
