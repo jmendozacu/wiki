@@ -28,19 +28,16 @@ out if you are interested.
 
 **4. Does this extension support a customized notification to customers when their order amount is less than the minimum set?**
 
-:bullet:`Yes`. And remember to follow the structure to create this customized message, for example: “Category "{{category}}" has an 
-order minimum of {{price}}”. Because {{category}} and {{price}} are added to make sure each name and minimum order amount of a certain category to 
+:bullet:`Yes`. And remember to follow the structure to create this customized message, for example: "Category "{{category}}" has an 
+order minimum of {{price}}". Because {{category}} and {{price}} are added to make sure each name and minimum order amount of a certain category to 
 be shown in a specific notification
 
 
 **5. Does this minimum order amount configuration take effect at website level or store view level?**
 
-:bullet:`No`. You can manage the number of your customer groups and the limit of their order value also
-
-**6. What is the difference between Descripton message and Error to show in shopping cart?**
-
-:bullet:`Only at store view level`. To change the store view, select which one you want at the section “Current Configuration Scope” on the top left of 
+:bullet:`Only at store view level`. To change the store view, select which one you want at the section "Current Configuration Scope" on the top left of 
 Categories Minimum Amount configuration page
+
 
 Guide
 -----
@@ -50,7 +47,7 @@ amount for that product?**
 
 :bullet:`There are` two options for you to decide the final minimum order amount for a certain product in multiple categories: it will be the min or max price 
 among  different minimum order amounts for all those categories. To do so, go to System :bullet:`Configuration` :bullet:`BSS Commerce` :bullet:`Categories Minimum Amount` then 
-enable the module, at “Select children categories price” you choose Min Price or Max Price
+enable the module, at "Select children categories price" you choose Min Price or Max Price
 
 	* Min Price: The final one will be the lowest among minimum amounts of all categories into which that product is sorted
 	
@@ -59,7 +56,7 @@ enable the module, at “Select children categories price” you choose Min Price or
 **2. When i don’t fill in a specific minimum order amount for a subcategory, does the minimum order amoun of its root category count?**
 
 :bullet:`This is` also can decided by your options: the answer can be Yes or No depending on which one you choose at the section 
-“Select minimum order amount of parent categories” (System :bullet:`Configuration` :bullet:`BSS Commerce` :bullet:`Categories Minimum Amount`)
+"Select minimum order amount of parent categories" (System :bullet:`Configuration` :bullet:`BSS Commerce` :bullet:`Categories Minimum Amount`)
 
 	* Choose Yes: Minimum amount of root category will be counted as minimum amount of that subcategory
 	
