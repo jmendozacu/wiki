@@ -53,7 +53,7 @@ enable the module, at "Select children categories price" you choose Min Price or
 	
 	* NMax Price: The final one will be the highest among minimum amounts of all categories into which that is sorted 
 
-**2. When i don’t fill in a specific minimum order amount for a subcategory, does the minimum order amoun of its root category count?**
+**2. When i don't fill in a specific minimum order amount for a subcategory, does the minimum order amoun of its root category count?**
 
 :bullet:`This is` also can decided by your options: the answer can be Yes or No depending on which one you choose at the section 
 "Select minimum order amount of parent categories" (System :bullet:`Configuration` :bullet:`BSS Commerce` :bullet:`Categories Minimum Amount`)

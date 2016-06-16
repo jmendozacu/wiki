@@ -36,11 +36,9 @@ Guide
 
 :bullet:`This extension` is very easy to handle:
 
-	* You just need to enable the module. To do that, go to System :bullet:`Configuration` :bullet:`BSS Commerce` :bullet:`Sales QTy for Customer Group`, then at 
-	General settings section of this module you choose Yes
+	* You just need to enable the module. To do that, go to System :bullet:`Configuration` :bullet:`BSS Commerce` :bullet:`Sales QTy for Customer Group`, then at General settings section of this module you choose Yes
 	
-	* Then go set up limits for which product you want (Catalog :bullet:`Manage Products` :bullet:`(choose the product)` :bullet:`Inventory` :bullet:`Set up Min/Max Sales Qty` for 
-	customer groups as picture below:
+	* Then go set up limits for which product you want (Catalog :bullet:`Manage Products` :bullet:`(choose the product)` :bullet:`Inventory` :bullet:`Set up Min/Max Sales Qty` for customer groups as picture below:
 
 
 
