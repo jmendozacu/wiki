@@ -20,7 +20,7 @@ BSS Limit Order Quantity per Product extension enables configuration of lowest a
 customer to procced to check out.
 
 
-**For each product, are maximum and minimum limits of order quantity fixed for every customer? What if i only want to set order quantity limits to 
+**For each product, are maximum and minimum limits of order quantity fixed for every customer? What if I only want to set order quantity limits to 
 some specific customers?**
 
 Using this extension, limit order quantity per product can be set up differently among your customer groups, even when only one group is set up limits 
