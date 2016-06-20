@@ -104,8 +104,8 @@ In **Show Detailed Qty Selected**:
 		p {text-align: justify;}
 	</style>
 	
-	<script>
-		jQuery(Document).ready(function () {
+	<script type="text/javascript">
+		jQuery(function () {
 			jQuery("a[href^='http']").attr('target','_blank');l
 		});
 	</script>
