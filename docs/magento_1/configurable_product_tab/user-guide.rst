@@ -105,7 +105,7 @@ In **Show Detailed Qty Selected**:
 	</style>
 	
 	<script>
-		$(Document).ready(function() {
-			$("a[href^='http']").attr('target','_blank');l
+		jQuery(Document).ready(function() {
+			jQuery("a[href^='http']").attr('target','_blank');l
 		});
 	</script>
