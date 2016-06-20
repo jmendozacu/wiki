@@ -8,15 +8,15 @@ FAQs
 
 **How many attributes can your module support?**
 
-Our extension supports just two attributes with unlimited custom options of each attribute
+Our extension supports just two attributes with unlimited options of each attribute
 
 **How does this module calculate total quantity?**
  
-This module calculates total quantity based on the quantity of each selected custom option in the attribute tab. 
+This module calculates total quantity based on the quantity of each selected option in the attribute tab. 
 
 **When are tier prices displayed in a separate table?**
  
-Tier prices are shown in a separate table only when all children products have the same tier prices  
+Tier prices are shows in a separate table only when all children products have the same tier prices  
 
 **Assume that I have 9 simple products that have the same tier prices and another simple product with different tier prices from 9 other ones, whether 
 can this extension display tier prices of 10 products in a separate table or not?**
@@ -33,7 +33,7 @@ Yes, total amount are also calculated automatically anytime you adjust your desi
 
 **Can your module support displaying the tab table in the category page?**
  
-No, it cannot. Our module just shown the tab table in the product page 
+No, it cannot. Our module just shows the tab table on the product page 
 
 
 :red:`Guide` 
@@ -49,13 +49,13 @@ In Enable, you set No to disable this extension
  
 No, this depends on your setting in the backend. 
 
-In **Advanced Tier Prices**: if you set Yes, these products are just shown in a separate table 
+In **Advanced Tier Prices**: if you set Yes, these products are just shows in a separate table 
 
 Otherwise, they are still in the original table when you set No 
 
-**I just want to know total product quantity I have chosen, not quantities of custom options in the attribute tab, so how can I do it?**
+**I just want to know total product quantity I have chosen, not quantities of options in the attribute tab, so how can I do it?**
  
-It’s very simple, you find **Show Detailed Qty Selected** in the configuration of this module from backend, set No for it to only display total product quantity. 
+It's very simple, you find **Show Detailed Qty Selected** in the configuration of this module from backend, set No for it to only display total product quantity. 
 
 
 .. raw:: html

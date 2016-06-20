@@ -103,3 +103,9 @@ In **Show Detailed Qty Selected**:
 		.menu:before {content:"\2714";margin-right:10px;}
 		p {text-align: justify;}
 	</style>
+	
+	<script>
+		$(Document).ready(function() {
+			$("a[href^='http']").attr('target','_blank');l
+		});
+	</script>
