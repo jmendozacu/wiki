@@ -104,9 +104,3 @@ In **Show Detailed Qty Selected**:
 		p {text-align: justify;}
 	</style>
 	
-	<script type="text/javascript">
-		var links = document.querySelectorAll("a[href^='http']");
-		for (i=0; i < links.length; i++){
-		  links[i].setAttribute("target", "_blank");
-		}
-	</script>
