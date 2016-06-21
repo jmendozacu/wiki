@@ -52,16 +52,19 @@ In **Custom Option Product:**
 Next, you can choose product types to apply this module:
 	
 In **Downloadable Product:**
+
 	* Choose **Yes** and customers can add multiple downloadable products to cart
 	
 	* Choose **No** and there are not check box and quantity box for this product type. It means that customers cannot also add downloadable products along with other product types
 
 In **Configurable Product:**
+
 	* Choose **Yes** and customers can add multiple configurable products to cart
 	
 	* Choose **No** and there are not check box and quantity box for this product type. It means that customers cannot also add configurable products along with other product types
 
 In **Bundle Product:**
+
 	* Choose **Yes** and customers can add multiple bundle products to cart
 	
 	* Choose **No** and there are not check box and quantity box for this product type. It means that customers cannot also add bundle products along with other product types
