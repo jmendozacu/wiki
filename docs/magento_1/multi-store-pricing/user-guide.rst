@@ -63,7 +63,7 @@ You choose :italic:`Store` to enable the module. Then you click **Save Config** 
 	.. image:: images/multi_store_pricing_2.1.jpg
 
 	Step 2: In **Price** section (on the left side column), you unmark **"Use Default Value"** and add your wanted price for the product in this 
-	English store view: :pound:`500`, for instance 
+	English store view: :pound:`700`, for instance 
 
 	In addition, you can also set up **Special Prices** for this product 
 
@@ -107,13 +107,13 @@ You choose :italic:`Store` to enable the module. Then you click **Save Config** 
 	.. image:: images/multi_store_pricing_3.1.jpg
 
 	**Step 2**: In **Price** section (on the left side column), you unmark **"Use Default Value"** and add your wanted price for the product in this 
-	French store view: :euro:`550`, for instance 
+	French store view: :euro:`1000`, for instance 
 
 	Finally you save configuration in go to the frontend to see the changes:
 
 	**Price of HTC Touch Diamond (Cell Phones) in the French store view from the product page:** 
 
-	.. image:: images/multi_store_pricing_3.1.jpg
+	.. image:: images/multi_store_pricing_3.2.jpg
 
 4. Conclusion
 ^^^^^^^^^^^^^
