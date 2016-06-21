@@ -62,7 +62,7 @@ into email variables so that when creating an email template, you can use this i
 
 .. image:: images/order_delivery_date_m2_2_1.jpg
 
-After loading default template, in Template Information section, click **Insert Variable… ** then you will see added variables added by this module
+After loading default template, in Template Information section, click **Insert Variable...** then you will see added variables added by this module
 
 .. image:: images/order_delivery_date_m2_2_2.jpg
 
