@@ -43,7 +43,7 @@ delete them by clicking on trash bin icon under column "Action". Content for eac
 .. image:: images/order_delivery_date_m2_1_3.jpg
 
 There are "Time Slots" to set up delivery time more exactly by hours in the day. You can also Add new time slots or Delete them, and write a note for each one just in similar way to what you do with Holidays/Exclude Days/ Blackout Days before.
-In "Disable Delivery Date" section, you can fix the days in every week that are not available for delivery options.
+In **"Disable Delivery Date"** section, you can fix the days in every week that are not available for delivery options.
 
 .. image:: images/order_delivery_date_m2_1_4.jpg
 
@@ -56,13 +56,13 @@ go to **Sales** section and choose which one you want to see. Opening every sing
 
 .. image:: images/order_delivery_date_m2_2.jpg
 
-As for Emails, Order Delivery Date for Magento 2 Extension automatically adds Delivery Date, Time slots and Arrival Comments as given by customers 
+As for **Emails**, Order Delivery Date for Magento 2 Extension automatically adds Delivery Date, Time slots and Arrival Comments as given by customers 
 into email variables so that when creating an email template, you can use this information if needed. To do so, from Admin Panel you go to 
 **Marketing** :bullet:`Email Templates` :bullet:`Add new template`
 
 .. image:: images/order_delivery_date_m2_2_1.jpg
 
-After loading default template, in Template Information section, click **Insert Variable…** then you will see added variables added by this module
+After loading default template, in Template Information section, click **Insert Variable… ** then you will see added variables added by this module
 
 .. image:: images/order_delivery_date_m2_2_2.jpg
 
