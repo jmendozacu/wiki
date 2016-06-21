@@ -34,11 +34,9 @@ In **Add Lib jQuery:**
 	
 In **Validate bug:** in this field, you will select the way to notify errors occurring when customers add products to cart.
 
-	* If you choose **Yes**, a popup of error notification will appear when customers add   to cart products without selecting custom options or 
-	when no products are added  to cart
+	* If you choose **Yes**, a popup of error notification will appear when customers add   to cart products without selecting custom options or when no products are added  to cart
 	
-	* If you choose **No**, error notification will be displayed in the shopping cart for products that customers do not select custom options 
-	for them. Other products are still added to cart.
+	* If you choose **No**, error notification will be displayed in the shopping cart for products that customers do not select custom options for them. Other products are still added to cart.
 	
 .. image:: images/add_multiple_product1.jpg
 
@@ -56,20 +54,17 @@ Next, you can choose product types to apply this module:
 In **Downloadable Product:**
 	* Choose **Yes** and customers can add multiple downloadable products to cart
 	
-	* Choose **No** and there are not check box and quantity box for this product type. It means that customers cannot also add downloadable products along 
-	with other product types
+	* Choose **No** and there are not check box and quantity box for this product type. It means that customers cannot also add downloadable products along with other product types
 
 In **Configurable Product:**
 	* Choose **Yes** and customers can add multiple configurable products to cart
 	
-	* Choose **No** and there are not check box and quantity box for this product type. It means that customers cannot also add configurable products along 
-	with other product types
+	* Choose **No** and there are not check box and quantity box for this product type. It means that customers cannot also add configurable products along with other product types
 
 In **Bundle Product:**
 	* Choose **Yes** and customers can add multiple bundle products to cart
 	
-	* Choose **No** and there are not check box and quantity box for this product type. It means that customers cannot also add bundle products along 
-	with other product types
+	* Choose **No** and there are not check box and quantity box for this product type. It means that customers cannot also add bundle products along with other product types
 
 Finally, you click **Save Config** and see changes in the frontend.
 
