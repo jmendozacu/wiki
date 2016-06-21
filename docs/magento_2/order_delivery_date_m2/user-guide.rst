@@ -73,7 +73,7 @@ Comment will be included.
 
    <style>
 		p {text-align: justify;}
-		.bullet:before {content:'\2192';margin-right: 9px;font-weight: bold;}
+		.bullet:before {content:'\2192';margin-right: 5px;font-weight: bold; font-size:20px;}
 		.bullet {font-weight: bold;}
    </style>
 
