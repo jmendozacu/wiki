@@ -38,7 +38,7 @@ Remember that with Paypal method, invoice will be generated automatically by def
 2.	Enable automatic invoice/ shipment generation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-In “Enable automatic invoice generation” box, after you choose Yes to enable the function, invoices will be generated automatically after orders are completed. 
+In "Enable automatic invoice generation" box, after you choose Yes to enable the function, invoices will be generated automatically after orders are completed. 
 
 You set up similarly with automatic shipment generation in the following box. 
 
