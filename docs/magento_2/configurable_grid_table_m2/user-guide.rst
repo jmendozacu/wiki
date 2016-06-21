@@ -4,7 +4,7 @@ User Guide
 Configurable Product Grid Table View for Magento 2 Overview
 -----------------------------------------------------------
 
-Along with Magento 1 version, `Configurable Product Grid Table View for Magento 2 extension <http://bsscommerce.com/magento2/magento-configurable-product-grid-table-view-for-magento-2.html>`_ supports 
+Along with Magento 1 version, `Configurable Product Grid Table View for Magento 2 extension <http://bsscommerce.com/magento-configurable-product-grid-table-view-for-magento-2.html>`_ supports 
 better shopping experience by allowing customers to add multiple products to cart at once. This module displays all children products of the configurable product 
 in a very simple table with fields such as product availability, price, quantity and subtotal. Especially, a price range of the configurable product is also 
 shown on the category page, which is determined by the lowest and highest one among prices of children products. 
