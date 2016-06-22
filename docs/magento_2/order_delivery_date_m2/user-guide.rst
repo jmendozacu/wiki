@@ -6,7 +6,7 @@ User Guide
 Order Delivery Date for Magento 2 Extension Overview
 ----------------------------------------------------
 
-With help of `Order Delivery Date for Magento 2 Extension <http://bsscommerce.com/magento-configurable-product-grid-table-view-for-magento-2.html>`_ , shipment 
+With help of `Order Delivery Date for Magento 2 Extension <http://bsscommerce.com/magento-order-delivery-date-for-magento-2.html>`_ , shipment 
 information for every order from your Magento 2 based websites will be more detailed and clearer than ever. In the fron-end, customers can choose 
 the exact **dates** and **time slots**; even leave a **comment** about it. In the back-end, website admin can easily control his own conditions to build 
 timing options for customers, including: Processing Time, Cut-off Time, Holidays/Exclude days/Blackout days, Time slots, Disable Delivery Date
