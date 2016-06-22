@@ -8,7 +8,7 @@ As you know, Magento default does not allow customers to add many products to ca
 search result pages. Therefore, customers cannot order their desired products with a large quantity when they do not want to visit each product page one 
 by one because it is very time-consuming.
 
-`Magento Add Multiple Products to Cart <http://bsscommerce.com/magento1/shopping-cart-rules-per-store-view.html>`_ is developed by BSSCommerce to solve 
+`Magento Add Multiple Products to Cart <http://bsscommerce.com/magento-add-multiple-products-to-cart.html>`_ is developed by BSSCommerce to solve 
 this issue and bring better shopping experience for customers. By allowing customers to add multiple items to cart with various quantities at once, they can save 
 a lot of time with the quicker order process than the normal one and also store owners can increase sales well, especially when target customers are wholesalers.
 
@@ -74,7 +74,7 @@ Finally, you click **Save Config** and see changes in the frontend.
 Note
 ----
 
-`Magento Add Multiple Products to Cart Extension <http://bsscommerce.com/magento1/shopping-cart-rules-per-store-view.html>`_ does not work with pagination of 
+`Magento Add Multiple Products to Cart Extension <http://bsscommerce.com/magento-add-multiple-products-to-cart.html>`_ does not work with pagination of 
 product list pages. It means that if customers select multi products in page 1, they can add all of these products to cart in only page 1, not in other pages
 
 
