@@ -1,5 +1,5 @@
-Multi Store Pricing
-====================
+Multiple Store View Pricing
+===========================
 
 
 
