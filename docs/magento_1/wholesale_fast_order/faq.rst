@@ -109,35 +109,27 @@ In "Max results to show" from the Magento admin, you choose the number of result
 
 Having problems with Currency Decimal separator?
 
-In some countries Currency separator is "," while "." is used in US or UK. To fix problem when installing Wholesale Fast Order on the store using 
-Decimal separator as "," please follow below changes:
+In some countries Currency separator is " , " while " . " is used in US or UK. To fix problem when installing Wholesale Fast Order on the store using 
+Decimal separator as " , " please follow below changes:
 
 Edit file: /skin/frontend/base/default/js/bss/fastorder.js
 
 Change: 
 
-      finalprice   = Number(finalprice.replace(/[^0-9\.]+/g,""));
+      finalprice   = Number(finalprice.replace(/[^0-9\.]+/g," "));
 	  
 Into:
 
-      finalprice   = Number(finalprice.replace(",","."));
+      finalprice   = Number(finalprice.replace(" , " , " . "));
 
 
 Change:
 
-     function convertPrice(price) {
-              price = parseFloat(price).toFixed(2).replace(/(\d)(?=(\d{3})+\.)/g, "$1,");
-              return price;
-     }
+.. literalinclude:: code_examples/common_problem_change.py
 	 
 Into:
 
-     function convertPrice(price) {
-              price = parseFloat(price).toFixed(2);
-              price = price.replace(".",",");
-              price = price.replace(/(\d)(?=(\d{3})+\,)/g, "$1.")
-              return price;
-     }
+.. literalinclude:: code_examples/common_problem_into.py
 
 
 
