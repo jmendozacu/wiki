@@ -118,7 +118,7 @@ Change:
 
       finalprice   = Number(finalprice.replace(/[^0-9\.]+/g,""));
 	  
-Into
+Into:
 
       finalprice   = Number(finalprice.replace(",","."));
 
@@ -126,22 +126,16 @@ Into
 Change:
 
      function convertPrice(price) {
-	 
               price = parseFloat(price).toFixed(2).replace(/(\d)(?=(\d{3})+\.)/g, "$1,");
-			  
               return price;
      }
 	 
 Into:
 
      function convertPrice(price) {
-	 
               price = parseFloat(price).toFixed(2);
-			  
               price = price.replace(".",",");
-			  
               price = price.replace(/(\d)(?=(\d{3})+\,)/g, "$1.")
-			  
               return price;
      }
 
