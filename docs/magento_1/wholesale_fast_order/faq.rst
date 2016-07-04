@@ -112,7 +112,7 @@ In "Max results to show" from the Magento admin, you choose the number of result
 In some countries Currency separator is " , " while " . " is used in US or UK. To fix problem when installing Wholesale Fast Order on the store using 
 Decimal separator as " , " please follow below changes:
 
-Edit file: /skin/frontend/base/default/js/bss/fastorder.js
+**Edit file:** /skin/frontend/base/default/js/bss/fastorder.js
 
 **Change:** 
 

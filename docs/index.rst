@@ -60,13 +60,16 @@ BSSCommerce Wiki latest documentation
    :glob:
    :caption: Magento 2
 
+   magento_2/anz_payment_m2/index
    magento_2/auto_invoice_m2/index
    magento_2/configurable_grid_table_m2/index
    magento_2/defer_javascript_m2/index
    magento_2/delete_order_m2/index
    magento_2/lazy-image-loader_m2/index
    magento_2/minimum_order_amount_m2/index
+   magento_2/multi-store-pricing-m2/index
    magento_2/order_delivery_date_m2/index
+   magento_2/shipping_payment_method_m2/index
    
 
 
