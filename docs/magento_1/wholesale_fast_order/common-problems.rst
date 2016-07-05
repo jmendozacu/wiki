@@ -1,7 +1,6 @@
 Common Problems 
 ================
 
-
 **Having problems with Currency Decimal separator?**
 
 In some countries Currency separator is " , " while " . " is used in US or UK. To fix problem when installing Wholesale Fast Order on the store using 

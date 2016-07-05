@@ -9,6 +9,7 @@ Wholesale Fast Order
     :glob:
 
     user-guide
+	common-problems
     compatibility/index
     
     *
