@@ -8,8 +8,8 @@ Wholesale Fast Order
     :maxdepth: 1
     :glob:
 
-    user-guide
 	common-problems
+    user-guide
     compatibility/index
     
     *

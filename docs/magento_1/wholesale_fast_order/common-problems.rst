@@ -24,3 +24,10 @@ Decimal separator as " , " please follow below changes:
 **Into:**
 
 .. literalinclude:: code_examples/common_problem_into.py
+
+
+.. raw:: html
+
+	<style>
+		p {text-align: justify;}
+	</style>
