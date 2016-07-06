@@ -10,7 +10,8 @@ Configurable Product Tab Table View
 
     user-guide
     compatibility/index
-    
+    common-problems
+	
     *
 
 

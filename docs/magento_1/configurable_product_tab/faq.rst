@@ -57,27 +57,6 @@ Otherwise, they are still in the original table when you set No
  
 It's very simple, you find **Show Detailed Qty Selected** in the configuration of this module from backend, set No for it to only display total product quantity. 
 
-:red:`Common Problems` 
-----------------------
-
-**How to resolve conflict with Ajax Shopping Cart extension by Amasty?**
-
-https://amasty.com/ajax-shopping-cart.html 
-
-**Edit file:**
- 
-app/code/local/Amasty/Cart/controllers/AjaxController.php
-
-**Add function:** _initProduct();
-
-**Edit function** indexAction() **into:**
-
-.. literalinclude:: code_examples/common_example_ajax.py
-
-Sample file:
-
-https://www.dropbox.com/s/vz9bjgx9rd2ue97/AjaxController.php?dl=0
-
 
 .. raw:: html
 
