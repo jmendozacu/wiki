@@ -8,9 +8,10 @@ Configurable Product Tab Table View
     :maxdepth: 1
     :glob:
 
+	common-problems
     user-guide
     compatibility/index
-    common-problems
+    
 	
     *
 
