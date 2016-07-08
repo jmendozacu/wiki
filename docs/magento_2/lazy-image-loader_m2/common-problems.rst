@@ -4,6 +4,7 @@ Common Problems
 **1. Having a problem when installing Magento 2 Lazy Load extension on magento 2.1?**
 
 	**Error message**
+	
 	Invalid XML in file /www/magento2/app/code/Bss/LazyImageLoader/etc/adminhtml/system.xml:
 	
 	Element 'field', attribute 'validate': The attribute 'validate' is not allowed.
@@ -15,7 +16,7 @@ Common Problems
 	Line: 56
 
 .. literalinclude:: code_examples/install_error.py
-	 
+
 	**How to fix?**
 	
 	Delete validate tag in app/code/Bss/LazyImageLoader/etc/adminhtml/system.xml
