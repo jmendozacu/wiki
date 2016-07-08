@@ -1,4 +1,4 @@
-Delete Order for Magento 
+Delete Order
 ==============================
 
 

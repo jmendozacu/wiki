@@ -1,4 +1,4 @@
-Magento 2 Lazy Load
+Lazy Load
 ====================
 
 
