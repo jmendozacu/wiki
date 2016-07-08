@@ -15,7 +15,7 @@ Common Problems
 	
 	Line: 56
 
-.. literalinclude:: code_examples/install_error.py
+	.. literalinclude:: code_examples/install_error.py
 
 	**How to fix?**
 	
@@ -23,11 +23,11 @@ Common Problems
 	
 	Example :
 	
-.. literalinclude:: code_examples/install_error_linechange.py
+	.. literalinclude:: code_examples/install_error_linechange.py
 
 	change to :
 	
-.. literalinclude:: code_examples/install_error_fix.py
+	.. literalinclude:: code_examples/install_error_fix.py
 
 .. raw:: html
 
