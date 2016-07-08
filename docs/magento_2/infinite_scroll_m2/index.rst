@@ -1,4 +1,4 @@
-ANZ eGate payment Gateway
+Infinite Scroll
 =========================
 
 
