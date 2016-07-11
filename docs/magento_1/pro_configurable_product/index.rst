@@ -8,6 +8,7 @@ Pro Configurable Product Grid Table View
     :maxdepth: 1
     :glob:
 
+	common-problems
     user-guide
     compatibility/index
     
