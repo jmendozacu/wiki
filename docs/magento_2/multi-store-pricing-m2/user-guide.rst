@@ -3,12 +3,16 @@ User Guide
 
 .. role:: italic
 
+.. role:: euro
+
+.. role:: pound
+
 Multiple Store View Pricing for Magento 2 Extension Overview
 -------------------------------------------------------------
 
 `Multiple Store View Pricing for Magento 2 extension <http://bsscommerce.com/magento-multiple-store-view-pricing-for-magento-2.html>`_ helps store owners to 
 set up different prices for the same product in various store views of a store while Magento 2 default does not support this function. For example, you want to 
-sell a table at £50 in English store view but in the French store view, the price you want customers to pay is    €80. It all depends on demands of store owners 
+sell a table at :pound:`50` in English store view but in the French store view, the price you want customers to pay is :euro:`80`. It all depends on demands of store owners 
 as well as business strategies for each local target customers.
 
 Moreover, this module also allows administrators to set up base currency for each store view so that customers can easily checkout with currency of store view. It 
@@ -79,7 +83,7 @@ Then, click to **Save config** and start to set up price for a product in the Fr
 
 **Step 1**: Choose **English** in **Store View** box
 
-**Step 2**: In **Price** section, you unmark “**Use Default Value**” and add your wanted price for the product in this English store view: £100, for instance 
+**Step 2**: In **Price** section, you unmark "**Use Default Value**" and add your wanted price for the product in this English store view: :pound:`100`, for instance 
 
 In addition, you can also set up **Special Prices** for this product by clicking **Advanced Pricing** 
 
@@ -91,7 +95,7 @@ Finally, you save configuration and continue to set up price in the other store 
 
 **Step 1**: Choose **French** in **Store View** box
 
-Step 2: In **Price** section, you unmark “**Use Default Value**” and add your wanted price for the product in this French store view: €200, for instance 
+Step 2: In **Price** section, you unmark "**Use Default Value**" and add your wanted price for the product in this French store view: :euro:`200`, for instance 
 
 Finally you save configuration in go to the frontend to see the changes: 
 
@@ -108,6 +112,8 @@ As a result, you can set up different price for a product: **Put It Messenger Ba
 .. raw:: html
 
    <style>
+		.pound:before {content:'\00A3';}
+		.euro:before {content:'\20AC';}
 		.italic {font-weight:bold; font-style:italic;}
 		p {text-align: justify;}
    </style>
