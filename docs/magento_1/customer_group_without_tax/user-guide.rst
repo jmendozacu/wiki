@@ -57,6 +57,7 @@ The result in frontend when applying Magento Customer Group without Tax will be 
 .. raw:: html
 
    <style>
+		.italic {font-weight:bold; font-style:italic;}
 		p {text-align: justify;}
    </style>
 
