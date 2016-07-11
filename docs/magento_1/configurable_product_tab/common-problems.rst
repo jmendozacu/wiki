@@ -13,7 +13,7 @@ Common Problems
 
 	**Edit function** indexAction() **into:**
 
-.. literalinclude:: code_examples/common_example_ajax.py
+	.. literalinclude:: code_examples/common_example_ajax.py
 
 	Sample file:
 
