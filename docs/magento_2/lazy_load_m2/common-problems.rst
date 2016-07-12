@@ -34,4 +34,5 @@ magento 2.1?**
 
 	<style>
 		p {text-align: justify;}
+		a[class='reference external'] {font-weight:bold;}
 	</style>
