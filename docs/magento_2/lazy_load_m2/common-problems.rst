@@ -1,8 +1,7 @@
 Common Problems 
 ================
 
-**1. Having a problem when installing `Magento 2 Lazy Load extension <http://bsscommerce.com/magento2/magento-lazy-image-loader-extension-for-magento-2.html>`_ on 
-magento 2.1?**
+**1. Having a problem when installing `Magento 2 Lazy Load extension <http://bsscommerce.com/magento2/magento-lazy-image-loader-extension-for-magento-2.html>`_ on magento 2.1?**
 
 	**Error message**
 	
