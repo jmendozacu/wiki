@@ -1,7 +1,7 @@
 Common Problems
 ================
 
-How to fix "Please specify the product's option(s)" error?
+**How to fix "Please specify the product's option(s)" error?**
 
 Common error with `Pro configurable product grid table view extension <http://bsscommerce.com/magento-pro-magento-configurable-product-grid-table-view.html>`_ is 
 conflict with ajax add to cart extension. The conflict is shown with error message "Please specify the product's option(s)"
