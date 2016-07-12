@@ -5,6 +5,10 @@ Installation Guide
 
 .. role:: mail
 	
+	
+Installation Guide for Magento 1 Extensions
+-------------------------------------------
+	
 :step:`Step 1:`
 	
 When you finish purchasing process, we will immediately send you an email that includes the link to download the extension.
@@ -61,40 +65,45 @@ Now if you get Access denied error when click on the extension tab, you need to 
 
 Check everything in **front-end** and try to process, make sure that the extension is successfully installed and well compatible with your site.
 
-Installation Guide for Magento 1 Extensions
--------------------------------------------
-
 
 Installation Guide for Magento 2 Extensions
 -------------------------------------------
 
-**1.** Copy code to magento 2 root folder .
+:step:`Step 1:`
 
-**2.** run php bin/magento setup:upgrade in ssh in folder root of magento 2. 
+Copy code to magento 2 root folder .
 
-	login to ssh 
-	
-	cd <magento>/<root>/<folder> 
-	
-	php bin/magento setup:upgrade
+:step:`Step 2:`
 
-**3.** deloy statis content. 
+run php bin/magento setup:upgrade in ssh in folder root of magento 2. 
 
-	login to ssh
+login to ssh 
 	
-	cd <magento>/<root>/<folder>
+cd <magento>/<root>/<folder> 
 	
-	php bin/magento setup:static-content:deploy
-	
-**4.** delete folder var
+php bin/magento setup:upgrade
 
-	login to ssh 
+:step:`Step 3:`
+
+deloy statis content. 
+
+login to ssh
+	
+cd <magento>/<root>/<folder>
+	
+php bin/magento setup:static-content:deploy
+	
+:step:`Step 4:`
+
+delete folder var
+
+login to ssh 
  
-	cd <magento>/<root>/<folder> 
+cd <magento>/<root>/<folder> 
  
-	cd var
+cd var
  
-	rm –Rf *
+rm –Rf *
 	
 :step:`*Note`
 
