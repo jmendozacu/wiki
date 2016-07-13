@@ -8,6 +8,7 @@ Multiple Store View Pricing
     :maxdepth: 1
     :glob:
 
+	installation-guide
 	common-problems
     user-guide
     compatibility/index
