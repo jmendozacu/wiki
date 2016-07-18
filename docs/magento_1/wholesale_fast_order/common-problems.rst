@@ -11,11 +11,11 @@ Common Problems
 
 	**Change:** 
 
-		finalprice   = Number(finalprice.replace(/[^0-9\.]+/g," "));
+		finalprice   = Number(finalprice.replace(/[^0-9\.]+/g,""));
 	  
 	**Into:**
 
-		finalprice   = Number(finalprice.replace(" , " , " . "));
+		finalprice   = Number(finalprice.replace("," , "."));
 
 
 	**Change:**
