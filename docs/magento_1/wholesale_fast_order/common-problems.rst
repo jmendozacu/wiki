@@ -11,11 +11,11 @@ Common Problems
 
 	**Change:** 
 
-		finalprice   = Number(finalprice.replace(/[^0-9\.]+/g,""));
+	.. literalinclude:: code_examples/change.py
 	  
 	**Into:**
 
-		finalprice   = Number(finalprice.replace("," , "."));
+	.. literalinclude:: code_examples/into.py
 
 
 	**Change:**

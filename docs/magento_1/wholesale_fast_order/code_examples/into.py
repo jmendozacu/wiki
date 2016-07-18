@@ -1,0 +1,1 @@
+finalprice   = Number(finalprice.replace("," , "."));
