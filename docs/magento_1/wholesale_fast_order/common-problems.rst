@@ -31,4 +31,5 @@ Common Problems
 
 	<style>
 		p {text-align: justify;}
+		.s2 {color:#333;}
 	</style>
