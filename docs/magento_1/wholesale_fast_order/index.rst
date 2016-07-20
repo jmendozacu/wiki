@@ -10,6 +10,7 @@ Wholesale Fast Order
 
 	common-problems
     user-guide
+	translation
     compatibility/index
     
     *
