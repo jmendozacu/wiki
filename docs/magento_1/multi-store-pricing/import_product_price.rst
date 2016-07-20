@@ -37,4 +37,4 @@ Import Product Price Per Store View
 	
 	* Upload the CSV file that you have made changes in step 2
 
-.. image:: images/product_price2.jpg
+	.. image:: images/product_price2.jpg
