@@ -5,13 +5,13 @@ User Guide
 
 
 
-Magento Configurable Product Tab Table View Extension Overview
+Magento Configurable Product Table Ordering Extension Overview
 --------------------------------------------------------------------
 
-`Magento Configurable Product Tab Table View <http://bsscommerce.com/extensions/magento-configurable-product-tab-table-view.html>`_ by BSSCommerce allows 
+`Magento Configurable Product Table Ordering <http://bsscommerce.com/extensions/magento-configurable-product-tab-table-view.html>`_ by BSSCommerce allows 
 displaying configurable products in a very simple table to help customers easily choose multiple products at once. 
 
-Magento Configurable Product Tab Table View displays custom options of the first attribute of configurable products in a tab and custom options of the second 
+Magento Configurable Product Table Ordering displays custom options of the first attribute of configurable products in a tab and custom options of the second 
 one in a table. This brings customers the easier selection when they just need to choose a custom option of an attribute first and then other corresponding 
 custom options of the second attribute will come out in a table with stock availability, stock number, out of stock status, tier prices, quantity and subtotal. 
 In addition, this extension also allows showing advanced tier prices in a separated table for children products with the same tier prices and also functions for 
@@ -19,7 +19,7 @@ advanced tier price calculation for children products. In case, all children pro
 tier price from others, this extension will show tier prices in the table. 
 
 
-How does Magento Configurable Product Tab Table View Extension work?
+How does Magento Configurable Product Table Ordering Extension work?
 --------------------------------------------------------------------
 
 .. image:: images/configurable_product_tab_1.jpg

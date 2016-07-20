@@ -1,4 +1,4 @@
-Configurable Product Tab Table View
+Configurable Product Table Ordering
 ========================================
 
 

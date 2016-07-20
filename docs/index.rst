@@ -28,7 +28,7 @@ BSSCommerce Wiki latest documentation
    magento_1/auto_invoice/index
    magento_1/checkout_success_page/index
    magento_1/configurable_product_matrix/index
-   magento_1/configurable_product_tab/index
+   magento_1/configurable_product_table/index
    magento_1/customer_group_without_tax/index
    magento_1/defer_javascript/index
    magento_1/delete_order/index
