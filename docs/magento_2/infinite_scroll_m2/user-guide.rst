@@ -46,7 +46,7 @@ If you set up this field to 1, Load More button will be displayed right at the f
 
 You can customize Load More button in the following box.
 
-* **Exclude Category **
+* **Exclude Category**
 
 Add ID of categories which you don’t want the module work for
 
