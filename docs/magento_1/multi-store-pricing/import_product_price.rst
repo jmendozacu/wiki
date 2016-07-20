@@ -9,7 +9,7 @@ Import Product Price Per Store View
 	
 	* Skip unnecessary attributes. If you just want to make change to price attribute, you can skip all entity attributes except SKU, _store, price, special price
 	
-.. image:: images/product_price.jpg
+	.. image:: images/product_price.jpg
 
 	* Click Continue at the right bottom corner of the table to download a CSV file to your computer. 
 
@@ -19,12 +19,11 @@ Import Product Price Per Store View
 	
 	* Find SKU of the product you want to set up price for store view
 	
-	* In the _store column equivalent to each SKU, replace the current store code by code of store view or add a new row to add new code of store 
-	view (Check code of store views at System -> Manage Store)  
+	* In the _store column equivalent to each SKU, replace the current store code by code of store view or add a new row to add new code of store view (Check code of store views at System -> Manage Store)  
 	
 	* Fill in equivalent price and special price for in price and special_price column as you want 
 	
-.. image:: images/product_price1.jpg
+	.. image:: images/product_price1.jpg
 
 	* Save file 
 	
