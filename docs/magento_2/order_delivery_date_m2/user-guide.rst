@@ -24,8 +24,7 @@ In Admin Panel, navigate to the section of this extension: **Stores** :bullet:`C
 
 **At "Enabled" field**, you just simply select Yes/No to turn on or off this extension from taking effects.
 
-**"Display At"** is the section that lets you decide where the part for customers fill in details about delivery dates will be shown: Shipping method, Product 
-Page or Order Review
+**"Display At"** is the section that lets you decide where the part for customers fill in details about delivery dates will be shown: Shipping method, Shipping Address
 
 .. image:: images/order_delivery_date_m2_1_1.jpg
 
