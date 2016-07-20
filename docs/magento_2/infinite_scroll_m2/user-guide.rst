@@ -26,17 +26,17 @@ There are 3 main parts you can fix as your wishes: General, Go To Top, Button Lo
 1. General
 ^^^^^^^^^^
 
-* Enabled
+* **Enabled**
 
 Choose Yes/ No to enable/ disable module 
 
-* Loading Icon
+* **Loading Icon**
 
 Click button Choose File -> Select an image file from your computer location. This image will be used as icon displayed while loading product with Ajax
 
 Click Delete Image if you want to use default icon
 
-* Show load more button pages
+* **Show load more button pages**
 
 Add a page number into this field. Once set up, when auto ajax loading till this page number, a button will be display for users to load the next pages manually.
  
@@ -46,11 +46,11 @@ If you set up this field to 1, Load More button will be displayed right at the f
 
 You can customize Load More button in the following box.
 
-* Exclude Category 
+* **Exclude Category **
 
 Add ID of categories which you don’t want the module work for
 
-.. image:: images/infinite_scroll_m2.png
+.. image:: images/infinite_scroll_m2.jpg
 
 
 2. Button Load More
@@ -68,16 +68,16 @@ You can set up button Load More as wish in term of:
 
 * Speed
 
-.. image:: images/infinite_scroll_m2_1.png
+.. image:: images/infinite_scroll_m2_1.jpg
 
-.. image:: images/infinite_scroll_m2_2.png
+.. image:: images/infinite_scroll_m2_2.jpg
 
 3. Button Load More
 ^^^^^^^^^^^^^^^^^^^
 
 You can set up button Load More as your wish in term of guiding texts and background color for button. 
 
-.. image:: images/infinite_scroll_m2_3.png
+.. image:: images/infinite_scroll_m2_3.jpg
 
 
 .. raw:: html
