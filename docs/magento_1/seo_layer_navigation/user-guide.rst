@@ -107,7 +107,7 @@ If you enable SEO URLs, all URLs created after filtering will follow a logical r
 
 .. image:: images/seo_layer_navigation1.4_1.jpg
 
-For example, this is the URL created after user select pants and denim category, price from $75 to $ 510 and size 32 for a kind of men shirt: 
+For example, this is the URL created after user select pants and denim category, price from $75 to $510 and size 32 for a kind of men shirt: 
 
 .. image:: images/seo_layer_navigation1.4_2.jpg
 
