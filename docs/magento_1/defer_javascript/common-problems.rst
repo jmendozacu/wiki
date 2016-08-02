@@ -16,16 +16,16 @@ To disable Compilation in Magento, please navigate to Admin panel Go to System >
 
 	To configure module Defer Javascript with module Full Page Cache, please follow all following instructions (2 steps).
 
-	step1: In the folder named “Model” of module Full Page Cache, find all functions named “setBody” or “setHtml” (In almost cases, you can find these functions 
-	in file “Observer.php”)
+	step1: In the folder named "Model" of module Full Page Cache, find all functions named "setBody" or "setHtml" (In almost cases, you can find these functions 
+	in file "Observer.php")
 	
-	:italic:`*Note: “setHtml” function just appears in some cases`
+	:italic:`*Note: "setHtml" function just appears in some cases`
 	
 	-For example in **Lesti_Full Page Cache** module :
 	
 	.. literalinclude:: code_examples/lesti_full_page_cache.py
 	
-	step2: Still in this example, add one of the following code defer above function “setBody” or “setHtml” 
+	step2: Still in this example, add one of the following code defer above function "setBody" or "setHtml" 
 	
 	:italic:`*Note: there are 3 types of code defer for each type of function:`
 	
