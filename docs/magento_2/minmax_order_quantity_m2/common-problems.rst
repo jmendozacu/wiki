@@ -11,6 +11,7 @@ Common Problems
 	compared to file   Bss/MinMaxQtyOrderPerCate/view/frontend/templates/cart/item/default.phtml to add exactly
 
 	edit message
+	
 	Bss/MinMaxQtyOrderPerCate/Observer/MinMaxQty.php
 
 	.. literalinclude:: code_examples/edit_message.py
