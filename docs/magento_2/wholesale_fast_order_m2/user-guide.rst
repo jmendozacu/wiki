@@ -4,15 +4,13 @@ User Guide
 Overview Of Wholesale Fast Order For Magento 2 Extension
 -------------------------------------------------
 
-	The `Magento Wholesale Fast Order For Magento 2 Extension <http://bsscommerce.com/magento-2-wholesale-fast-order.html>`_ can assist customers in purchasing 
+The `Magento Wholesale Fast Order For Magento 2 Extension <http://bsscommerce.com/magento-2-wholesale-fast-order.html>`_ can assist customers in purchasing 
 a large number of multiple products and adding all of them to cart at once instead of spending lots of time to order each one of products then adding to 
 shopping cart. Therefore, with this magento 2 extension developed by BSS Commerce, online wholesalers will be no longer delayed even one second while purchasing. 
 
 How does Wholesale Fast Order For Magento 2 Extension work? 
 -------------------------------------------------------
-
-Please go to **Stores -> Configuration -> BSSCOMMERCE -> Ajax Cart** 
-
+ 
 1.	How to use functions of Wholesale Fast Order For Magento 2 Extension 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -23,8 +21,7 @@ by following these steps:
 
 **Step 1**: Click **"Fast Order"** shortcut in the right side of the website
 
-* Fast Order shortcut will be displayed in the right side of your Magento site when you 
-	installed `Wholesale Fast Order For Magento 2 <http://bsscommerce.com/magento-2-wholesale-fast-order.html>`_
+* Fast Order shortcut will be displayed in the right side of your Magento site when you installed `Wholesale Fast Order For Magento 2 <http://bsscommerce.com/magento-2-wholesale-fast-order.html>`_
 	
 * Customers click to Fast Order shortcut and there is a Fast Order CMS page for them to search
   
@@ -49,9 +46,9 @@ attributes or other custom options, they just need to click on **"EDIT"** button
 
 If they want to get more lines for searching and ordering, they can click on **"Add lines"** button at the right bottom of the ordering table 
 
-Step 4: Customers can also view your shopping cart page to see chosen products  
+**Step 4**: Customers can also view your shopping cart page to see chosen products  
 
-Step 5:  Process to checkout right after adding products into cart. The grand total will be automatically calculated as you add multiple desired items to 
+**Step 5**:  Process to checkout right after adding products into cart. The grand total will be automatically calculated as you add multiple desired items to 
 cart at a time.  
 
 
@@ -62,25 +59,23 @@ cart at a time.
 
 .. image:: images/wholesale_fast_order_m2_2_1.jpg
 
-* In **Enabled**: You can switch on/switch off `Wholesale Fast Order For Magento 2 <http://bsscommerce.com/magento-2-wholesale-fast-order.html>`_ by 
-choosing **Yes** or **No** it in the back end.  
+* In **Enabled**: You can switch on/switch off `Wholesale Fast Order For Magento 2 <http://bsscommerce.com/magento-2-wholesale-fast-order.html>`_ by choosing **Yes** or **No** it in the back end.  
 
 * In **Number of lines**: you set the number of lines of Fast Order shown in the CMS page 
 
-* In Enabled search by SKU:   
+* In **Enabled search by SKU**:   
 
-	+ Choose Yes to enable customers to search by SKUs   
+	+ Choose **Yes** to enable customers to search by SKUs   
 	
-	+ Choose No and customers can only search by names as default  
+	+ Choose **No** and customers can only search by names as default  
 	
-* In Autocomplete minimum characters: you set the minimum characters customers have to type in the search box so that the result can appear.  
+* In **Autocomplete minimum characters**: you set the minimum characters customers have to type in the search box so that the result can appear.  
 
 * In **Max results to show**: you set the number of results displayed in the autocomplete box  
 
 .. image:: images/wholesale_fast_order_m2_2_2.jpg
 
-* In **Head Background Color and Head Text Color**: you can choose which color as you wish for your ordering table on the CMS Page to get more attraction from 
-your customers 
+* In **Head Background Color and Head Text Color**: you can choose which color as you wish for your ordering table on the CMS Page to get more attraction from your customers 
 
 * In **Enabled Shortcut Top Link:** 
 
