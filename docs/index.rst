@@ -66,6 +66,7 @@ BSSCommerce Wiki latest documentation
    magento_2/configurable_grid_table_m2/index
    magento_2/defer_javascript_m2/index
    magento_2/delete_order_m2/index
+   magento_2/image_gallery/index
    magento_2/infinite_scroll_m2/index
    magento_2/lazy_load_m2/index
    magento_2/minimum_order_amount_m2/index
