@@ -9,7 +9,7 @@ Common Problems
 
 	Step 2:
 
-	.. literalinclude:: code_examples/common_example_ajax.py
+	.. literalinclude:: code_examples/common_problems1_step2.py
 
 .. raw:: html
 
