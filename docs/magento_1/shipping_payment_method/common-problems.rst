@@ -8,7 +8,9 @@ Common Problems
 	Edit file: /app/code/community/IG/FlatShipping5/Block/Available.php
 
 	Step 2:
-
+	
+	Add fucntion
+	
 	.. literalinclude:: code_examples/common_problems1_step2.py
 
 .. raw:: html
