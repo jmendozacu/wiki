@@ -1,5 +1,5 @@
-Image Gallery 
-===============
+Ajax Add To Cart
+=================
 
 
 
