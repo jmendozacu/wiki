@@ -64,7 +64,7 @@ In order to set up any **payment method** for customer group(s),
 The process is the same as other payment methods with any other customer groups.
 
 	
-2.	 Set up ShippingMethods for customer groups 
+2.	 Set up Shipping Methods for customer groups 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Go to **Admin Panel** => **Advanced Shipping/Payment Methods** => **Shipping methods**

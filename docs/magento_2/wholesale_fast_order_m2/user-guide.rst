@@ -2,14 +2,14 @@ User Guide
 =============
 
 Overview Of Wholesale Fast Order For Magento 2 Extension
--------------------------------------------------
+---------------------------------------------------------
 
-The `Magento Wholesale Fast Order For Magento 2 Extension <http://bsscommerce.com/magento-2-wholesale-fast-order.html>`_ can assist customers in purchasing 
+The `Wholesale Fast Order For Magento 2 Extension <http://bsscommerce.com/magento-2-wholesale-fast-order.html>`_ can assist customers in purchasing 
 a large number of multiple products and adding all of them to cart at once instead of spending lots of time to order each one of products then adding to 
 shopping cart. Therefore, with this magento 2 extension developed by BSS Commerce, online wholesalers will be no longer delayed even one second while purchasing. 
 
 How does Wholesale Fast Order For Magento 2 Extension work? 
--------------------------------------------------------
+-----------------------------------------------------------
  
 1.	How to use functions of Wholesale Fast Order For Magento 2 Extension 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
