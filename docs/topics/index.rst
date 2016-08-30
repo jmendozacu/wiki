@@ -37,6 +37,18 @@ Topics
 
 `18.  Magento Fix: Customers Can't Login to Version 1.8, 1.8.1 and 1.9 <http://bsscommerce.com/blog/magento-fix-customers-cant-login-to-version-1-8-1-8-1-and-1-9/>`_
 
+`19.  How to Set Up Payment Methods in Magento 2 (Part 1) <http://bsscommerce.com/blog/how-to-set-up-payment-methods-in-magento-2-part-1/>`_
+
+`20.  How to Set Up Payment Methods in Magento 2 (Part 2) <http://bsscommerce.com/blog/how-to-set-up-payment-methods-in-magento-2-part-2/>`_
+
+`21.  How to Set Up Multiple Store Views in Magento 2 <http://bsscommerce.com/blog/how-to-set-up-multiple-store-views-in-magento-2/>`_
+
+`22.  How to Create Configurable Products in Magento 2 <http://bsscommerce.com/blog/how-to-create-configurable-products-in-magento-2/>`_
+
+`23.  How to Set Up Shipping Methods in Magento 2 (Part 1) <http://bsscommerce.com/blog/how-to-set-up-shipping-and-payment-methods-in-magento-2-part-1/>`_
+
+`24.  Easy Steps to Set Up Minimum Order Amount in Magento 2 in 2 Minutes <http://bsscommerce.com/blog/easy-steps-to-set-up-minimum-order-amount-in-magento-2/>`_
+
 
 
 
