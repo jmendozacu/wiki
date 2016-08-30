@@ -1,4 +1,4 @@
-Shipping & Payment Methods Per Customer Groups
+Shipping & Payment Methods Per Customer Group
 ===============================================
 
 

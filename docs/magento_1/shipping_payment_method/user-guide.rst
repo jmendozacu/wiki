@@ -7,17 +7,17 @@ User Guide
 
 .. role:: bullet
 
-Magento Shipping and Payment Per Customer Groups overview
+Magento Shipping and Payment Per Customer Group overview
 ----------------------------------------------------------
 
-`Magento Shipping and Payment Per Customer Groups <http://bsscommerce.com/magento1/magento-shipping-payment-per-customer-groups-extension.html>`_ enables admin 
+`Magento Shipping and Payment Per Customer Group <http://bsscommerce.com/magento1/magento-shipping-payment-per-customer-groups-extension.html>`_ enables admin 
 to set up different shipping and payment methods for various groups of customers. Once set up in the backend, only chosen methods display for particular customer 
 groups in the shipping and payment process in the frontend.
 
 This extension permits admin to satisfy their customers by providing their customers the most suitable products in the neatest organization.
 
 
-How Magento Shipping and Payment per Customer Groups works
+How Magento Shipping and Payment per Customer Group works
 ----------------------------------------------------------
 
 After installing Magento Shipping and Payment Per Customer Group into your website, a new tab named **Advanced Shipping/Payment** methods will appear in your backend 

@@ -1,7 +1,7 @@
 Compatibility
 =================
 
-**Our Shipping & Payment Per Customer Groups is compatible with:**
+**Our Shipping & Payment Per Customer Group is compatible with:**
 
 	* Community: 1.4.x.x, 1.5.x.x, 1.6.x.x, 1.7.x.x, 1.8.x.x, 1.9.x.x
 	
