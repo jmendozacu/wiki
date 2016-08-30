@@ -62,6 +62,7 @@ BSSCommerce Wiki latest documentation
    :glob:
    :caption: Magento 2
 
+   magento_2/admin_product_preview_plus_m2/index
    magento_2/ajax_add_to_cart_m2/index
    magento_2/anz_payment_m2/index
    magento_2/auto_invoice_m2/index
