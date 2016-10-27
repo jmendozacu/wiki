@@ -26,12 +26,12 @@ and insert code below to after this line:
 
 **Step 4:** 
 
-**app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Groupprice/Abstract.php** to **app/code/local/Mage/Catalog/Model/Product/Attribute/Backend/Groupprice/Abstract.php**
+Copy file **app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Groupprice/Abstract.php** to **app/code/local/Mage/Catalog/Model/Product/Attribute/Backend/Groupprice/Abstract.php**
 
 **Step 5:** 
 
 Open file **app/code/local/Mage/Catalog/Model/Product/Attribute/Backend/Groupprice/Abstract.php** , search **"public function afterLoad($object)"** and 
-inssert code below to after line
+insert code below to after line
 
 .. literalinclude:: code_examples/megento_group_price_step5.py
 
