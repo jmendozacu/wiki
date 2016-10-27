@@ -24,6 +24,21 @@ and insert code below to after this line:
 
 .. literalinclude:: code_examples/magento_step3.py
 
+**Step 4:** 
+
+**app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Groupprice/Abstract.php** to **app/code/local/Mage/Catalog/Model/Product/Attribute/Backend/Groupprice/Abstract.php**
+
+**Step 5:** 
+
+Open file **app/code/local/Mage/Catalog/Model/Product/Attribute/Backend/Groupprice/Abstract.php** , search **"public function afterLoad($object)"** and 
+inssert code below to after line
+
+.. literalinclude:: code_examples/megento_group_price_step5.py
+
+**- You use this code to insert**: 
+
+.. literalinclude:: code_examples/magento_step5.py
+
 (You can see the example file in the example folder if you have not still got it well and please note that you use it only for Magento 1.9.2.x)
 
 For Magento 1.5 
