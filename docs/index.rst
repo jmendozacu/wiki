@@ -63,13 +63,14 @@ BSSCommerce Wiki latest documentation
    :caption: Magento 2
 
    magento_2/admin_product_preview_plus_m2/index
-   magento_2/ajax_social_login/index
    magento_2/ajax_add_to_cart_m2/index
+   magento_2/ajax_social_login_m2/index
    magento_2/anz_payment_m2/index
    magento_2/auto_invoice_m2/index
    magento_2/configurable_grid_table_m2/index
    magento_2/defer_javascript_m2/index
    magento_2/delete_order_m2/index
+   magento_2/hide_price_call_for_price_m2/index
    magento_2/image_gallery_m2/index
    magento_2/infinite_scroll_m2/index
    magento_2/lazy_load_m2/index
