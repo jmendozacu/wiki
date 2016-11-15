@@ -38,6 +38,7 @@ BSSCommerce Wiki latest documentation
    magento_1/limit_order_quantity_category/index
    magento_1/limit_order_quantity_product/index
    magento_1/minimum_order_amount/index
+   magento_1/minimum_quantity_of_configurable_product/index
    magento_1/minimun_category_amount/index
    magento_1/multi-store-pricing/index
    magento_1/order_delivery_date/index
