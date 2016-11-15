@@ -72,6 +72,7 @@ BSSCommerce Wiki latest documentation
    magento_2/configurable_grid_table_m2/index
    magento_2/defer_javascript_m2/index
    magento_2/delete_order_m2/index
+   magento_2/grouped_product_with_custom_options_m2/index
    magento_2/hide_price_call_for_price_m2/index
    magento_2/image_gallery_m2/index
    magento_2/infinite_scroll_m2/index
