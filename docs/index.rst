@@ -63,6 +63,7 @@ BSSCommerce Wiki latest documentation
    :glob:
    :caption: Magento 2
 
+   magento_2/add_multiple_products_to_cart_m2/index
    magento_2/admin_product_preview_plus_m2/index
    magento_2/ajax_add_to_cart_m2/index
    magento_2/ajax_social_login_m2/index
