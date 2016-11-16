@@ -22,7 +22,7 @@ In **Configuration**, there are four main sections: General Config, Call For Pri
 
 .. image:: images/hide_price_call_for_price_2.jpg 
 
-**1.1.	In General Config **
+**1.1.	In General Config**
 
 .. image:: images/hide_price_call_for_price_1.1.jpg 
 
