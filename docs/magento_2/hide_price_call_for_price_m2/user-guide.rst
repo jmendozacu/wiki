@@ -4,7 +4,7 @@ User Guide
 Hide Price/Call For Price for Magento 2 Extension Overview
 ------------------------------------------------------------
 
-`Advanced Hide Price for Magento 2 <http://bsscommerce.com/magento2/magento-lazy-image-loader-extension-for-magento-2.html>`_ is an extension that allows to 
+`Advanced Hide Price for Magento 2 <http://bsscommerce.com/magento-2-hide-price-call-for-price.html>`_ is an extension that allows to 
 flexibly hide price for a particular product, a certain category, or specific customer groups. Besides hiding price, the extension also hide "Add to Cart" button 
 and replace it with a custom message or a Call For Price button that link to an Inquiry form in Ajax popup to obtain customer's request.
 
