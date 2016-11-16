@@ -31,9 +31,9 @@ Log in as admin from backend, go to **Store -> Configuration -> BSS COMMERCE -> 
 
 * In **Enable**:
 
-	*	Choose Yes to enable the module.
+	*	Choose **Yes** to enable the module.
 	
-	*	Choose No to disable it.
+	*	Choose **No** to disable it.
 	
 * In **Use Popup Ajax**:
 
@@ -41,10 +41,9 @@ Log in as admin from backend, go to **Store -> Configuration -> BSS COMMERCE -> 
 	
 	*	Choose **No** if disable it. 
 
-* In Display button social: Hightlight to select position(s) on site that you want to place the social login block. 
+* In **Display button social**: Hightlight to select position(s) on site that you want to place the social login block. 
 
-* In Send Password: After customers successfully signed up through a social media account, you can decide whether to send them a password for following times 
-they log in on site. With the password, customer can sign in in both ways: choose login with social account or use the email of that social account along with 
+* In **Send Password**: After customers successfully signed up through a social media account, you can decide whether to send them a password for following times they log in on site. With the password, customer can sign in in both ways: choose login with social account or use the email of that social account along with 
 the password that they received.
 
 .. image:: images/ajax_social_login_2.jpg
@@ -59,8 +58,7 @@ the password that they received.
 
 * In **Redirect after Register**: Select the page on site or any particular URL you want to redirect after customer completed register process. 
 
-* In **Show Limit Button**: Choose the number of social login buttons which you want to display in social login block. If this number is smaller than the total 
-amount of social accounts enabled on site, the "Show more" button will appear in social login block for customers to look for more available options.
+* In **Show Limit Button**: Choose the number of social login buttons which you want to display in social login block. If this number is smaller than the total amount of social accounts enabled on site, the "Show more" button will appear in social login block for customers to look for more available options.
 
 * In **Social Button Sorting**: You can hold and drag the social accounts to re-order the position they appear in social login block.
 
@@ -77,7 +75,7 @@ After registering, you will got the Site key and Secret key as below:
 
 .. image:: images/ajax_social_login_5.jpg
 
-* In Theme: Choose the theme of reCaptcha between:
+* In **Theme**: Choose the theme of reCaptcha between:
 
 	*	**Light**:	
 	
@@ -91,8 +89,7 @@ After registering, you will got the Site key and Secret key as below:
 
 * In **Size**: Choose the size of reCaptcha widget between **Normal** and **Compact**. 
 
-* In **Popup Form**: Choose the form(s) of popup on site to place the reCaptcha widget. Forms of popup to select from 
-includes **Login**, **Register** and **Forgot Password?**
+* In **Popup Form**: Choose the form(s) of popup on site to place the reCaptcha widget. Forms of popup to select from includes **Login**, **Register** and **Forgot Password?**
 
 3.	Configuration of specific social account
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -121,7 +118,7 @@ Click on Dashboard, you will see your App ID and App Secret - copy them and past
 
 .. image:: images/ajax_social_login_10.jpg
 
-* In **URI redirection valid OAuth**– copy the Valid OAuth redirect URIs like below and paste into the box **URI redirection valid OAuth**
+* In **URI redirection valid OAuth** – copy the Valid OAuth redirect URIs like below and paste into the box **URI redirection valid OAuth**
 
 .. image:: images/ajax_social_login_11.jpg
 
@@ -130,9 +127,9 @@ Click on Dashboard, you will see your App ID and App Secret - copy them and past
 
 * In **Small Icon**: Upload the file for icon of this account displayed in frontend. 
 
-* **In Login Button Text**: Customize the text in social login button. 
+* In **Login Button Text**: Customize the text in social login button. 
 
-* **In Registration Button Text**: Customize the text in social registration button.
+* In **Registration Button Text**: Customize the text in social registration button.
 
 For other social accounts, follow similar steps like the setting for Facebook:
 
