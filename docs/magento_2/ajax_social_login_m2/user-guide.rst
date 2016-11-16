@@ -50,9 +50,9 @@ the password that they received.
 
 * In **Display Customer Photo**: 
 
-	*	Choose **Yes** to display the customer’s profile photo from the social account they used for signup at wherever the customer’s photo on site usually shows up. 
+	*	Choose **Yes** to display the customer's profile photo from the social account they used for signup at wherever the customer's photo on site usually shows up. 
 	
-	*	Choose **No** to not display customer’s social photo.
+	*	Choose **No** to not display customer's social photo.
 
 * In **Redirect after Login**: Select the page on site or any particular URL you want to redirect after customer login successfully.
 
@@ -118,7 +118,7 @@ Click on Dashboard, you will see your App ID and App Secret - copy them and past
 
 .. image:: images/ajax_social_login_10.jpg
 
-* In **URI redirection valid OAuth** – copy the Valid OAuth redirect URIs like below and paste into the box **URI redirection valid OAuth**
+* In **URI redirection valid OAuth** copy the Valid OAuth redirect URIs like below and paste into the box **URI redirection valid OAuth**
 
 .. image:: images/ajax_social_login_11.jpg
 
