@@ -6,7 +6,7 @@ Image Gallery for Magento 2 Extension Overview
 
 `Image Gallery for Magento 2 <http://bsscommerce.com/magento-2-image-gallery.html>`_ allows admin to create image gallery from scratch, including uploading 
 images, adding new albums, and configuring for each image and album regarding its content, layout and display effect. It is an optimal tool to help admin manage 
-all products’ images and provide better visualization of product for customer thanks to widget support and full responsiveness. 
+all products' images and provide better visualization of product for customer thanks to widget support and full responsiveness. 
 
 How does Image Gallery for Magento 2 Extension work?
 ----------------------------------------------------
@@ -51,8 +51,7 @@ In **New Gallery Album -> Album Information -> General**
 
 .. image:: images/image_gallery_2_2.jpg
 
-* In **General Information**, decide **Album Title**, write **Album Description** if needed, then write meta data in **Meta Keywords** and **Meta Description** to 
-support SEO. 
+* In **General Information**, decide **Album Title**, write **Album Description** if needed, then write meta data in **Meta Keywords** and **Meta Description** to support SEO. 
 
 * Then, choose album layout type in **Layout**: Standard or Slider. 
 
