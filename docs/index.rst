@@ -32,6 +32,7 @@ BSSCommerce Wiki latest documentation
    magento_1/customer_group_without_tax/index
    magento_1/defer_javascript/index
    magento_1/delete_order/index
+   magento_1/full_page_cache/index
    magento_1/google_tag_manager/index
    magento_1/improved_newletter/index
    magento_1/lazy-image-loader/index
