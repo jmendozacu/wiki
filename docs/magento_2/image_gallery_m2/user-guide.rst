@@ -45,7 +45,7 @@ Please navigate to **Content -> BSS Gallery Manage -> Manage Album**
 See the list of albums here with concise presentation of information including: title, thumbnail (choose a picture in the album to be album thumbnail), url 
 key (automatically updated based on album title, item ids (show items included in album), status (enabled/disabled), action (click here to edit item information)
 
-* If you want to add new albums into gallery, click Add New Album  
+* If you want to add new albums into gallery, click **Add New Album**
 
 In **New Gallery Album -> Album Information -> General**
 
