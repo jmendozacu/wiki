@@ -1,4 +1,4 @@
-Wiki - Magento 2 Import Product Price Per Store View
+Import Product Price Per Store View
 ====================================================
 
 **Step 1: Get the SKU of product you want to import price**
