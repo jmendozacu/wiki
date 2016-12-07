@@ -19,9 +19,7 @@ You go to **Stores -> Configuration -> BSSCOMMERCE -> Defer JavaScript** to star
 
 **Step 1:** Enable Defer JavaScript Extension for Magento 2:
 
-At backend, you can easily enable or disable BSS Defer JavaScript module by selecting
-
-"Yes" or "No" in the Enable box
+At backend, you can easily enable or disable BSS Defer JavaScript module by selecting "Yes" or "No" in the Enable box
 
 .. image:: images/defer_javascript_m2_1.jpg
 
@@ -32,8 +30,7 @@ into these excluded boxes:
 
 .. image:: images/defer_javascript_m2_2.jpg
 
-	* :italic:`Exclude controllers and paths:` Click **Add Match** button and write down your wished paths or controllers that you want to disable Defer 
-JavaScript for Magento 2 
+	* :italic:`Exclude controllers and paths:` Click **Add Match** button and write down your wished paths or controllers that you want to disable Defer JavaScript for Magento 2 
 
 	* :italic:`Exclude Homepage:` you can disable this module on Homepage faster and easier by selecting "Yes" in the **Exclude Home Page** box. 
 
