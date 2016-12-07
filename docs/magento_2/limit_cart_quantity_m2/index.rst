@@ -1,5 +1,5 @@
-Ajax Add To Cart
-=================
+Limit Cart Quantity
+===================
 
 
 
