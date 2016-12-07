@@ -27,12 +27,12 @@ In **Default qty:** Select default quantity displaying in quantity box.
 
 .. image:: images/add_multiple_products_to_cart_m2_2.jpg
 
-**In Image size (px) – For single add:** Choose the image size of the product displaying in the success pop-up in case of adding only one product to cart.
+**In Image size (px) - For single add:** Choose the image size of the product displaying in the success pop-up in case of adding only one product to cart.
 
-**In Image size (px) – For multiple add list error:** Choose the image size of the product displaying in the pop-up in case of having error in adding 
+**In Image size (px) - For multiple add list error:** Choose the image size of the product displaying in the pop-up in case of having error in adding 
 multiple products to cart (unselected custom options, error in quantity).
 
-In **Image size (px) – For multiple add:** Choose the image size of the products displaying in the success pop-up in case of adding multiple products to cart.
+In **Image size (px) - For multiple add:** Choose the image size of the products displaying in the success pop-up in case of adding multiple products to cart.
 
 In **Number of Items:** Choose the number of item displaying in one success pop-up slide at a time.
 
@@ -54,7 +54,7 @@ In **Countdown time for Button:**
 
 	* Choose **No** to not display the countdown time.
 
-In **Countdown time: …(s):** Choose the period of time to countdown until redirecting to either View cart or Continue shopping.
+In **Countdown time:...(s):** Choose the period of time to countdown until redirecting to either View cart or Continue shopping.
 
 In **Show mini cart:** Choose **Yes** to display the mini cart on the success pop-up.
 
