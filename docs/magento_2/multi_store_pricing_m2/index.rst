@@ -9,6 +9,7 @@ Multiple Store View Pricing
     :glob:
 
 	installation-guide
+	import-product-price
 	common-problems
     user-guide
     compatibility/index
