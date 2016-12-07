@@ -66,7 +66,7 @@ Like Invoices and Shipments, there are two ways to remove redundant Credit memos
 	(i)	Go to **Sales -> Credit memos**, select unwanted Credit memo(s) choose **Delete Credit memos** in **Select Items** box, then click OK in the popup to completely 
 	exclude them from the backend. 
 	
-	(ii)	Under Credit Memos tab in Order View Page of a particular order, click on Delete or select Delete Credit Memos in Actions dropdown box. 
+	(ii) Under **Credit Memos** tab in **Order View Page** of a particular order, click on **Delete** or select **Delete Credit Memos** in **Actions** dropdown box. 
 
 Order Status are altered to Complete (if invoices and shipments have already been generated) or Processing (if only invoices have been created). Credit memos 
 are easily recreated.
