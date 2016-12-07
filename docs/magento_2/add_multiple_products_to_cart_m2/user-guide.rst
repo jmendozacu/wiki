@@ -21,7 +21,7 @@ In **Enabled:** Choose **Yes** to enable the module or choose **No** to disable 
 
 In **Customer group:** Choose customer group which you want to apply this module. Only customers in selected one are allowed to add multiple products to cart.
 
-In **Apply addmultiple:** Use class or id html to apply the module. For example, use “.products-grid,.products-list” for the module to be applied in all pages with that class.
+In **Apply addmultiple:** Use class or id html to apply the module. For example, use ".products-grid,.products-list" for the module to be applied in all pages with that class.
 
 In **Default qty:** Select default quantity displaying in quantity box.
 
@@ -42,11 +42,11 @@ In **Slide Speed:** Choose the transition duration of the slide in a millisecond
 
 In **Auto Slide:** Choose Yes for the slide in the success pop-up to be moved automatically.
 
-In **Show “Continue” Button:** Choose **Yes** to show the continue shopping button at the success pop-up.
+In **Show "Continue" Button:** Choose **Yes** to show the continue shopping button at the success pop-up.
 
 In **Show Product Price:** Choose **Yes** show product price in success pop-up in case of adding only one product to cart.
 
-In **Show Product Image:** Choose **Yes** to show the products’ images in the success pop-up.
+In **Show Product Image:** Choose **Yes** to show the products' images in the success pop-up.
 
 In **Countdown time for Button:**
 
@@ -77,9 +77,6 @@ In **View cart button text:** Choose the text to be displayed in the View cart b
 In **View cart button color:** Choose the color of the View cart button.
 
 In **View cart button color on hover:** Choose the color of the View cart button when hovering.
-
-
-
 
 .. raw:: html
 
