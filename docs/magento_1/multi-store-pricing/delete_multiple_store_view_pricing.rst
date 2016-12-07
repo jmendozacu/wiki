@@ -15,7 +15,7 @@ You change Catalog Price Scope  to Website or Global
 
 Go to **Admin -> Catalog-> Attributes -> Manage Attributes**
  
-You need to delete 2 attributes with attribute code as “tier_price_for_store” and  “group_price_for_store”
+You need to delete 2 attributes with attribute code as "tier_price_for_store" and  "group_price_for_store"
 
 **Step 4: Remove the code of the module**
 
