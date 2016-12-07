@@ -79,6 +79,7 @@ BSSCommerce Wiki latest documentation
    magento_2/image_gallery_m2/index
    magento_2/infinite_scroll_m2/index
    magento_2/lazy_load_m2/index
+   magento_2/limit_cart_quantity_m2/index
    magento_2/minimum_order_amount_m2/index
    magento_2/minmax_order_quantity_m2/index
    magento_2/multi_store_pricing_m2/index
