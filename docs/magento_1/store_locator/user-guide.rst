@@ -56,13 +56,12 @@ A screen will appear like as follow:
 	
 	.. image:: images/store_locator_1_7.jpg
 	
-		* Remember to save your setting by pressing **"Save Configuration"** button in the right top of the screen, and wait until the 
-		green line :bullet:`"The configuration has been saved"` appears.
+	* Remember to save your setting by pressing **"Save Configuration"** button in the right top of the screen, and wait until the green line :bullet:`"The configuration has been saved"` appears.
 	
-		.. image:: images/store_locator_1_8.jpg
-		
-		* To see the change in the frontend, **reload** the frontend.
-		
+	.. image:: images/store_locator_1_8.jpg
+	
+	* To see the change in the frontend, **reload** the frontend.
+	
 **1.2. Store Management**
 
 This mode enables you to:
@@ -78,7 +77,7 @@ To use this function, go through **"Store Locator => Manage Stores"**
 .. image:: images/store_locator_2_1.jpg
 
 
-* Add A New Store:
+* **Add A New Store:**
 
 There are two ways to add stores: add a new store manually or import stores using csv file when you want to add stores in mass.
 
@@ -107,7 +106,7 @@ address. Thus, remember to check this carefully as Google may misunderstand your
 
 .. image:: images/store_locator_3_2.jpg
 
-	:italic:`Example of Exporting Database To csv File`
+:italic:`Example of Exporting Database To csv File`
 
 :italic:`1.3.2. Import:`
 
@@ -130,8 +129,7 @@ use **less than 100 times per day.**
 
 Once users choose input cells, the system will work out all the results that perfectly match the information users wish to filter (country, state, city, postcode, or suburb).
 
-* If no stores in the target location can be found, the BSS Store Locator will automatically find information about the location in Google Maps and work 
-out **n nearest stores**(in case the system can find the store in Google Maps. If not, **"0 Store Found"** will be displayed). 
+* If no stores in the target location can be found, the BSS Store Locator will automatically find information about the location in Google Maps and work out **n nearest stores**(in case the system can find the store in Google Maps. If not, **"0 Store Found"** will be displayed). 
 
 * If customers use module "Use My Location", the system will find **n nearest stores** in the vicinity of their location. 
 
@@ -145,7 +143,7 @@ out **n nearest stores**(in case the system can find the store in Google Maps. I
    <style>
 		p {text-align: justify;}
 		.italic {font-weight:bold; font-style:italic;}
-		.bullet:before {content:"\u2217"; margin-left: 5px;}
+		.bullet:before {content:"\25b6"; margin-left: 5px;}
 		.green {color: #00cc00}
    </style>
 
