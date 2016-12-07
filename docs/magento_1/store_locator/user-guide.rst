@@ -48,6 +48,8 @@ A screen will appear like as follow:
 
 	.. image:: images/store_locator_1_5.jpg
 	
+	:italic:`Two-column interface on the front end`
+	
 	* One-column interface: In case the first seven criteria of "Enable for filter" box are not chosen, the store will be automatically changed into one-column interface one 
 
 	.. image:: images/store_locator_1_6.jpg
@@ -56,7 +58,7 @@ A screen will appear like as follow:
 	
 	.. image:: images/store_locator_1_7.jpg
 	
-	* Remember to save your setting by pressing **"Save Configuration"** button in the right top of the screen, and wait until the green line :bullet:`"The configuration has been saved"` appears.
+	* Remember to save your setting by pressing **"Save Configuration"** button in the right top of the screen, and wait until the green line :green:`"The configuration has been saved"` appears.
 	
 	.. image:: images/store_locator_1_8.jpg
 	
@@ -72,7 +74,7 @@ This mode enables you to:
 
 * Export store's database to csv file 
 
-To use this function, go through **"Store Locator => Manage Stores"**
+To use this function, go through **"Store Locator -> Manage Stores"**
 
 .. image:: images/store_locator_2_1.jpg
 
@@ -129,7 +131,7 @@ use **less than 100 times per day.**
 
 Once users choose input cells, the system will work out all the results that perfectly match the information users wish to filter (country, state, city, postcode, or suburb).
 
-* If no stores in the target location can be found, the BSS Store Locator will automatically find information about the location in Google Maps and work out **n nearest stores**(in case the system can find the store in Google Maps. If not, **"0 Store Found"** will be displayed). 
+* If no stores in the target location can be found, the BSS Store Locator will automatically find information about the location in Google Maps and work out **n nearest stores** (in case the system can find the store in Google Maps. If not, **"0 Store Found"** will be displayed). 
 
 * If customers use module "Use My Location", the system will find **n nearest stores** in the vicinity of their location. 
 
