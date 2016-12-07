@@ -19,8 +19,7 @@ How does Frontend Cancel Order for Magento 2 work?
 
 .. image:: images/frontend_cancel_orders_m2_1.jpg
 
-* Allow customers to add comments in a confirmation popup: When customers click Cancel Order button, there will be a confirmation popup which allows them to 
-enter comments.
+* Allow customers to add comments in a confirmation popup: When customers click Cancel Order button, there will be a confirmation popup which allows them to enter comments.
 	
 	* If they click Yes, orders will be canceled.
 
@@ -55,7 +54,7 @@ enter comments.
 
 * **Label for button cancel order:** change the label of Cancel Order button
 
-* NOTE: If you want to customize Email Template to have more choices in **Choose Email Template**, follow these steps:
+* **NOTE:** If you want to customize Email Template to have more choices in **Choose Email Template**, follow these steps:
 	
 	* Go to **Marketing -> Communications -> Email Templates -> Add New Template**
 	
