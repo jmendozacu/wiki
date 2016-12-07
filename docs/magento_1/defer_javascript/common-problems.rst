@@ -10,7 +10,7 @@ Fatal error: Class 'Bss_DeferJS_Block_Adminhtml_Form_Field_Regex' not found in/h
 	they forget to disable compilation as it's required that before you make any changes to your Magento installation you should 
 	always **disable compilation**. To fix this problem, just simply run the compilation process, and then enable it. 
 
-To disable Compilation in Magento, please navigate to Admin panel Go to System > Tools > Compilation page and click on **Disable** button
+	To disable Compilation in Magento, please navigate to Admin panel Go to System > Tools > Compilation page and click on **Disable** button
 
 **2. Configure Defer Javascript with Full Page Cache**
 
