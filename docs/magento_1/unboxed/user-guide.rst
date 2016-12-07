@@ -15,8 +15,8 @@ in direct or indirect ways, clients are likely to show them off and want to rece
 Not a few people are influenced by mob mentality. People are easily impacted by their peers to ratify assertive behaviors, follow trends to buy items. There is 
 also no deny that the power of visual content marketing can become magical: "Use a picture. It's worth a thousand words."
 
-Why is BSS Unboxed extension your must-have item?
--------------------------------------------------
+How Magento Unboxed extension works 
+-----------------------------------
 
 2.1. Manual instruction
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -39,22 +39,25 @@ In box **Enable**, there are 2 options for admin to choose: **Yes** or **No**. C
 
 .. image:: images/unboxed_1_2.jpg
 
-Save the configuration by clicking on Save config button on the right of the page.
+Save the configuration by clicking on **Save config** button on the right of the page.
 
 **2.1.2. Header displaying**
 
 To set up the display of header of your unboxed page on frontend, please follow these instructions.
 
-* In box **Logo**, click on the button **Choose File** to browse from your computer a picture to display as your logo on the frontend. Remember that there 
-are 3 file types are allowed including ***.jpg, *.png** and ***.gif.** The picture uploaded from your computer will be resized to fixed size (300 x107 pixels). 
+* In box **Logo**, click on the button **Choose File** to browse from your computer a picture to display as your logo on the frontend. Remember that there are 3 file types are allowed including ***.jpg, *.png** and ***.gif.** The picture uploaded from your computer will be resized to fixed size (300 x107 pixels). 
 
 .. image:: images/unboxed_1_3.jpg
 
-* In box Name, type a name for the page as you desire (e.g: Unboxed) 
+* In box **Enable Map**, there are 2 options for admin to choose: **Yes** or **No**. Choose **Yes** to enable the map on frontend, otherwise choose **No**. 
 
-* In box Info, type the text to describe the page to your customers 
+.. image:: images/unboxed_1_7.jpg
 
-:italic:`(e.g: Unboxed is gallery page displayed real pictures of products uploaded by real customers who have purchased those products on our main website)`
+* In box **Name**, type a name for the page as you desire (e.g: Unboxed) 
+
+* In box **Info**, type the text to describe the page to your customers 
+
+*(e.g: Unboxed is gallery page displayed real pictures of products uploaded by real customers who have purchased those products on our main website)*
 
 .. image:: images/unboxed_1_4.jpg
 
@@ -68,15 +71,17 @@ That is an example for the page header displaying on frontend:
 
 The module allows admin to configure footer of the page with place special links and social media links.
 
+.. image:: images/unboxed_1_8.jpg
+
 In all boxes named **Footer Name 1, Footer Name 2, Footer Name 3,** type in the boxes names of the footer links that you want to show on frontend.
 
 (e.g: Term & Conditions; Contact us)
 
 In all boxes named **Footer Link 1, Footer Link 2, Footer Link 3,** copy and paste in the boxes the links you want to redirect customer to.
 
-:italic:`*Note: the footer names must be corresponding with the footer links`
+*Note: the footer names must be corresponding with the footer links*
 
-In box named Facebook Link, copy and paste in the box link of your facebook page
+In box named **Facebook Link**, copy and paste in the box link of your facebook page
 
 Do the same with other boxes named **Pinterest Link, Instagram Link, Twitter Link**
 
@@ -123,8 +128,7 @@ After choosing edit the picture, a screen will appear for you to edit like this:
 
 * In box **Location**, choose the location for the picture uploaded (auto-complete location searching) 
 
-* In box **Upload Images**, you can change the current image to other image by click on **Choose File** button, then you will be able to browse image from 
-your computer to upload. 
+* In box **Upload Images**, you can change the current image to other image by click on **Choose File** button, then you will be able to browse image from your computer to upload. 
 
 After that, click on **Save and Continue Edit** button to save the configuration and continue editing.
 
@@ -159,16 +163,15 @@ After all these steps, you have done picture edits. Click on **Save** button to 
 
 **2.2.3. Upload new image**
 
-* **Step1:** To upload new image by admin, click on Add new button on the right of the page.
+* **Step1:** To upload new image by admin, click on **Add new** button on the right of the page.
 
 .. image:: images/unboxed_2_9.jpg
 
-* **Step 2:** After that, you have will be redirected to a page to choose user who will own the new picture first. Click on checkbox in column **Select** to 
-choose customer as you want: 
+* **Step 2:** After that, you have will be redirected to a page to choose user who will own the new picture first. Click on checkbox in column **Select** to choose customer as you want: 
 
 .. image:: images/unboxed_2_10.jpg
 
-*Note: you can create a new user as you want and upload image under this new customer yourself by going to **Admin Panel => Customer => Manage Customer => Add New Customer.** After creating new customer, the new customer 
+*Note: you can create a new user as you want and upload image under this new customer yourself by going to* **Admin Panel => Customer => Manage Customer => Add New Customer.** *After creating new customer, the new customer 
 information will appear on this list as an user of Unboxed page.*
 
 Click on **Save and Continue Edit** button to go to the next step.
