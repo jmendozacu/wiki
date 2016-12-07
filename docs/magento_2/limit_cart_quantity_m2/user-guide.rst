@@ -25,7 +25,7 @@ In **Action** column, click to the trash bin icon to remove the minimum quantity
 
 Click **Add** to add more rows to set the minimum for more customer group.
 
-In **Message Alert For Minimum Value**, add the message you want to show to your customer, insert “-conf-” for minimum quantity require and “-cart-” for 
+In **Message Alert For Minimum Value**, add the message you want to show to your customer, insert "-conf-" for minimum quantity require and "-cart-" for 
 customer’s cart quantity to be displayed.
 
 .. image:: images/limit_cart_quantity_m2_1.jpg
