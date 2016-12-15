@@ -56,7 +56,7 @@ You also can see the example about import product price per store view for `Mage
 
 .. raw:: html
 
-   <iframe width="560" height="315" style="margin-left:calc(25% - 	100px); margin-bottom: 30px" src="https://www.youtube.com/embed/B6fVUmeoY0&feature=youtu.be" frameborder="0" allowfullscreen></iframe>
+   <iframe width="560" height="315" style="margin-left:calc(25% - 	100px); margin-bottom: 30px" src="https://www.youtube.com/embed/-B6fVUmeoY0" frameborder="0" allowfullscreen></iframe>
    <style>
 		p {text-align: justify;}
    </style>
