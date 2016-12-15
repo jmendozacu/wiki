@@ -1,7 +1,9 @@
 User Guide
 =============
 
-Min/Max Order Quantity per Category for Magento 2Overview
+.. role:: bold
+
+Min/Max Order Quantity per Category for Magento 2 Overview
 ---------------------------------------------------------
 
 Min/Max Order Quantity per Category for Magento 2 is a useful tool for online store owners to limit order quantity for all products in 
@@ -14,7 +16,7 @@ product quantify per categories.
 How does Min/Max Order Quantity per Category for Magento 2 work?
 ----------------------------------------------------------------
 
-Go to Store->Configuration->BSSCOMMERCE->Min/Max Order Quantity per Category for Customer Group to begin setting up
+Go to **Store -> Configuration -> BSSCOMMERCE -> Min/Max Order Quantity per Category for Customer Group** to begin setting up
 
 .. image:: images/minmax_order_quantity_m2_1.jpg
 
@@ -40,7 +42,7 @@ You can freely choose customer group and category to apply the min/max quantity 
 
 After finishing with setup, choose **Save Config**
 
-** *Note:**
+:bold:`*Note:`
 
 For products belong to multiple categories, the order quantity of products needs to meet the min/max requirement of all thosecategories.
 
@@ -51,6 +53,7 @@ The min/max rule is applied to the total number of products in each category add
 .. raw:: html
 
    <style>
+		.bold {font-weight:bold;}
 		p {text-align: justify;}
    </style>
 
