@@ -53,6 +53,7 @@ Configuration Settings
 
 
 .. raw:: html
+
 	<table>
 		<tr>
 			<th>Setting</th>
@@ -67,6 +68,7 @@ Configuration Settings
 			<td>If empty, no additional configuration needs to be written to disk. If not empty, this configuration must be present in app/etc/brim_pagecache.xml</td>
 		</tr>
 	</table>
+	
    <style>
 		p {text-align: justify;}
    </style>
