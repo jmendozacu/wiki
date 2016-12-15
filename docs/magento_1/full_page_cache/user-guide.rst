@@ -51,18 +51,22 @@ Configuration Settings
 
 .. image:: images/full_page_cache_6.jpg
 
-+------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Setting                | Explanation                                                                                                                                          |
-+========================+======================================================================================================================================================+
-| Auto Write XML         | When set to “Yes” required XML configuration will be written directly to app/etc/brim_pagecache.xml.                                                 |
-| Config to Disk		 | This can be set to “No” if for some reason the                                                                                                       |
-|                        | web server is not able to write to the file or if additional customization is required.                                                              |
-+------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
-| XML                    | If empty, no additional configuration needs to be written to disk. If not empty, this configuration must be present in app/etc/brim_pagecache.xml    |
-+------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 .. raw:: html
-
+	<table>
+		<tr>
+			<th>Setting</th>
+			<th>Explanation</th>
+		</tr>
+		<tr>
+			<td>Auto Write XML Config to Disk</td>
+			<td>When set to “Yes” required XML configuration will be written directly to app/etc/brim_pagecache.xml. This can be set to “No” if for some reason the web server is not able to write to the file or if additional customization is required.</td>
+		</tr>
+		<tr>
+			<td>XML</td>
+			<td>If empty, no additional configuration needs to be written to disk. If not empty, this configuration must be present in app/etc/brim_pagecache.xml</td>
+		</tr>
+	</table>
    <style>
 		p {text-align: justify;}
    </style>
