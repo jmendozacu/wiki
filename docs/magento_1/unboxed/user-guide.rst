@@ -206,9 +206,6 @@ After all these steps, you have done uploading picture under a specific user nam
 and see the change.
 
 
-
-How BSS Unboxed extension works
---------------------------------
 .. raw:: html
 
    <style>
