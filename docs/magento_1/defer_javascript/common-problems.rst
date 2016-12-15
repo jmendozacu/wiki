@@ -87,6 +87,8 @@ Fatal error: Class 'Bss_DeferJS_Block_Adminhtml_Form_Field_Regex' not found in/h
 
 	.. image:: images/defer_js_problem_1.jpg
 	
+	The purpose of this option is to meet W3C checking on this site: https://validator.w3.org/
+	
 6. The Defer score does not increase although JavaScript files stay on the bottom of page
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
