@@ -11,8 +11,8 @@ Multiple Store View Pricing
     installation-guide
 	import_product_price
 	import_prices_with_data_flow
+	delete_multiple_store_view_pricing
     user-guide
-    delete_multiple_store_view_pricing
     compatibility/index
     
     *
