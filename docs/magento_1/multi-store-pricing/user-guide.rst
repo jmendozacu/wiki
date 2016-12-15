@@ -58,9 +58,7 @@ You choose :italic:`Store` to enable the module. Then you click **Save Config** 
 
 	**Step 1**: Choose **English** store view per store (Main Store) in **Choose store view box**
 
-	.. image:: images/multi_store_pricing_2.1.jpg
-
-	Step 2: In **Price** section (on the left side column), you unmark **"Use Default Value"** and add your wanted price for the product in this 
+	**Step 2**: In **Price** section (on the left side column), you unmark **"Use Default Value"** and add your wanted price for the product in this 
 	English store view: :pound:`600`, for instance 
 
 	.. image:: images/multi_store_pricing_2.2.jpg
