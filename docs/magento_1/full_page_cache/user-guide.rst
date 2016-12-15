@@ -70,6 +70,7 @@ Configuration Settings
 	</table>
 	
    <style>
+		.full-page-cache-setting {margin-bottom: 25px;}
 		.full-page-cache-setting tr th {text-align:left; padding:5px}
 		.full-page-cache-setting tr td {padding: 5px;}
 		p {text-align: justify;}
