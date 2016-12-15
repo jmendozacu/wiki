@@ -51,3 +51,12 @@ It is the end of import price process for multiple store views.
 
 Now you will check again your product on each store view.
 
+You also can see the example about import product price per store view for ` Magento 2 Multiple Store View Pricing extension's <http://bsscommerce.com/magento-multiple-store-view-pricing-for-magento-2.html>`_ video below:
+
+
+.. raw:: html
+
+   <iframe width="560" height="315" style="margin-left:calc(25% - 	100px); margin-bottom: 30px" src="https://www.youtube.com/watch?v=-B6fVUmeoY0&feature=youtu.be" frameborder="0" allowfullscreen></iframe>
+   <style>
+		p {text-align: justify;}
+   </style>
