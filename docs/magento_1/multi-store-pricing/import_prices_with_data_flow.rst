@@ -19,7 +19,7 @@ Choose “Import All Products” in the Profile Name tab
 
 This is a sample file that you can take as a reference:
 
-Download a Sample CSV file here `import_price_dataflow (copy).csv <https://www.dropbox.com/s/79f182c9ua5b7rz/import_price_dataflow%20%28copy%29.csv?dl=0>`_
+Download a Sample CSV file here: `import_price_dataflow (copy).csv <https://www.dropbox.com/s/79f182c9ua5b7rz/import_price_dataflow%20%28copy%29.csv?dl=0>`_
 
 You need to complete this CSV file with necessary information about products: store view codes, SKUs, prices and special prices 
 
