@@ -6,7 +6,7 @@ User Guide
 Min/Max Order Quantity per Category for Magento 2 Overview
 ---------------------------------------------------------
 
-Min/Max Order Quantity per Category for Magento 2 is a useful tool for online store owners to limit order quantity for all products in 
+`Min/Max Order Quantity per Category for Magento 2 <http://bsscommerce.com/magento-minimum-maximum-order-quantity-per-category-magento-2.html>`_ is a useful tool for online store owners to limit order quantity for all products in 
 a category that each customer group has to meet before checking out successfully.
 
 With the help of this module, Magento store owners can save up a lot of costs especially shipping costs or package costs. No need to worry 
