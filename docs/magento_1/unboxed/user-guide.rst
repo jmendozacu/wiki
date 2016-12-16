@@ -18,7 +18,7 @@ also no deny that the power of visual content marketing can become magical: "Use
 How Magento Unboxed extension works 
 -----------------------------------
 
-2.1. Manual instruction
+1. Manual instruction
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 As an admin, you can set up your own store page by the most effective way that supports your trading objective. To make the configuration:
@@ -33,7 +33,7 @@ After these 2 steps, a screen for configuration appears like the following pictu
 
 There are many boxes displaying on the page for shop owners to configure as they want.
 
-**2.1.1. Enable module**
+**1.1. Enable module**
 
 In box **Enable**, there are 2 options for admin to choose: **Yes** or **No**. Choose **Yes** to enable the module, choose **No** to disable it.
 
@@ -41,7 +41,7 @@ In box **Enable**, there are 2 options for admin to choose: **Yes** or **No**. C
 
 Save the configuration by clicking on **Save config** button on the right of the page.
 
-**2.1.2. Header displaying**
+**1.2. Header displaying**
 
 To set up the display of header of your unboxed page on frontend, please follow these instructions.
 
@@ -67,7 +67,7 @@ That is an example for the page header displaying on frontend:
 
 .. image:: images/unboxed_1_5.jpg
 
-**2.1.3. Footer displaying**
+**1.3. Footer displaying**
 
 The module allows admin to configure footer of the page with place special links and social media links.
 
@@ -91,10 +91,10 @@ That is an example for the page footer displaying on frontend:
 
 .. image:: images/unboxed_1_6.jpg
 
-2.2. Manage/Edit/Upload image by admin
+2. Manage/Edit/Upload image by admin
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**2.2.1. Manage image**
+**2.1. Manage image**
 
 As an admin, you can manage all pictures uploaded. To find and manage all pictures, go to tab **Unboxed** on the top (beside tab System), then click 
 on **Unboxed -> Manage**
@@ -106,7 +106,7 @@ After that, pictures uploaded by all users will appear in a page like this:
 From this page, you can find customer's basic information (customer name, customer email), pictures are uploaded by which customers, picture uploading time and 
 picture status. You also can filter picture by uploading time, picture ID, customer name, customer email…
 
-**2.2.2. Edit image**
+**2.2. Edit image**
 
 * **Step 1:** To edit pictures from admin, find the picture you want to edit on the list and then click on Edit button: 
 
@@ -161,7 +161,7 @@ to the top to see the all comments added to the picture:
 
 After all these steps, you have done picture edits. Click on **Save** button to save the result after editing. Go to front end, reload the page and see the change.
 
-**2.2.3. Upload new image**
+**2.3. Upload new image**
 
 * **Step1:** To upload new image by admin, click on **Add new** button on the right of the page.
 
