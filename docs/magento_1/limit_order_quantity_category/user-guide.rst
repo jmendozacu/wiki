@@ -18,13 +18,13 @@ Go to **System -> Configuration -> BSSCOMMERCE -> Min/Max Order Quantity per Cat
 
 .. image:: images/limit_order_quantity_category.jpg
 
-1.	In **Enable**: 
-^^^^^^^^^^^^^^^^^^
+1.	In Enable: 
+^^^^^^^^^^^^^^
 
 	Choose **Yes** to enable module or choose **No** to disable it
 
-2.	In **Show Category**: 
-^^^^^^^^^^^^^^^^^^^^^^^^^
+2.	In Show Category: 
+^^^^^^^^^^^^^^^^^^^^^
 
 * Choose **Yes** to display all product category in the shoppingcart.
 
@@ -32,15 +32,15 @@ Go to **System -> Configuration -> BSSCOMMERCE -> Min/Max Order Quantity per Cat
 * Choose **No** to hide product category
 
 
-3.	In **Messages Limit Max**:
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+3.	In Messages Limit Max:
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 You can change the notification messages when maximum required order quantity per category is not met (This message locates at the top left corner of the Shopping Cart). Without any 
 changes,default message will be shown as: The max quantity allowed for purchase at category{category_name} is {qty_limit} [ Product Name : {product_name} ]
 
 
-4.	In **Messages Limit Min**:
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+4.	In Messages Limit Min:
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 You can change the notification messages when minimum required order quantity per category is not met. Without any changes, default message will be shown as: The min 
 quantity allowed for purchase at category {category_name} is {qty_limit} [ Product Name : {product_name}]
