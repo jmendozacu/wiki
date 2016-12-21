@@ -9,7 +9,8 @@ BSSCommerce Wiki latest documentation
 
     general/faq
     general/license
-    general/installation
+    general/installation_m1
+    general/installation_m2
     general/uninstallation
     general/translation
     general/upgrade
