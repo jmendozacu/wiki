@@ -11,7 +11,7 @@ Installation Guide for Magento 1 Extensions
 When you finish purchasing process, we will immediately send you an email that includes the link to download the extension.
 On the other hand, you can `log in <https://bsscommerce.com/customer/account/login/>`_ your account, in `My Downloadable Products <https://bsscommerce.com/downloadable/customer/products/>`_ section, click on **Download Link** to download the extension.
 
-.. image:: images/intallation_giude/bss_installation_guide_1.jpg
+.. image:: images/bss_installation_guide_1.jpg
 
 
 :step:`Step 2:`
@@ -29,9 +29,9 @@ Turn off Magento Compilation by navigating to System-Tools-Compilation or you ca
  
 It's required to disable cache in the administration panel of your site. Go to **System/Cache Management**. Select all caches and click **"Disable"** then submit.   
 
-.. image:: images/intallation_giude/installation_guide_1.jpg
+.. image:: images/installation_guide_1.jpg
 
-.. image:: images/intallation_giude/BSS-Installation-guidance-2.jpg
+.. image:: images/BSS-Installation-guidance-2.jpg
 
 
 :step:`Step 5:`
@@ -43,14 +43,14 @@ Use FTP client (such as Filezilla, WinSCP, cuteFtp) to upload or copy all folder
 
 After uploading is done, **log in your Magento administration** panel to refresh cache. Go to **System/Cache Management**. Select all caches and take action **"Refresh"** then submit.
 
-.. image:: images/intallation_giude/installation_guide_3.jpg
+.. image:: images/installation_guide_3.jpg
 
 
 :step:`Step 7:`
 
 Navigate to **System/Configuration**, if you can see the extension tab, it isinstalled properly.   
 
-.. image:: images/intallation_giude/installation_guide_4.jpg
+.. image:: images/installation_guide_4.jpg
 
 
 :step:`Step 8:`
