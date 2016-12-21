@@ -15,7 +15,7 @@ Please go to **BSS COMMERCE -> Methods for Customer Group -> Payment / Shipping*
 
 .. image:: images/shipping_payment_method_m2_1.jpg
 
-1.	InPayment
+1.	In Payment
 ^^^^^^^^^^^^^
 
 In **Payment Methods**, choose one or multiple customer groups in each of enabled payment methods available.
@@ -26,7 +26,7 @@ Then, click **Submit button** to save all figuration.
 
 .. image:: images/shipping_payment_method_m2_3.jpg
 
-2.	InShipping
+2.	In Shipping
 ^^^^^^^^^^^^^^
 
 In **Shipping Methods**, select one or multiple customer groups in each of enabled shipping methods available.
