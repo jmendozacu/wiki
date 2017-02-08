@@ -34,7 +34,7 @@ Run: php bin/magentosetup:upgrade
 
 Run: php bin/magentosetup:static-content:deploy
 
-:step:`Step 4:`
+:step:`Step 6:`
 
 Clear all Cache
 	
