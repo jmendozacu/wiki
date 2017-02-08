@@ -9,39 +9,34 @@ Installation Guide for Magento 2 Extensions
 
 :step:`Step 1:`
 
-Copy code to magento 2 root folder .
+Unzip the file
 
 :step:`Step 2:`
 
-run php bin/magento setup:upgrade in ssh in folder root of magento 2. 
+Create another directory called app/code/Bss/MODULENAME/ where MODULENAME must be replaced by the modules internal identifier. You can find it in the "composer.json" file 
+in the extension ZIP file you downloaded, look at the node "psr-4". 
 
-login to ssh 
-	
-cd <magento>/<root>/<folder> 
-	
-php bin/magento setup:upgrade
+For example, it could say "Bss\\AjaxCart\\" or "Bss\\OneStepCheckout\\" there, then the MODULENAME is the part after \\ and before \\, so in our examples AjaxCart" or "OneStepCheckout". This 
+is what you call the directory, then, for example app/code/Bss/AjaxCart, and you put the contents of the extension ZIP file in there.
 
 :step:`Step 3:`
 
-deloy statis content. 
-
-login to ssh
-	
-cd <magento>/<root>/<folder>
-	
-php bin/magento setup:static-content:deploy
+Upload the directory app/code/Bss/MODULENAME/ into the root directory of your Magento installation. The root directory of Magento is the directory that contains the
+directories "app", "bin", "lib" and more. All directories should match the existing directory structure.
 	
 :step:`Step 4:`
 
-delete folder var
+Go to Magento 2 root directory.
 
-login to ssh 
- 
-cd <magento>/<root>/<folder> 
- 
-cd var
- 
-rm –Rf *
+Run: php bin/magentosetup:upgrade
+
+:step:`Step 5:`
+
+Run: php bin/magentosetup:static-content:deploy
+
+:step:`Step 4:`
+
+Clear all Cache
 	
 :step:`*Note`
 
