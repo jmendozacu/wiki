@@ -20,9 +20,13 @@ and insert code snippet behind this line:
 
 .. literalinclude:: code_examples/magento_leftjoin_step3.py
 	
-**- You use this code to insert**: 
+**- Then, you insert the following code behind that line:**: 
 
 .. literalinclude:: code_examples/magento_step3.py
+
+** => After inserting, you will have a code snippet as below: **
+
+.. literalinclude:: code_examples/magento_codesnippet_step3.py
 
 **Step 4:** 
 
@@ -34,7 +38,7 @@ Open file **app/code/local/Mage/Catalog/Model/Product/Attribute/Backend/Grouppri
 
 .. literalinclude:: code_examples/megento_group_price_step5.py
 
-**- You use this code to insert**: 
+**- Then, you insert the following code behind that line:**: 
 
 .. literalinclude:: code_examples/magento_step5.py
 
@@ -55,8 +59,12 @@ and insert a code snippet behind this line:
 
 .. literalinclude:: code_examples/magento1.5_join_step3.py
 
-**- You use this code to insert**:
+**- Then, you insert the following code behind that line**:
 
 .. literalinclude:: code_examples/magento1.5_step3.py
+
+**=>  After inserting, you will have a code snippert as below:**
+
+.. literalinclude:: code_examples/magento1.5_codesnippet_step3.py
 
 *Note: This installation guide is only used for Magento Multiple Store View Pricing version 2.1.6*
