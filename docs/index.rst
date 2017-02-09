@@ -84,6 +84,7 @@ BSSCommerce Wiki latest documentation
    magento_2/minmax_order_quantity_m2/index
    magento_2/multi_store_pricing_m2/index
    magento_2/order_delivery_date_m2/index
+   magento_2/previous_next_product_page_m2/index
    magento_2/shipping_payment_method_m2/index
    magento_2/wholesale_fast_order_m2/index
    
