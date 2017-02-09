@@ -20,11 +20,11 @@ and insert code snippet behind this line:
 
 .. literalinclude:: code_examples/magento_leftjoin_step3.py
 	
-**- Then, you insert the following code behind that line:**: 
+**- Then, you insert the following code behind that line:**
 
 .. literalinclude:: code_examples/magento_step3.py
 
-** => After inserting, you will have a code snippet as below: **
+**=> After inserting, you will have a code snippet as below: **
 
 .. literalinclude:: code_examples/magento_codesnippet_step3.py
 
@@ -38,7 +38,7 @@ Open file **app/code/local/Mage/Catalog/Model/Product/Attribute/Backend/Grouppri
 
 .. literalinclude:: code_examples/megento_group_price_step5.py
 
-**- Then, you insert the following code behind that line:**: 
+**- Then, you insert the following code behind that line:**
 
 .. literalinclude:: code_examples/magento_step5.py
 

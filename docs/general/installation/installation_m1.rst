@@ -4,7 +4,8 @@ Installation Guide for Magento 1 Extensions
 .. role:: step
 
 .. role:: mail
-	
+
+.. role:: note
 	
 :step:`Step 1:`
 	
@@ -52,6 +53,7 @@ Navigate to **System/Configuration**, if you can see the extension tab, it isins
 
 .. image:: images/installation_guide_4.jpg
 
+:note:`*Note`: Some extensions don't have Configuration in BSSCOMMERCE section of CATALOG tab. Therefore, please take a look their User guides for better usage. 
 
 :step:`Step 8:`
 
@@ -78,6 +80,7 @@ You also can see the example about installation guide for `Store Locator <http:/
    <style>
 		.step{font-size:125%; font-weight: bold;}
 		.mail{text-decoration: none; color: #3091d1;}
+		.note {font-weight:bold;}
 		p {text-align: justify;}
 		a[class='reference external'] {font-weight:bold; text-decoration:underline;}
    </style>
