@@ -91,6 +91,7 @@ BSSCommerce Wiki latest documentation
    magento_2/quick_view_m2/index
    magento_2/reorder_product_list_m2/index
    magento_2/shipping_payment_method_m2/index
+   magento_2/shopping_cart_price_rule_store_view_m2/index
    magento_2/wholesale_fast_order_m2/index
    
 
