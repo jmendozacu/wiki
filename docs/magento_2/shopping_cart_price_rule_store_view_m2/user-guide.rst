@@ -1,7 +1,7 @@
 User Guide
 =============
 
-.. role:: attention
+.. role:: remark
 
 
 Shopping Cart Price Rule per Store View for Magento 2 Overview
@@ -76,7 +76,7 @@ Finally, you save the rule and see how it is applied in the frontend:
 
 .. image:: images/shopping_cart_rule_store_view_10.jpg
 
-:attention:`*Note`: For more understandings about how to create a shopping cart price rule for Magento 2, you can take a look at our following tutorial: 
+:remark:`*Note`: For more understandings about how to create a shopping cart price rule for Magento 2, you can take a look at our following tutorial: 
 	
 `How to Create Shopping Cart Price Rule for Magento 2 <http://bsscommerce.com/blog/how-to-create-shopping-cart-price-rule-in-magento-2/>`_
 	
@@ -85,6 +85,6 @@ Finally, you save the rule and see how it is applied in the frontend:
 
    <style>
 		p {text-align: justify;}
-		.attention {font-weight: bold;}
+		.remark {font-weight: bold;}
    </style>
 
