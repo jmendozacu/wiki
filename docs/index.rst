@@ -88,6 +88,7 @@ BSSCommerce Wiki latest documentation
    magento_2/one_step_checkout_m2/index
    magento_2/order_delivery_date_m2/index
    magento_2/previous_next_product_page_m2/index
+   magento_2/quick_view_m2/index
    magento_2/reorder_product_list_m2/index
    magento_2/shipping_payment_method_m2/index
    magento_2/wholesale_fast_order_m2/index

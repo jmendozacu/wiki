@@ -3,7 +3,7 @@ Changelog
 
 .. role:: red
 
-	:red:`v1.0.0:` First Release
+:red:`v1.0.0:` First Release
 	
 .. raw:: html
 

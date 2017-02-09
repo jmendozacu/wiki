@@ -16,7 +16,7 @@ You copy file **app/code/core/Mage/Catalog/Model/Resource/Product/Collection.php
 **Step 3:**  
 
 Open file **app/code/local/Mage/Catalog/Model/Resource/Product/Collection.php**, search **"protected function _productLimitationPrice($joinLeft = false)"** 
-and insert code snippet behind this line:
+and find this line:
 
 .. literalinclude:: code_examples/magento_leftjoin_step3.py
 	
@@ -34,7 +34,7 @@ Copy file **app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Grouppric
 
 **Step 5:** 
 
-Open file **app/code/local/Mage/Catalog/Model/Product/Attribute/Backend/Groupprice/Abstract.php** , search **"public function afterLoad($object)"** and insert a code snippet behind this line:
+Open file **app/code/local/Mage/Catalog/Model/Product/Attribute/Backend/Groupprice/Abstract.php** , search **"public function afterLoad($object)"** and find this line:
 
 .. literalinclude:: code_examples/megento_group_price_step5.py
 
@@ -55,7 +55,7 @@ You copy file **app/code/core/Mage/Catalog/Model/Resource/Eav/Mysql4/Product/Col
 **Step 2:**
 
 Open file **app/code/local/Mage/Catalog/Model/Resource/Eav/Mysql4/Product/Collection.ph**, search **"protected function _productLimitationJoinPrice()"** 
-and insert a code snippet behind this line: 
+and find this line: 
 
 .. literalinclude:: code_examples/magento1.5_join_step3.py
 
