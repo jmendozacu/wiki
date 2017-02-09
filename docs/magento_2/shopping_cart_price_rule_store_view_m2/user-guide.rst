@@ -1,7 +1,7 @@
 User Guide
 =============
 
-.. role:: note_step
+.. role:: attention
 
 
 Shopping Cart Price Rule per Store View for Magento 2 Overview
@@ -38,7 +38,7 @@ Take 2 following examples to see how Shopping Cart Price Rule per Store View for
 	
 	*	Select customer groups to apply. 
 
-.. image:: images/shopping_cart_rule_store_view_2.jpg
+	.. image:: images/shopping_cart_rule_store_view_2.jpg
 	
 	*	Set up Coupon, Uses per Customers, Valid Time and Priority for this rule.
 
@@ -76,7 +76,7 @@ Finally, you save the rule and see how it is applied in the frontend:
 
 .. image:: images/shopping_cart_rule_store_view_10.jpg
 
-:note_step:`*Note`: For more understandings about how to create a shopping cart price rule for Magento 2, you can take a look at our following tutorial: 
+:attention:`*Note`: For more understandings about how to create a shopping cart price rule for Magento 2, you can take a look at our following tutorial: 
 	
 `How to Create Shopping Cart Price Rule for Magento 2 <http://bsscommerce.com/blog/how-to-create-shopping-cart-price-rule-in-magento-2/>`_
 	
@@ -85,6 +85,6 @@ Finally, you save the rule and see how it is applied in the frontend:
 
    <style>
 		p {text-align: justify;}
-		.note_step {font-weight:bold;}
+		.attention {font-weight: bold;}
    </style>
 
