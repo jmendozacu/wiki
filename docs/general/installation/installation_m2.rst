@@ -28,11 +28,11 @@ directories "app", "bin", "lib" and more. All directories should match the exist
 
 Go to Magento 2 root directory.
 
-Run: php bin/magentosetup:upgrade
+Run: php bin/magento setup:upgrade
 
 :step:`Step 5:`
 
-Run: php bin/magentosetup:static-content:deploy
+Run: php bin/magento setup:static-content:deploy
 
 :step:`Step 6:`
 

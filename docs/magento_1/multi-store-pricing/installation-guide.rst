@@ -24,7 +24,7 @@ and insert code snippet behind this line:
 
 .. literalinclude:: code_examples/magento_step3.py
 
-**=> After inserting, you will have a code snippet as below: **
+**=> After inserting, you will have a code snippet as below:**
 
 .. literalinclude:: code_examples/magento_codesnippet_step3.py
 
