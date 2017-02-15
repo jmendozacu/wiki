@@ -63,7 +63,7 @@ Topics
 
 `31.  How To Create Shopping Cart Price Rule in Magento 2 <http://bsscommerce.com/blog/how-to-create-shopping-cart-price-rule-in-magento-2/>`_
 
-`30.  How to Create Catalog Price Rules in Magento 2 <http://bsscommerce.com/blog/how-to-create-catalog-price-rules-in-magento-2/>`_
+`32.  How to Create Catalog Price Rules in Magento 2 <http://bsscommerce.com/blog/how-to-create-catalog-price-rules-in-magento-2/>`_
 
 
 
