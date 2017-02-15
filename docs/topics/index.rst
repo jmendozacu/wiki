@@ -49,6 +49,22 @@ Topics
 
 `24.  Easy Steps to Set Up Minimum Order Amount in Magento 2 in 2 Minutes <http://bsscommerce.com/blog/easy-steps-to-set-up-minimum-order-amount-in-magento-2/>`_
 
+`25.  How to Set Up Shipping Methods in Magento 2 (Part 2) <http://bsscommerce.com/blog/how-to-set-up-shipping-methods-in-magento-2-part-2/>`_
+
+`26.  Simple Steps to Set Minimum and Maximum Order Quantity in Magento 2 <http://bsscommerce.com/blog/simple-steps-to-set-minimum-and-maximum-order-quantity-in-magento-2/>`_
+
+`27.  Magento 1 Tutorial: How to Import Price Per Store View <http://bsscommerce.com/blog/magento-1-tutorial-how-to-import-price-per-store-view/>`_
+
+`28.  How to Manage Currency Symbol and Currency Rate in Magento 2 <http://bsscommerce.com/blog/how-to-manage-currency-symbol-and-currency-rate-in-magento-2/>`_
+
+`29.  How To Set Minimum Quantity for Configurable Product <http://bsscommerce.com/blog/how-to-set-minimum-quantity-for-configurable-product/>`_
+
+`30.  How to Set up Multiple Languages and Currencies in Magento 1 and 2 <http://bsscommerce.com/blog/how-to-set-up-multiple-languages-and-currencies-in-magento-1-and-2/>`_
+
+`31.  How To Create Shopping Cart Price Rule in Magento 2 <http://bsscommerce.com/blog/how-to-create-shopping-cart-price-rule-in-magento-2/>`_
+
+`30.  How to Create Catalog Price Rules in Magento 2 <http://bsscommerce.com/blog/how-to-create-catalog-price-rules-in-magento-2/>`_
+
 
 
 
