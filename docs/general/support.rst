@@ -1,7 +1,7 @@
 Supports
 ==============
 
-BSSCommerce offers Free 1-year support for all customers to choose when purchasing Magento extensions. 
+BSSCommerce offers Free 1-year support for all customers when purchasing Magento extensions. 
  
 Please notice that we just provide support **for only a domain** for each purchasing time of customers. Support 
 includes answering any question related to our products and fixing any bug/error caused by our products which is reported by customers to make sure 
