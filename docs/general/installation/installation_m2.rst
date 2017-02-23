@@ -49,7 +49,7 @@ in resolving any issues within 24 hours.
 
 Installation guides for Magento 2 extensions purchased from `Magento Marketplace <https://marketplace.magento.com/developer/Bsscommerce>`_ 
 
- You can also see an example about the installation guide of `Quick View for Magento 2 extension <http://bsscommerce.com/magento-2-quick-view.html>`_ in the following video:
+You can also see an example about the installation guide of `Quick View for Magento 2 extension <http://bsscommerce.com/magento-2-quick-view.html>`_ in the following video:
 
 
 .. raw:: html
