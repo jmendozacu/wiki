@@ -16,13 +16,19 @@ Unzip the file
 Create another directory called app/code/Bss/MODULENAME/ where MODULENAME must be replaced by the modules internal identifier. You can find it in the "composer.json" file 
 in the extension ZIP file you downloaded, look at the node "psr-4". 
 
+.. image:: images/step 2_1.png
+
 For example, it could say "Bss\\AjaxCart\\" or "Bss\\OneStepCheckout\\" there, then the MODULENAME is the part after \\ and before \\, so in our examples AjaxCart" or "OneStepCheckout". This 
 is what you call the directory, then, for example app/code/Bss/AjaxCart, and you put the contents of the extension ZIP file in there.
+
+.. image:: images/step 2_2.png
 
 :step:`Step 3:`
 
 Upload the directory app/code/Bss/MODULENAME/ into the root directory of your Magento installation. The root directory of Magento is the directory that contains the
 directories "app", "bin", "lib" and more. All directories should match the existing directory structure.
+
+.. image:: images/step 3.png
 	
 :step:`Step 4:`
 
@@ -30,9 +36,13 @@ Go to Magento 2 root directory.
 
 Run: php bin/magento setup:upgrade
 
+.. image:: images/step 4.png
+
 :step:`Step 5:`
 
 Run: php bin/magento setup:static-content:deploy
+
+.. image:: images/step 5.png
 
 :step:`Step 6:`
 
