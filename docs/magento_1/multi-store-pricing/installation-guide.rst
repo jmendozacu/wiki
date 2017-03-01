@@ -5,8 +5,8 @@ Installation Guide
 1. For Multiple Store View Pricing version < 2.2.1
 --------------------------------------------------
 
-For Magento 1.6 and above
-^^^^^^^^^^^^^^^^^^^^^^^^^
+1.1 For Magento 1.6 and above
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Step 1:**
 
@@ -47,8 +47,8 @@ Open file **app/code/local/Mage/Catalog/Model/Product/Attribute/Backend/Grouppri
 
 (You can see the example file in the example folder if you have not still got it well and please note that you use it only for Magento 1.9.2.x)
 
-For Magento 1.5 
-^^^^^^^^^^^^^^^
+1.2 For Magento 1.5 
+^^^^^^^^^^^^^^^^^^^^
 
 **Step 1:**
 
