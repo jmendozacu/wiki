@@ -16,14 +16,14 @@ if(Mage::helper('core')->isModuleEnabled('Bss_MultiStoreViewPricing') &&
             if($tier_default == 1) {
                 $use_tier_default = true;
             }else {
-			    $tier_default = Mage::getModel('multistoreviewpricing/tierDefault')->getCollection()
-			        ->addFieldToSelect('*')
-			        ->addFieldToFilter('product_id', $object->getId())
-			        ->addFieldToFilter('store_id', $storeId)
-			        ->getFirstItem();
-			    if($tier_default && $tier_default->getId() != '' && $tier_default->getStatus() == 0) {
-			        $use_tier_default = true;
-			    }
+			  $tier_default = Mage::getModel('multistoreviewpricing/tierDefault')->getCollection()
+			    ->addFieldToSelect('*')
+			    ->addFieldToFilter('product_id', $object->getId())
+			    ->addFieldToFilter('store_id', $storeId)
+			    ->getFirstItem();
+			  if($tier_default && $tier_default->getId() != '' && $tier_default->getStatus() == 0) {
+			    $use_tier_default = true;
+			  }
             }
 
             if($use_tier_default) {
