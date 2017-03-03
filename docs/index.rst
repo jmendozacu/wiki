@@ -11,7 +11,7 @@ BSSCommerce Wiki latest documentation
     general/license
     general/installation/index
     general/uninstallation
-    general/translation
+    general/translation/index
     general/upgrade
     general/purchase-payment-invoices
     general/support
