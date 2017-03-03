@@ -1,9 +1,9 @@
-Translation
-===========
+Translation Guide for Magento 1 Extensions
+===========================================
 
 
-Guidance to translate text in the module
-----------------------------------------
+Guidance to translate text in Magento 1 extensions
+--------------------------------------------------
 
 To translate text in a custom module, you can use a language translation csv file.  
 
@@ -20,7 +20,7 @@ After identifying the language folder of the site, you copy the **name_of_the_mo
 
 In this file, you will see all text of the module displayed in 2 columns like below:
 
-.. image:: images/translation/translation1.jpg
+.. image:: images/translation1.jpg
 
 (This is an example when opening the Bss_FastOrder.csv file of Magento Wholesale Fast Order extension by BSS)
 
