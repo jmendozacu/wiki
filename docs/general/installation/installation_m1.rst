@@ -76,7 +76,7 @@ You also can see the example about installation guide for `Store Locator <http:/
 
 .. raw:: html
 
-   <iframe width="560" height="315" style="margin-left:calc(25% - 	100px); margin-bottom: 30px" src="https://www.youtube.com/embed/8mmGt24cU_0" frameborder="0" allowfullscreen></iframe>
+   <iframe width="560" height="315" style="margin-left:calc(25% - 	100px); margin-bottom: 30px" src="https://www.youtube.com/embed/hGikzwrC3BI" frameborder="0" allowfullscreen></iframe>
    <style>
 		.step{font-size:125%; font-weight: bold;}
 		.mail{text-decoration: none; color: #3091d1;}
