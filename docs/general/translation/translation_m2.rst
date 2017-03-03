@@ -1,10 +1,6 @@
 Translation Guide for Magento 2 Extensions
 ===========================================
 
-
-Guidance to translate text in Magento 2 extensions
---------------------------------------------------
-
 To translate text in a custom module, you can use a language translation csv file.  
 
 **Step 1: You access the app/code/Bss/name_of_the_module/i18n/en_US.csv folder**
