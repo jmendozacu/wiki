@@ -20,7 +20,7 @@ frontend. You can select **multiple store views** to carry out setup at one time
 
 Take 2 following examples to see how Shopping Cart Price Rule per Store View for Magento 2 can function in details. 
 
-* **Example 1: Set up a rule “20% OFF for all products belonging category Bag” for English store view.**
+* **Example 1: Set up a rule "20% OFF for all products belonging category Bag" for English store view.**
 
 .. image:: images/catalog_price_rule_per_store_view_m2_1.jpg
 
@@ -44,7 +44,7 @@ Finally, you Save  and Apply the rule and then see how it is applied in the fron
 
 .. image:: images/catalog_price_rule_per_store_view_m2_4.jpg
 
-* **Example 2: Set up a rule “10% discount for all products belonging category Bag” for French store view.**
+* **Example 2: Set up a rule "10% discount for all products belonging category Bag" for French store view.**
 
 You do the same steps as in Example 1 but you need to choose French store view to set up in Store Views section.
 
@@ -62,7 +62,7 @@ Finally, you Save  and Apply the rule and then see how it is applied in the fron
 
 .. image:: images/catalog_price_rule_per_store_view_m2_8.jpg
 
-:step:`*Note`: To know how to create a shopping cart price rule for Magento 2, let's take a look at our following tutorial: `How to Create Catalog Price Rules in Magento 2 <https://bsscommerce.com/catalog-price-rule-per-store-view-for-magento-2.html>`_.
+:step:`*Note`: To know how to create a shopping cart price rule for Magento 2, let's take a look at our following tutorial: `How to Create Catalog Price Rules in Magento 2 <https://bsscommerce.com/blog/how-to-create-catalog-price-rules-in-magento-2/>`_.
 
 .. raw:: html
 
