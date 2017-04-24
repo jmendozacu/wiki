@@ -4,7 +4,7 @@ User Guide
 Custom Option Image for Magento 2 Extension Overview
 -----------------------------------------------------
 
-`Custom Option Image for Magento 2 extension <https://bsscommerce.com/catalog-price-rule-per-store-view-for-magento-2.html>`_ allows admin to add images/colors to custom options 
+`Custom Option Image for Magento 2 extension <https://bsscommerce.com/magento2-custom-option-image.html>`_ allows admin to add images/colors to custom options 
 of products. It supports uploading unlimited images and assigning to custom option of different types, such as drop-down, multiple select, checkbox, radio button. 
 
 How Does Custom Option Image for Magento 2 Extension Work?
