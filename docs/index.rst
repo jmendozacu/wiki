@@ -74,6 +74,7 @@ BSSCommerce Wiki latest documentation
    magento_2/checkout_custom_field_m2/index
    magento_2/checkout_with_display_currency_m2/index
    magento_2/configurable_grid_table_m2/index
+   magento_2/configurable_product_wholesale_display_m2/index
    magento_2/defer_javascript_m2/index
    magento_2/delete_order_m2/index
    magento_2/frontend_cancel_orders_m2/index
