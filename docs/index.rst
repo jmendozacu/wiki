@@ -70,6 +70,7 @@ BSSCommerce Wiki latest documentation
    magento_2/ajax_social_login_m2/index
    magento_2/anz_payment_m2/index
    magento_2/auto_invoice_m2/index
+   magento_2/catalog_price_rule_per_store_view_m2/index
    magento_2/checkout_custom_field_m2/index
    magento_2/configurable_grid_table_m2/index
    magento_2/defer_javascript_m2/index
