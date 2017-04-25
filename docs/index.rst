@@ -79,6 +79,7 @@ BSSCommerce Wiki latest documentation
    magento_2/defer_javascript_m2/index
    magento_2/delete_order_m2/index
    magento_2/dynamic_html_sitemap_m2/index
+   magento_2/frequently_bought_together_m2/index
    magento_2/frontend_cancel_orders_m2/index
    magento_2/grouped_product_with_custom_options_m2/index
    magento_2/hide_price_call_for_price_m2/index
