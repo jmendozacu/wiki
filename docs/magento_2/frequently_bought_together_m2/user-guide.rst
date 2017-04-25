@@ -103,8 +103,7 @@ When adding products in Frequently Bought Together list to cart, the extension w
 are two ways to add product in Frequently Bought Together list to cart:
 
 	* Add each product to cart separately: Display success pop-up, choose option/quantity in pop-up for product with options. 
-	* Add multiple products to cart: Tick on products and click "Add Multiple to Cart" button. The products added to cart successfully will be displayed 
-	in slider of success pop-up. For products with options, customer can select options/quantity right from pop-up. 
+	* Add multiple products to cart: Tick on products and click "Add Multiple to Cart" button. The products added to cart successfully will be displayed in slider of success pop-up. For products with options, customer can select options/quantity right from pop-up. 
 
 .. image:: images/frequently_bought_together_m2_8.jpg
 
