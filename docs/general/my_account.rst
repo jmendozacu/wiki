@@ -1,5 +1,8 @@
+My Account
+===========
+
 Change or reset your password
-=============================
+-----------------------------
 	
 Your password is the key to not only logging into your account, but also to changing your private information such as username or email address and your account 
 setting. Therefore, it is vital that you keep your passwords safe. This guided assistance article will help you change your password for security reasons or reset it if you forget it.
