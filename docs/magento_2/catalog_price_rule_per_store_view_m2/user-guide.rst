@@ -62,7 +62,7 @@ Finally, you Save  and Apply the rule and then see how it is applied in the fron
 
 .. image:: images/catalog_price_rule_per_store_view_m2_8.jpg
 
-:step:`*Note`: To know how to create a shopping cart price rule for Magento 2, let's take a look at our following tutorial: `How to Create Catalog Price Rules in Magento 2 <https://bsscommerce.com/blog/how-to-create-catalog-price-rules-in-magento-2/>`_.
+:step:`*Note`: To know how to create a catalog price rule for Magento 2, let's take a look at our following tutorial: `How to Create Catalog Price Rules in Magento 2 <https://bsscommerce.com/blog/how-to-create-catalog-price-rules-in-magento-2/>`_.
 
 .. raw:: html
 
