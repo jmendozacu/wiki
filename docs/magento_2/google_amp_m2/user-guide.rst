@@ -192,6 +192,5 @@ In **Custom CSS for Home Page/ Category Page/Product Page/**: Set the CSS for ea
 
    <style>
 		p {text-align: justify;}
-		.step{font-size:125%; font-weight: bold;}
    </style>
 
