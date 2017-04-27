@@ -57,7 +57,7 @@ We hope this article is helpful for you. If you don't succeed in changing or res
 
 **Skype: support.bsscommerce.**
 
-**Email: :mail:`support@bsscommerce.com`**
+**Email:** :mail:`support@bsscommerce.com`
 
 **Tel: +84 983513599**
 
