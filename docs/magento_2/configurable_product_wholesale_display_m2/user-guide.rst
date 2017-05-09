@@ -8,7 +8,7 @@ Configurable Product Wholesale Display for Magento 2 Overview
 products in a grid table view which allows wholesale customers to order and add all chosen items to cart at once. This extension not only enhances display for 
 configurable products, but helps customers simplify selecting items process as well. It absolutely deserves to be a brilliant solution for any Magento site for selling larger quantity.
 
-How does Configurable Product Wholesale Display for Magento 2Extension work?
+How does Configurable Product Wholesale Display for Magento 2 Extension work?
 ----------------------------------------------------------------------------
 
 1. Function of Configurable Product Wholesale Display for Magento2
@@ -51,7 +51,7 @@ shirts and 7 Black-XL shirts, tier price is now $40/shirt. Total amount is now $
 	
 For the above example, when using Magento default tier price calculation, total amount is determined as $450 because it is calculated based on each tier price of each children product (Tier price is equal to $45/shirt)
 
-* **PriceRange**:
+* **Price Range**:
 
 	- Choose **Yes** if you want to display Price Range for configurable product above thetable.
 	- If not, choose **No**.
