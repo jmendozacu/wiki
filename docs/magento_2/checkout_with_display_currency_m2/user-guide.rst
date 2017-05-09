@@ -53,7 +53,7 @@ You can see this image:
 :step:`*Note`:
 
 	* You should test with your Paypal test account on Test Mode to see how it pays with display currency of store views. 
-	* The module does not work with currencies that online payment methods don’t support.
+	* The module does not work with currencies that online payment methods don't support.
 
 **Example 2: Set up display currency for English store view**
 
