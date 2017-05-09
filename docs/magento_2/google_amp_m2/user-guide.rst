@@ -8,7 +8,7 @@ Google AMP -  Accelerated Mobile Pages is the hottest trending technology for a 
 seconds, the new mobile pages will increase user engagement on your store and drop the exit rate. `Google AMP Extension for Magento 2 <https://bsscommerce.com/google-amp-extension-for-magento-2.html>`_  by 
 BSSCommerceis an effective tool to generate and customize AMP pages for your site as your wishes.
 
-How Does Add Google AMP Extension for Magento 2 Work?
+How Does Google AMP Extension for Magento 2 Work?
 -----------------------------------------------------
 
 1. How to create and customize Magento 2 AMP pages
