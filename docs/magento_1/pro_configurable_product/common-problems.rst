@@ -6,7 +6,7 @@ Common Problems
 Common error with `Pro configurable product grid table view extension <http://bsscommerce.com/magento-pro-magento-configurable-product-grid-table-view.html>`_ is 
 conflict with ajax add to cart extension. The conflict is shown with error message "Please specify the product's option(s)"
 
-Please find below some ways to fix this issue with some ajax add to cart extension from various extension’s provider.
+Please find below some ways to fix this issue with some ajax add to cart extension from various extensionâ€™s provider.
 
 **1. Conflict with Smartwave_Ajaxcart**
 
@@ -14,9 +14,9 @@ Edit file : Smartwave/Ajaxcart/controller/IndexController.php
 	
 	* Edit function addAction();
 	
-	* Edit extends => Bss_ConfigurableProductTabTable_CartController
+	* Edit extends => Bss_Configurablegridview_CartController
 
-Sample file: https://www.dropbox.com/s/r1d0eddma7jfhqy/IndexController.php?dl=0
+Sample file: https://www.dropbox.com/s/2q41oq312h9byf9/IndexController.php?dl=0
 
 
 **2. Conflict with PT_Ajax**
