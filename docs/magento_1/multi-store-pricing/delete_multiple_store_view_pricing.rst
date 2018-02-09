@@ -5,15 +5,11 @@ How to Delete Multiple Store View Pricing extension
 
 You change Catalog Price Scope  to Website or Global 
 
-**Step 2:**
-
-Go to **Admin -> Catalog-> Attributes -> Manage Attributes**
+**Step 2: Go to Admin -> Catalog-> Attributes -> Manage Attributes**
  
 You need to delete 2 attributes with attribute code as "tier_price_for_store" and  "group_price_for_store"
 
-**Step 3:**
-
-Setup base currency again by navigating to **Admin -> System -> Configuration -> Currency Setup -> Base Currency**
+**Step 3: Setup base currency again by navigating to Admin -> System -> Configuration -> Currency Setup -> Base Currency**
 
 **Step 4: Delete product prices at each store view**
 
