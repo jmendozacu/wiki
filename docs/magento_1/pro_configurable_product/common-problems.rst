@@ -16,7 +16,7 @@ Edit file : Smartwave/Ajaxcart/controller/IndexController.php
 	
 	* Edit extends => Bss_Configurablegridview_CartController
 
-Sample file: https://www.dropbox.com/s/2q41oq312h9byf9/IndexController.php?dl=0
+Sample file: https://www.dropbox.com/s/1n8krxcwo0tvmpu/IndexController.php?dl=0
 
 
 **2. Conflict with PT_Ajax**
