@@ -8,6 +8,7 @@ Update Module in Magento 1 Manually
 .. role:: remark
 
 **Update module via FTP**
+
 Extract module’s file, place this file into code folder of Magento site:
 
 .. image:: images/update-module-m1.PNG
