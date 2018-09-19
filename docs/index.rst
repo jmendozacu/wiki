@@ -13,7 +13,7 @@ BSSCommerce Wiki latest documentation
     general/uninstallation
     general/translation/index
     general/my_account
-    general/upgrade
+    general/upgrade/index
     general/purchase-payment-invoices
     general/support
 
