@@ -10,7 +10,7 @@ Here's our steps to uninstall this module:
 php bin/magento module:disable <ExtensionProvider_ExtensionName> --clear-static-content
 php bin/magento setup:upgrade
 
-**Step 2**: Remove extension files
+**Step 2**: Remove extension files:
 
 cd app/code/<ExtensionProvider>/
 rm -rf <ExtensionName>
