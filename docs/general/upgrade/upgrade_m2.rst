@@ -1,7 +1,7 @@
 Update Module in Magento 2 Manually
 ==========================================================
 
-**I Extension Update via FTP/SSH**
+**I. Extension Update via FTP/SSH**
 
 
 If you have an odd extension on your Magento 2, update the module manually following the steps below.
@@ -34,7 +34,7 @@ Apply the commands to install it:
 
 Finally you should check again the function of module
 
-**II Extension Update via Composer**
+**II. Extension Update via Composer**
 
 
 The extension update process is the same as the module installation process. To update the extension, simply execute the command:
@@ -54,4 +54,4 @@ To update the version from 1.x.x to 2.x.x you need to execute the following comm
 Where x corresponds to the first version number. For example, to update the Improved Layered Navigation Extension for M2 from the 1.x.x version to the 2.x.x version you need to execute the command:
 
 
-**composer require amasty/shopby ^2.0.0 --update-with-dependencies**
+**composer require bsscommerce/defer-js ^2.0.0 --update-with-dependencies**
