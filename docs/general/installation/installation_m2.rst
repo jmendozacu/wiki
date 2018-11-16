@@ -50,6 +50,7 @@ Clear all Cache
 	
 :step:`*Note`
 
+If you have installed our extension via composer, please remove the module totally in vendor folder, delete line of module in composer.json and execute composer update before installing the updated version according to the guide above.
 After purchasing it, you should add our skype account at **support.bsscommerce** to contact us if you cannot install the extension by yourself. 
 BSS Support Team will help you to install the **Magento** module and the installation fee will follow our 
 `Terms and Condition <http://bsscommerce.com/terms-conditions>`_ in Installation Policy section. Further assistance is available via Email and Skype.
