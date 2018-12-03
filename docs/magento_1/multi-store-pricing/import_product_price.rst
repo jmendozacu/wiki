@@ -7,7 +7,7 @@ Import Product Price Per Store View
 	
 	* In Entity Type, choose Product
 	
-	* Skip unnecessary attributes. If you just want to make change to price attribute, you can skip all entity attributes except SKU, _store, price, special price
+	* Skip unnecessary attributes. If you just want to make change to price attribute, you can skip all entity attributes except SKU, price, special price
 	
 	.. image:: images/product_price.jpg
 
